@@ -1,0 +1,2196 @@
+Doc 0: acute threat fear movements threat response phases children risk anxiety: 27576271
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.48558357 0.43696815 0.43241274 0.431775 0.43068597 0.42773598 0.42697772 0.42639863 0.425683 0.3076854
+Sentence indices:  0 3 2 9 7 8 6 4 5 1
+
+=================================================================================
+
+Doc 1: acute threat fear predator odor evokes sex independent stress responses male female wistar rats reduces phosphorylation cyclic adenosine monophosphate response element binding protein male female hippocampus: 28599071
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5447522 0.30650142 0.25899315 0.24735616 0.23170364 0.22879587 0.22683957 0.20768774 0.16308567 0.12785308
+Sentence indices:  1 5 6 8 9 2 4 7 3 0
+
+=================================================================================
+
+Doc 2: acute threat fear interactions emotion anxiety visual working memory performance: 27981438
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.60734904 0.59811175 0.45608124 0.429634 0.42806512 0.3170663 0.28368384 0.22918431 0.20318076 0.20318076
+Sentence indices:  9 6 7 8 1 2 5 0 4 3
+
+=================================================================================
+
+Doc 3: acute threat fear evolution human fear circuitry acute sociogenic pseudoneurological symptoms neolithic balanced polymorphism hypothesis: 16111764
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.49318007 0.4476335 0.43381912 0.35500774 0.24341215 0.18900429 0.14290933 0.0 0.0
+Sentence indices:  0 2 1 3 4 5 7 8 6
+
+=================================================================================
+
+Doc 4: acute threat fear aggressive behaviour acute psychiatric wards prevalence severity management: 17445017
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.59811175 0.44420502 0.42549655 0.36160544 0.26369193 0.21726741 0.15160011 0.0 0.0 0.0 0.0
+Sentence indices:  2 10 1 3 0 7 6 9 8 5 4
+
+=================================================================================
+
+Doc 5: acute threat fear predicting negative emotional states onset acute coronary syndrome: 26613707
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.66164833 0.66164833 0.51234025 0.35525417 0.23189333 0.13361135 0.0
+Sentence indices:  3 1 5 0 6 4 2
+
+=================================================================================
+
+Doc 6: acute threat fear development psychometric investigation inventory assess fight flight freeze tendencies fight flight freeze questionnaire: 25365751
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.6706086 0.52584004 0.47352445 0.45933455 0.42980087 0.11376071 0.0
+Sentence indices:  0 3 4 2 6 5 1
+
+=================================================================================
+
+Doc 7: acute threat fear ventromedial hypothalamus mediates predator fear memory: 26991018
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.49113917 0.47656015 0.46778327 0.42943215 0.4267912 0.25079516
+Sentence indices:  0 4 1 3 5 2
+
+=================================================================================
+
+Doc 8: acute threat fear dynorphin stress depression: 19782055
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.49696046 0.3479658 0.23849717 0.18063729 0.17811258 0.17811258 0.17811258 0.17811258 0.17811255
+Sentence indices:  3 6 5 1 7 4 2 0 8
+
+=================================================================================
+
+Doc 9: acute threat fear panic disorder agoraphobia behavioral neuroscience perspective applying research principles formulated research domain criteria rdoc initiative: 26877119
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5679234 0.45401776 0.2914313 0.1637729 0.15230769 0.0 0.0
+Sentence indices:  1 2 0 3 6 5 4
+
+=================================================================================
+
+Doc 10: acute threat fear flexible attention deployment threatening contexts instructed fear conditioning study: 22390711
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.48567438 0.45048177 0.45048177 0.42997923 0.42997923 0.23165657 0.18665853 0.18665853 0.18665853 0.0
+Sentence indices:  9 5 2 7 4 1 6 3 0 8
+
+=================================================================================
+
+Doc 11: acute threat fear effects alcohol brain responses social signals threat humans: 21122818
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.4435197 0.42916477 0.4276565 0.42632648 0.42588848 0.20203598
+Sentence indices:  1 2 3 4 5 0
+
+=================================================================================
+
+Doc 12: acute threat fear single dose citalopram increases fear recognition healthy subjects: 17259206
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.47541305 0.36227462 0.35825452 0.28537133 0.2335415 0.20833066 0.118813425 0.11603366 0.0
+Sentence indices:  3 0 6 4 1 2 7 5 8
+
+=================================================================================
+
+Doc 13: acute threat fear role threat expectancy acute pain effects attentional bias coping strategy effectiveness response pain: 16298490
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.47878525 0.4565798 0.448861 0.42901444 0.42868787 0.42792767 0.42742342 0.42700163 0.4258811 0.4258811 0.25309393 0.22023423 0.16304347 0.0
+Sentence indices:  13 3 4 1 2 12 8 11 10 9 6 7 5 0
+
+=================================================================================
+
+Doc 14: acute threat fear amygdala reactivity anterior cingulate habituation predict posttraumatic stress disorder symptom maintenance acute civilian trauma: 28117048
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4523239 0.29473832 0.2801395 0.21841112 0.21841107 0.21695387 0.19471304 0.19373016 0.16871509 0.15963893 0.15963893 0.1364759 0.0
+Sentence indices:  2 8 0 10 4 9 1 11 7 12 3 5 6
+
+=================================================================================
+
+Doc 15: acute threat fear cross species study heterogeneity fear extinction learning relation variation expression implications acute treatment posttraumatic stress disorder: 28025095
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4519485 0.43063834 0.42693684 0.34956926 0.34857354 0.22425918 0.19494833 0.19343457 0.12846763 0.06254004
+Sentence indices:  8 3 0 2 9 1 6 4 5 7
+
+=================================================================================
+
+Doc 16: acute threat fear neural mechanisms underlying num related sensitivity acute stress: 22362395
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5961552 0.48334923 0.3731681 0.34723258 0.20366038 0.1718647 0.0 0.0
+Sentence indices:  4 6 1 2 7 0 5 3
+
+=================================================================================
+
+Doc 17: acute threat fear acute hydrocortisone treatment increases anxiety fear healthy volunteers fear potentiated startle study: 21277566
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.47771052 0.47032067 0.46936664 0.43703514 0.43170518 0.4286664 0.42777237 0.4257092 0.35844994 0.24057142 0.17708215 0.16787633 0.0
+Sentence indices:  1 7 5 2 3 9 10 8 0 12 4 6 11
+
+=================================================================================
+
+Doc 18: acute threat fear psychoneurometric operationalization threat sensitivity relations clinical symptom physiological response criteria: 26877132
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.51642627 0.48643795 0.16512085 0.14195348 0.0 0.0
+Sentence indices:  2 3 4 0 5 1
+
+=================================================================================
+
+Doc 19: arousal sadness happiness amplified solitary listening music: 28986700
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.42948484 0.39558062 0.36815774 0.34828815 0.0 0.0
+Sentence indices:  0 2 3 5 4 1
+
+=================================================================================
+
+Doc 20: arousal performance processes affect related performance zones multi modal investigation golf performance: 22562463
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.49553937 0.4305354 0.3949051 0.15516968 0.097570494 0.0 0.0
+Sentence indices:  3 2 0 6 1 5 4
+
+=================================================================================
+
+Doc 21: arousal leaders smiles reflect cultural differences ideal affect: 26751631
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.455567 0.45420355 0.42978063 0.35421425 0.33783472 0.25313753 0.2127606 0.21136206 0.20785213 0.16895714
+Sentence indices:  7 3 9 4 1 6 0 5 2 8
+
+=================================================================================
+
+Doc 22: arousal pain affect disgust cross modal influence hand aversive experiences appraisal facial expressions: 30848050
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5796865 0.52747977 0.40119272 0.39824915 0.3897196 0.34638125 0.30553877 0.28589088 0.27019435 0.23061395
+Sentence indices:  0 4 1 2 3 9 6 5 7 8
+
+=================================================================================
+
+Doc 23: arousal blues broaden nasty narrows attentional consequences negative affects low high motivational intensity: 20424047
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.42896405 0.42670178 0.30496156 0.2940795 0.29050544 0.2759691 0.27100757
+Sentence indices:  6 3 2 1 0 5 4
+
+=================================================================================
+
+Doc 24: arousal visceral afferent signals cardiovascular system urinary urge affect startle eye blink: 30448351
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4383331 0.410609 0.31546932 0.30530193 0.2996708 0.2213968 0.15329057 0.14044513 0.0
+Sentence indices:  7 4 5 2 6 0 8 1 3
+
+=================================================================================
+
+Doc 25: arousal anxiety depressive symptoms affective patterns tobacco withdrawal: 23896304
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4611881 0.43054065 0.3994005 0.3994005 0.3909095 0.36759463 0.36541548 0.3433548 0.25739396 0.2061013
+Sentence indices:  7 4 8 1 9 3 0 2 5 6
+
+=================================================================================
+
+Doc 26: arousal experience sampling methodology reveals similarities experience passage time young elderly adults: 25701720
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.48036912 0.42918167 0.31068018 0.26781675 0.23742245 0.22960427
+Sentence indices:  3 5 2 1 4 0
+
+=================================================================================
+
+Doc 27: arousal limited time perspective increases calm: 26214569
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.44181857 0.43935964 0.42894417 0.29676265 0.24185765 0.0 0.0
+Sentence indices:  3 5 2 0 4 6 1
+
+=================================================================================
+
+Doc 28: arousal inferring affect fmri data: 24835467
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.43100134 0.3986415 0.38648173 0.3239105 0.20263197
+Sentence indices:  1 2 0 3 4
+
+=================================================================================
+
+Doc 29: arousal interactive effects trait state affect top control attention: 25556211
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.52545184 0.42902017 0.41446137 0.38878495 0.36110014 0.2079453 0.0 0.0
+Sentence indices:  1 0 5 4 7 3 6 2
+
+=================================================================================
+
+Doc 30: arousal affective norms polish short texts database properties impact participants population sex affective ratings: 28611707
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.45035833 0.41369805 0.3986859 0.3937393 0.39134917 0.38866696 0.38709617 0.14012901 0.0
+Sentence indices:  2 0 7 1 3 5 4 8 6
+
+=================================================================================
+
+Doc 31: arousal modelling audiovisual integration affect videos music: 28463060
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.6023892 0.59306496 0.53250384 0.53250384 0.41514736 0.40529305 0.3926338 0.39154935 0.27551872 0.2429391 0.0
+Sentence indices:  3 9 8 2 0 4 10 1 5 6 7
+
+=================================================================================
+
+Doc 32: arousal increased heart rate exercise facilitates processing fearful disgusted faces: 29321533
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.47587737 0.46274397 0.46211058 0.39976716 0.39390987 0.39085588 0.25133315
+Sentence indices:  2 1 6 0 3 4 5
+
+=================================================================================
+
+Doc 33: arousal psychophysiological response patterns affective film stimuli: 23646134
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.45709172 0.4558559 0.4459219 0.35899195 0.34697434 0.0959164 0.0
+Sentence indices:  1 3 5 0 6 2 4
+
+=================================================================================
+
+Doc 34: arousal respiration metabolic balance attention affective picture processing: 18346833
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.53250384 0.53250384 0.53250384 0.45783094 0.4419129 0.39275804 0.3277603 0.29011744 0.1483225 0.0
+Sentence indices:  9 5 3 0 7 8 6 2 1 4
+
+=================================================================================
+
+Doc 35: arousal genetic moderation sensitivity positive negative affect marriage: 22148994
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.52545184 0.48285833 0.2917252 0.27936405 0.25027305
+Sentence indices:  3 1 0 4 2
+
+=================================================================================
+
+Doc 36: arousal cross mammalian neurophenomenology primal emotional affects animal feelings human therapeutics: 26876723
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.39105314 0.3859091 0.3428336 0.2302441 0.16122352 0.0
+Sentence indices:  5 2 3 0 1 4
+
+=================================================================================
+
+Doc 37: arousal high approach low approach positive affect influence physiological responses threat anger: 30684514
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.43242708 0.38968545 0.28497332 0.24877264 0.23855063 0.2058674 0.2058674 0.1275643
+Sentence indices:  1 2 6 3 4 5 0 7
+
+=================================================================================
+
+Doc 38: arousal multivariate associations ideal affect clinical symptoms: 29939058
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.49477124 0.4505948 0.31109783 0.30275682 0.25882173 0.24513923
+Sentence indices:  3 0 2 1 4 5
+
+=================================================================================
+
+Doc 39: arousal assessment anxiety open field elevated maze infrared thermography: 26884121
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.6023892 0.4558559 0.402389 0.3958164 0.121876046 0.0 0.0 0.0
+Sentence indices:  0 1 2 6 5 7 4 3
+
+=================================================================================
+
+Doc 40: arousal affective modulation associative limbic subthalamic nucleus deep brain stimulation obsessive compulsive disorder: 30718450
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.53250384 0.43661782 0.436212 0.36041778 0.28837016 0.26282042 0.19224274 0.11163113 0.0 0.0
+Sentence indices:  4 2 0 3 1 7 6 5 9 8
+
+=================================================================================
+
+Doc 41: arousal music emotions enchantment entrainment: 25773637
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.43055815 0.39312255 0.38764036 0.35991785 0.27599376 0.26975483 0.26031452
+Sentence indices:  1 5 6 2 3 0 4
+
+=================================================================================
+
+Doc 42: arousal psychobiology posttraumatic dysregulation reexperiencing hyperarousal dissociation emotional numbing: 16891566
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0
+Predicted_probs:   0.4454899 0.3912933 0.3651883 0.3189545
+Sentence indices:  2 0 1 3
+
+=================================================================================
+
+Doc 43: arousal emotional state local versus global spatial memory: 19100525
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.4765685 0.42268834 0.39017603 0.36083847 0.3550247 0.223698
+Sentence indices:  4 1 3 0 5 2
+
+=================================================================================
+
+Doc 44: arousal shoes mine shifting perspective vital emotional empathy: 28604043
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.47748488 0.44440284 0.4316645 0.3923535 0.388366 0.2764858 0.26417917 0.26271093 0.2472055 0.2472055 0.2331737 0.0
+Sentence indices:  4 0 11 5 3 2 10 6 8 7 1 9
+
+=================================================================================
+
+Doc 45: circadian rhythms clocks clinic circadian rhythms health disease: 30523071
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.5356744 0.5016955 0.50169545 0.4920096 0.482177
+Sentence indices:  0 1 2 3 4
+
+=================================================================================
+
+Doc 46: circadian rhythms melatonin stable circadian rhythms optimize maternal placental fetal physiology: 24132226
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55045253 0.5429949 0.5412668 0.537219 0.5324627 0.52651757 0.5201605 0.5008701 0.48518077 0.21643156 0.21643156 0.13590185 0.13590185 0.13590185 0.13590185 0.12890577 0.0 0.0 0.0
+Sentence indices:  6 1 15 13 4 12 14 2 18 11 8 0 7 17 16 9 5 3 10
+
+=================================================================================
+
+Doc 47: circadian rhythms task related phasing circadian rhythms antennal responsiveness odorants pheromones honeybees: 28984167
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.56075805 0.53898484 0.5233983 0.51098937 0.5069291 0.49876043 0.4929343 0.48160544 0.26743788 0.207889 0.17451057 0.13736857 0.0
+Sentence indices:  10 4 12 9 5 1 3 11 6 7 8 0 2
+
+=================================================================================
+
+Doc 48: circadian rhythms circadian rhythm interval preserved mice deficient potassium channel interacting protein num: 27736193
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5976604 0.58707094 0.5613197 0.5535662 0.54571 0.54078364 0.49629158 0.4527754 0.14426701 0.13436759 0.119809136 0.08126453 0.0
+Sentence indices:  8 11 10 12 7 1 0 9 2 4 3 5 6
+
+=================================================================================
+
+Doc 49: circadian rhythms association circadian rhythms neurodegenerative diseases: 30784558
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.52676076 0.5265995 0.5157335 0.50587535 0.49667576 0.4802147
+Sentence indices:  3 4 0 2 1 5
+
+=================================================================================
+
+Doc 50: circadian rhythms daylight saving time circadian rhythms cardiovascular health: 29971599
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.55078804 0.550788 0.52124006 0.23315917 0.17182758 0.0
+Sentence indices:  5 1 4 0 2 3
+
+=================================================================================
+
+Doc 51: circadian rhythms circadian rhythms water solute handling adults spinal cord injury: 27506697
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55817634 0.51488256 0.50992787 0.5066844 0.17789944 0.17789944 0.15009674 0.14305776 0.11019249 0.0 0.0
+Sentence indices:  7 5 9 0 8 4 10 3 6 2 1
+
+=================================================================================
+
+Doc 52: circadian rhythms circadian rhythms depression: 29843180
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5061077 0.5061076 0.49460754 0.49460754 0.48648113 0.0
+Sentence indices:  2 0 4 1 5 3
+
+=================================================================================
+
+Doc 53: circadian rhythms circadian rhythm segment elevation myocardial infarction insights gulf registry acute coronary events gulf ps: 30176735
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.57060456 0.57060456 0.57060456 0.5638265 0.53865325 0.5221823 0.0 0.0 0.0
+Sentence indices:  7 3 2 8 1 0 6 5 4
+
+=================================================================================
+
+Doc 54: circadian rhythms biological rhythms chronodisruption chrono enhancement role physical activity synchronizer correcting steroids circadian rhythm metabolic dysfunctions cancer: 29953265
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.54352564 0.51643896 0.51361513 0.5114246 0.5074416 0.4959764 0.38736823 0.25692463 0.0 0.0
+Sentence indices:  6 3 1 4 0 7 5 2 9 8
+
+=================================================================================
+
+Doc 55: circadian rhythms volcano mouse neotomodon alstoni central mexico biological model study breeding obesity circadian rhythms: 29702105
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.571817 0.55477834 0.26911694 0.106008716 0.100593045 0.099566296
+Sentence indices:  2 4 0 3 1 5
+
+=================================================================================
+
+Doc 56: circadian rhythms temperature regulates circadian rhythms immune responses red swamp crayfish procambarus clarkii: 26004319
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.54039675 0.5033039 0.5020892 0.50055724 0.4960429 0.38919252 0.38309285 0.25390503 0.2502239 0.2175179
+Sentence indices:  1 7 4 6 9 3 2 8 0 5
+
+=================================================================================
+
+Doc 57: circadian rhythms disruption behavioral circadian rhythms induced psychophysiological stress affects plasma free amino acid profiles affecting peripheral clock gene expression mice: 24971530
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.56797105 0.5336896 0.5316794 0.5011434 0.49899685 0.48463878 0.24672121 0.16710891 0.11869671
+Sentence indices:  0 3 8 1 7 2 5 6 4
+
+=================================================================================
+
+Doc 58: circadian rhythms monitoring circadian rhythms individual cells plants: 29204752
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.54453963 0.50881904 0.50443614 0.49873546 0.48895288 0.14118186 0.12706861 0.12706861 0.12706861 0.0 0.0
+Sentence indices:  6 3 1 10 0 4 9 8 2 7 5
+
+=================================================================================
+
+Doc 59: circadian rhythms diminished circadian rhythms hippocampal microglia contribute age related neuroinflammatory sensitization: 27568094
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5698196 0.53812754 0.5243709 0.5093475 0.50831366 0.5062158 0.38972986 0.16836849 0.16836849
+Sentence indices:  6 0 3 8 4 2 5 7 1
+
+=================================================================================
+
+Doc 60: circadian rhythms voluntary exercise enhances activity rhythms ameliorates anxiety depression behaviors sand rat model circadian rhythm related mood: 26253214
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5620968 0.5387689 0.5133888 0.48440194 0.39151844 0.26755768 0.24847478 0.21426184 0.13559589 0.09173148 0.070186846
+Sentence indices:  1 9 7 4 3 10 8 0 6 2 5
+
+=================================================================================
+
+Doc 61: circadian rhythms endotoxin disrupts circadian rhythms macrophages reactive oxygen species: 27168152
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5770861 0.55493915 0.5496746 0.5486259 0.5486259 0.5486259 0.5412952 0.5392522 0.52472395 0.51802725 0.5097405 0.42856175 0.0
+Sentence indices:  7 3 12 8 2 0 10 9 4 1 11 5 6
+
+=================================================================================
+
+Doc 62: circadian rhythms circadian rhythms migraine attacks episodic chronic patients cross sectional study headache center population: 29966532
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.51316994 0.51111966 0.49455333 0.49313682 0.21300822 0.21165155 0.19226019 0.17288837 0.16692714 0.1479383 0.12846372 0.0 0.0 0.0
+Sentence indices:  12 0 11 1 5 9 2 13 3 6 7 10 8 4
+
+=================================================================================
+
+Doc 63: circadian rhythms circadian rhythms antioxidant enzyme activity young adult rats light deprivation conditions: 30080328
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5298869 0.5227486 0.52204484 0.5189018 0.50791633 0.49924973 0.29236576 0.27602372
+Sentence indices:  6 3 5 0 4 7 2 1
+
+=================================================================================
+
+Doc 64: circadian rhythms characterisation circadian rhythms duckweeds: 24942699
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5320802 0.51621073 0.515188 0.5118065 0.5097461 0.5097461 0.49481642 0.49416205 0.1286842 0.101540335 0.0 0.0
+Sentence indices:  10 11 5 8 1 0 6 4 9 3 7 2
+
+=================================================================================
+
+Doc 65: circadian rhythms neonatal rat cardiomyocytes vitro model circadian rhythms heart: 28823816
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.5619075 0.5250486 0.49639642 0.49103147 0.4862319
+Sentence indices:  0 1 4 2 3
+
+=================================================================================
+
+Doc 66: circadian rhythms missing beat assessment circadian rhythm abnormalities bipolar disorder genomic era: 30516584
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.56325805 0.5570091 0.543232 0.543232 0.543232 0.543232 0.5373446 0.5002404 0.085483804 0.0
+Sentence indices:  1 9 8 7 6 4 5 0 3 2
+
+=================================================================================
+
+Doc 67: circadian rhythms circadian rhythm dysregulation bipolar spectrum disorders: 28321642
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.55351096 0.55351096 0.53209317 0.5270348 0.5270348 0.50455326 0.50455326 0.48673728
+Sentence indices:  6 1 4 5 3 7 2 0
+
+=================================================================================
+
+Doc 68: circadian rhythms circadian rhythms nutrition implications longevity urban environments: 29065948
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.55607295 0.5531133 0.50976187 0.15949856 0.0 0.0 0.0
+Sentence indices:  6 3 5 1 4 2 0
+
+=================================================================================
+
+Doc 69: circadian rhythms circadian rhythm resynchronization improved isoflurane induced cognitive dysfunction aged mice: 29660304
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.54586256 0.54467994 0.5186261 0.4934155 0.4934155 0.39228594 0.38544482 0.25112852 0.18754189 0.18661344 0.17954986 0.0
+Sentence indices:  3 7 10 11 9 2 6 5 4 0 8 1
+
+=================================================================================
+
+Doc 70: circadian rhythms circadian rhythms hedonic drinking behavior mice: 28286126
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5466513 0.53127694 0.52615166 0.5251658 0.52179325 0.5143855 0.5051111 0.50037014
+Sentence indices:  1 2 0 6 7 4 5 3
+
+=================================================================================
+
+Doc 71: circadian rhythms monochromatic green light induced circadian rhythm melatonin chick pinealocytes: 30533004
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5502988 0.5502988 0.5456411 0.54564106 0.51357734 0.4000686 0.31385776 0.30911276
+Sentence indices:  5 4 3 7 0 6 2 1
+
+=================================================================================
+
+Doc 72: circadian rhythms sleep circadian rhythms trait markers suicide attempt bipolar disorders actigraphy study: 30290235
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.53561985 0.53561985 0.51428854 0.4903584 0.21508493 0.16830696 0.16173644 0.16173644 0.121512175 0.0 0.0 0.0
+Sentence indices:  10 6 2 1 0 9 7 4 11 8 5 3
+
+=================================================================================
+
+Doc 73: circadian rhythms effects differences availability light circadian rhythms institutionalized elderly: 28910551
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5382141 0.53473735 0.5280024 0.38937187 0.12875202 0.0
+Sentence indices:  4 5 2 0 1 3
+
+=================================================================================
+
+Doc 74: circadian rhythms theoretical investigation models circadian rhythms based dimerization proteolysis: 29161859
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.57039034 0.5703903 0.551245 0.5393928 0.49193898 0.2112978 0.12450837 0.12450837 0.124508366 0.0 0.0
+Sentence indices:  0 6 1 2 3 5 7 4 9 10 8
+
+=================================================================================
+
+Doc 75: frustrative nonreward longitudinal associations sibling relational aggression adolescent adjustment: 29922871
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.47489917 0.4742032 0.47420284 0.28096488 0.24200462 0.1577057 0.1577057 0.1577057
+Sentence indices:  1 5 0 7 3 6 4 2
+
+=================================================================================
+
+Doc 76: frustrative nonreward examination network position childhood relational aggression integrating resource control social exchange theories: 25363638
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5022366 0.49751478 0.4954516 0.48970604 0.47421938 0.13478786
+Sentence indices:  2 5 4 3 0 1
+
+=================================================================================
+
+Doc 77: frustrative nonreward daycare center attendance buffers effects maternal authoritarian parenting style physical aggression children: 28377733
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.49254817 0.49164784 0.4854141 0.48177242 0.477719 0.47766247 0.24480003 0.13427196
+Sentence indices:  5 4 6 0 7 1 3 2
+
+=================================================================================
+
+Doc 78: frustrative nonreward role preschool relational physical aggression transition kindergarten links social psychological adjustment: 26146468
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5208447 0.5058959 0.5039079 0.50028557 0.45135614 0.43506265 0.24849008 0.23683053
+Sentence indices:  2 5 1 4 3 6 0 7
+
+=================================================================================
+
+Doc 79: frustrative nonreward relational aggression middle childhood predicting adolescent social psychological adjustment role friendship quality: 24156310
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5211146 0.5101301 0.47752148 0.47420895 0.0 0.0
+Sentence indices:  2 4 5 0 3 1
+
+=================================================================================
+
+Doc 80: frustrative nonreward science common wisdom collide coincide understanding relational aggression: 21833240
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5463517 0.54422563 0.506008 0.506008 0.4929429 0.0
+Sentence indices:  5 0 4 1 2 3
+
+=================================================================================
+
+Doc 81: frustrative nonreward relational aggression middle childhood predictors adolescent outcomes: 22665946
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5430782 0.4953874 0.22390173 0.20459738 0.0 0.0 0.0
+Sentence indices:  1 0 6 5 4 3 2
+
+=================================================================================
+
+Doc 82: frustrative nonreward developmental precursors relational aggression late childhood adolescence: 30315722
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5423183 0.50856256 0.50856256 0.50856256 0.50856256 0.48583084 0.0
+Sentence indices:  0 5 3 2 1 6 4
+
+=================================================================================
+
+Doc 83: frustrative nonreward intimate partner violence iran factors physical aggression victimization perpetration: 29544393
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.47886842 0.47886842 0.40131092 0.39932072 0.30732912 0.28087744 0.080981806 0.0
+Sentence indices:  6 5 1 3 0 2 7 4
+
+=================================================================================
+
+Doc 84: frustrative nonreward relational aggression victimization adjustment middle childhood: 23880393
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5134123 0.47963795 0.47257054 0.47257054 0.19416843 0.0
+Sentence indices:  3 4 5 0 2 1
+
+=================================================================================
+
+Doc 85: frustrative nonreward relational aggression physical aggression deception early childhood multimethod multi informant short term longitudinal study: 18645756
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.52632415 0.525949 0.50754863 0.49355197 0.4574768 0.14787385
+Sentence indices:  4 3 0 5 2 1
+
+=================================================================================
+
+Doc 86: frustrative nonreward physical aggression language ability num num months cross lagged effects population sample: 25375971
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.511771 0.50823027 0.50823015 0.49119148 0.49073458 0.48504627 0.15838355
+Sentence indices:  4 5 0 6 1 3 2
+
+=================================================================================
+
+Doc 87: frustrative nonreward deviant peer affiliation explanatory mechanism association corporal punishment physical aggression longitudinal study chinese adolescents: 28070756
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.48828042 0.48753622 0.48730153 0.48366776 0.4820533 0.48068663 0.478959 0.47774586 0.43504468 0.29426596 0.27545446 0.0
+Sentence indices:  11 8 0 9 5 1 6 2 3 7 10 4
+
+=================================================================================
+
+Doc 88: frustrative nonreward maternal social coaching quality interrupts development relational aggression early childhood: 25132727
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5392361 0.524136 0.49923423 0.4767623 0.15490736 0.0
+Sentence indices:  3 4 1 5 2 0
+
+=================================================================================
+
+Doc 89: frustrative nonreward relational aggression positive urgency negative urgency predicting alcohol consequences college students: 25134025
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.50963694 0.49698797 0.49113944 0.48638448 0.48321575 0.4553688 0.43489185 0.23007727 0.164364
+Sentence indices:  0 7 1 2 4 6 5 8 3
+
+=================================================================================
+
+Doc 90: frustrative nonreward normative beliefs predictors physical physical relational aggression south african adolescents: 30905314
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5071673 0.50391823 0.479774 0.4530422 0.43709165 0.43491217 0.24683377 0.23073635 0.21617477
+Sentence indices:  5 0 4 2 7 1 8 6 3
+
+=================================================================================
+
+Doc 91: frustrative nonreward developmental trajectories chinese children relational physical aggression associations social psychological adjustment problems: 22477278
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.5155456 0.5103972 0.50131124 0.12502868 0.07802132
+Sentence indices:  3 2 0 1 4
+
+=================================================================================
+
+Doc 92: frustrative nonreward effects viewing relational aggression television aggressive behavior adolescents year longitudinal study: 26595354
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5185896 0.49000594 0.4852456 0.4835692 0.47431183 0.4690872 0.43438375 0.43358037
+Sentence indices:  5 4 0 3 1 7 6 2
+
+=================================================================================
+
+Doc 93: frustrative nonreward biased perceptions social competence engagement physical relational aggression moderating role peer status sex: 25059795
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5060418 0.49205315 0.47768047 0.47765875 0.4744148 0.47425824 0.45310196 0.43461058 0.2913311 0.24954887 0.0
+Sentence indices:  2 9 5 6 7 8 10 4 0 3 1
+
+=================================================================================
+
+Doc 94: frustrative nonreward infant parasympathetic sympathetic activity baseline stress recovery interactions prenatal adversity predict physical aggression toddlerhood: 28782091
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5123585 0.51057786 0.4982756 0.49657342 0.44881377 0.43721598 0.19125843 0.18821707 0.18806326 0.18212439
+Sentence indices:  8 6 3 7 1 0 4 2 5 9
+
+=================================================================================
+
+Doc 95: frustrative nonreward relational aggression psychological control sibling relationship mediators association maternal psychological control adolescents emotional adjustment: 25047296
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.47587207 0.47466558 0.47447318 0.47441152 0.47422296 0.31170946 0.107967846
+Sentence indices:  3 6 5 2 4 0 1
+
+=================================================================================
+
+Doc 96: frustrative nonreward gender differences trajectories relational aggression perpetration victimization middle high school: 26918429
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.49403393 0.49403393 0.4746409 0.47426888 0.4373438 0.43447143 0.2861178 0.28365332 0.27179635 0.14859776 0.14226738 0.14143036 0.0
+Sentence indices:  12 0 8 1 5 9 10 7 11 6 3 4 2
+
+=================================================================================
+
+Doc 97: frustrative nonreward pubertal timing youth internalizing psychopathology role relational aggression: 28529439
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.47470656 0.47440964 0.47433335 0.47426984 0.2560356 0.25494623 0.18606663 0.0 0.0
+Sentence indices:  8 7 0 5 2 4 1 6 3
+
+=================================================================================
+
+Doc 98: frustrative nonreward gonna friends anymore associations viewing relational aggression television relational aggression text messaging adolescence: 30710456
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.48040074 0.47826484 0.47462893 0.45533815 0.44280088 0.21226326
+Sentence indices:  4 0 1 5 2 3
+
+=================================================================================
+
+Doc 99: frustrative nonreward family predictors continuity change social physical aggression ages num num: 24888340
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5100656 0.50908977 0.50908977 0.506934 0.506934 0.49964857 0.48110324 0.4521211 0.20147352 0.14106157 0.12543094
+Sentence indices:  5 8 4 10 7 2 0 9 3 1 6
+
+=================================================================================
+
+Doc 100: frustrative nonreward televised relational physical aggression children hostile intent attributions: 23831139
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5209956 0.5138855 0.4948322 0.43581834 0.4335754 0.4277113
+Sentence indices:  4 3 1 0 5 2
+
+=================================================================================
+
+Doc 101: frustrative nonreward proactive reactive romantic relational aggression adulthood measurement predictive validity gender differences association intermittent explosive disorder: 19822329
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.49880642 0.49880642 0.49451357 0.48301935 0.4815563 0.48027572 0.479958 0.47930145 0.18552816 0.12771828
+Sentence indices:  8 0 5 7 4 6 1 3 2 9
+
+=================================================================================
+
+Doc 102: frustrative nonreward insecure attachment behavior partner violence incorporating couple perceptions insecure attachment relational aggression: 24893884
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5120548 0.5006213 0.46886873 0.30627084 0.16092733 0.0 0.0
+Sentence indices:  2 4 1 0 3 6 5
+
+=================================================================================
+
+Doc 103: frustrative nonreward dwelling make worse links relational victimization relational aggression rumination depressive symptoms adolescents: 25047295
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.48690617 0.47601864 0.47436112 0.47424436 0.46876076 0.4310706 0.4309996 0.43030673 0.24952647 0.1612991 0.1612991 0.0
+Sentence indices:  2 4 9 8 10 1 6 0 5 11 3 7
+
+=================================================================================
+
+Doc 104: frustrative nonreward association reported gender similarity physical relational aggression sixth grade children: 26883026
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5207059 0.51621586 0.44657084 0.43436882 0.25898343 0.24335536 0.1322534
+Sentence indices:  4 0 1 5 6 2 3
+
+=================================================================================
+
+Doc 105: frustrative nonreward heightened emotional sensitivity intensifies associations relational aggression victimization girls boys longitudinal study: 25047290
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.48902503 0.4816021 0.47979397 0.46865523 0.46145472 0.24846312 0.19989279 0.18151616 0.16513397
+Sentence indices:  8 4 3 0 7 6 5 2 1
+
+=================================================================================
+
+Doc 106: frustrative nonreward physical relational aggression explain adolescents friendship selection competing roles network characteristics gender social status: 21688275
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.52410233 0.51128334 0.50795877 0.43454078 0.43441564 0.43416378 0.4338627 0.31009397
+Sentence indices:  6 0 4 3 5 1 7 2
+
+=================================================================================
+
+Doc 107: frustrative nonreward examining influence relational aggression sexual satisfaction attachment behaviors potential mediator: 29173104
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.48683554 0.47436237 0.47420236 0.0 0.0
+Sentence indices:  2 3 0 4 1
+
+=================================================================================
+
+Doc 108: frustrative nonreward preschool gender typed play behavior age num num years predicts physical aggression age num years: 28646480
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.53406703 0.51684946 0.5156866 0.50737613 0.5037885 0.5015877 0.4981914 0.44430235 0.0
+Sentence indices:  1 6 0 5 8 7 3 4 2
+
+=================================================================================
+
+Doc 109: frustrative nonreward neighborhood disadvantage physical aggression children adolescents systematic review meta analysis multilevel studies: 26749211
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5124469 0.50726557 0.5041627 0.503411 0.49974236 0.48930132 0.48832574 0.48569334 0.484402 0.23391764 0.19425622 0.0
+Sentence indices:  11 1 6 10 0 2 7 4 8 9 5 3
+
+=================================================================================
+
+Doc 110: loss diagnosing patients age related hearing loss tinnitus supporting clinical engagement innovation pathway redesign audiology services: 22829836
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.54841536 0.5177606 0.23116493 0.16679542 0.16566387 0.1265052 0.118739866 0.0 0.0
+Sentence indices:  0 4 6 8 1 2 7 5 3
+
+=================================================================================
+
+Doc 111: loss anticipatory loss noncaregiving adult children hybrid concept analysis: 30132909
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5923044 0.5506604 0.5506604 0.5506604 0.5417364 0.52268183 0.5135456 0.5 0.18744825 0.13927373 0.11805423 0.0
+Sentence indices:  7 9 6 1 10 8 0 3 2 11 4 5
+
+=================================================================================
+
+Doc 112: loss experiences unemployment job loss economic recession results qualitative study east central sweden: 29291191
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.6129959 0.56972957 0.55510646 0.5458816 0.29729792 0.17177291 0.17177291 0.14034672 0.0 0.0 0.0 0.0
+Sentence indices:  6 9 10 5 1 7 0 2 11 8 4 3
+
+=================================================================================
+
+Doc 113: loss relations loss services psychiatric symptoms urban urban settings natural disaster: 23105170
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5172067 0.515619 0.5114344 0.50690657 0.2884668 0.26218897 0.2003036 0.0
+Sentence indices:  4 5 6 2 7 0 1 3
+
+=================================================================================
+
+Doc 114: loss perseverate decenter differential effects metacognition relationship parasympathetic inflexibility symptoms depression multi wave study: 28772194
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.52258193 0.2923608 0.27808952 0.26265326 0.2503004 0.2503004 0.1708538
+Sentence indices:  2 4 5 3 6 0 1
+
+=================================================================================
+
+Doc 115: loss sleep loss due worry future risk cardiovascular disease mortality scottish health survey: 21968572
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.54030234 0.51913625 0.51716304 0.5100842 0.27544296 0.2407498 0.21125196 0.21017443 0.0
+Sentence indices:  5 1 6 8 7 0 3 2 4
+
+=================================================================================
+
+Doc 116: loss relationship sleep loss economic worry farmers survery num active saskatchewan noncorporate farms: 19068948
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.53860176 0.5329303 0.5323199 0.5296517 0.24950157 0.22841482 0.20449911 0.18097788 0.14275244 0.10658013
+Sentence indices:  8 2 0 9 4 3 5 1 7 6
+
+=================================================================================
+
+Doc 117: loss ambiguous loss experienced transnational mexican immigrant families: 25619113
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5679361 0.5574314 0.5473143 0.52641755 0.51467425 0.17282851 0.1531345 0.0
+Sentence indices:  7 2 1 4 0 5 3 6
+
+=================================================================================
+
+Doc 118: loss pathways involving traumatic losses worry family adult separation anxiety posttraumatic stress symptoms refugees west papua: 26275507
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.30744806 0.29332513 0.28832433 0.27020386 0.18175218 0.14941655 0.0
+Sentence indices:  2 0 4 5 1 3 6
+
+=================================================================================
+
+Doc 119: loss cognitive consciousness predictor increased anxiety time diagnosis age related hearing loss: 19347691
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5616541 0.5394639 0.5069791 0.2532128 0.23937269 0.18507852 0.14343044 0.14343044 0.14343044 0.0
+Sentence indices:  8 6 0 1 9 4 7 5 3 2
+
+=================================================================================
+
+Doc 120: loss stuck patients perspectives living lymphangioleiomyomatosis: 24885591
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.7310586 0.16231924 0.16231924 0.1420874 0.13360932 0.13360932 0.13360932 0.13360932 0.13360932 0.0 0.0 0.0
+Sentence indices:  8 10 6 0 9 5 4 3 2 11 7 1
+
+=================================================================================
+
+Doc 121: loss age cohort period effects prevalence sleep disturbances older people impact economic downturn: 19762138
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.59278834 0.5512379 0.5485653 0.5247422 0.5126844
+Sentence indices:  1 3 2 4 0
+
+=================================================================================
+
+Doc 122: loss financial hardships experienced cancer survivors systematic review: 27754926
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55120796 0.5345193 0.33219618 0.2922739 0.27591467 0.2633929 0.2066083 0.2066083 0.15023904 0.0
+Sentence indices:  2 7 1 9 8 0 6 5 4 3
+
+=================================================================================
+
+Doc 123: loss difficult hair loss patient challenge: 24574686
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5512588 0.5512588 0.5512588 0.5512588 0.5244904 0.17136723 0.14994809 0.14994809 0.14994809 0.14994809 0.14994809 0.14994809 0.1391799 0.1391799 0.0 0.0 0.0 0.0 0.0
+Sentence indices:  9 11 10 0 1 15 14 13 8 7 2 18 12 6 16 17 5 4 3
+
+=================================================================================
+
+Doc 124: loss telemedicine support groups home parenteral nutrition users: 29016235
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.7310586 0.28810433 0.26882678 0.23797776 0.23797773 0.22783111 0.20876898 0.16682254
+Sentence indices:  3 4 0 1 6 2 5 7
+
+=================================================================================
+
+Doc 125: loss rumination bereavement linked loss avoidance evidence eye tracking: 25140524
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.58677286 0.58677286 0.58677286 0.5569339 0.53433776 0.5323544 0.5304133 0.5043755 0.20266764 0.20266764 0.18576734 0.16379012 0.16379012
+Sentence indices:  7 6 1 9 4 11 8 5 2 0 12 10 3
+
+=================================================================================
+
+Doc 126: loss report obsessions worry: 8135720
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.52158004 0.29020688 0.27389497 0.23698597 0.0 0.0
+Sentence indices:  4 5 0 1 3 2
+
+=================================================================================
+
+Doc 127: loss evaluation psychological distress social support survivors contacts ebola virus disease infection relatives lagos nigeria cross sectional study num: 26307047
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.6311794 0.5926409 0.5708442 0.3155968 0.25309274 0.24093892 0.2274773 0.21531266 0.21124937 0.16454108 0.16454108 0.16454108 0.06454766 0.06454766 0.06454766 0.0
+Sentence indices:  10 8 12 4 1 3 11 15 0 14 5 2 9 7 6 13
+
+=================================================================================
+
+Doc 128: loss awareness diabetic retinopathy association attendance systematic screening public primary care setting cross sectional study hong kong: 29654021
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.7310586 0.54996586 0.2631161 0.2506718 0.24079677 0.22715694 0.20739353 0.17837003 0.17490986 0.17047635 0.0 0.0 0.0 0.0
+Sentence indices:  8 11 0 6 3 12 5 1 4 2 13 10 9 7
+
+=================================================================================
+
+Doc 129: loss health related quality life caregivers individuals traumatic brain injury development conceptual model: 25239281
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5584595 0.53948015 0.32883376 0.19827215 0.19519931 0.1877351 0.1877351 0.16256727 0.0
+Sentence indices:  6 5 0 4 1 8 3 7 2
+
+=================================================================================
+
+Doc 130: loss cancer diagnosis worry people population based survey adults england: 29361912
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5875907 0.31000763 0.28656247 0.25905544 0.25643694 0.23779751 0.20801876 0.20080934 0.19044644 0.17505912 0.14422508 0.119591855
+Sentence indices:  6 3 0 10 8 2 9 5 11 1 7 4
+
+=================================================================================
+
+Doc 131: loss experience older women living loneliness chronic conditions appalachia: 26594267
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55776554 0.33783472 0.27933598 0.1920473 0.1920473 0.1920473 0.1920473 0.17648798 0.0
+Sentence indices:  3 0 2 8 7 6 5 4 1
+
+=================================================================================
+
+Doc 132: loss validity feasibility arabic version distress thermometer saudi cancer patients: 30427918
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.6059089 0.31015396 0.30168575 0.24173672 0.18765481 0.16481556 0.14801016 0.13705915 0.0 0.0
+Sentence indices:  6 1 8 0 7 3 2 9 5 4
+
+=================================================================================
+
+Doc 133: loss family perceptions worry symptoms suffering dying: 15132072
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.5381053 0.52414864 0.31480515 0.30394837 0.18246754
+Sentence indices:  1 3 0 4 2
+
+=================================================================================
+
+Doc 134: loss symptoms concerns children young people life limiting life threatening conditions systematic review highlighting meaningful health outcomes: 30361884
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5230602 0.2986219 0.29452085 0.26179802 0.25981382 0.2543624 0.24614063 0.23386641 0.20810327 0.20810327 0.17217396 0.0 0.0 0.0
+Sentence indices:  10 11 1 13 0 2 12 8 9 7 3 6 5 4
+
+=================================================================================
+
+Doc 135: loss applying theories interventions behavioral medicine understand reduce visual field variability patients vision loss: 24854574
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55548245 0.53343755 0.52999926 0.22315781 0.22127464 0.1764452 0.16507393 0.15706226 0.095124006
+Sentence indices:  2 0 7 3 8 6 4 5 1
+
+=================================================================================
+
+Doc 136: loss pre death grief parkinson caregivers pilot survey based study: 23089242
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55672145 0.29794696 0.26407644 0.2018568 0.19745082 0.19433136 0.18929374 0.17938462 0.17933108 0.13476036 0.13476036 0.13476036 0.13476036 0.13476036 0.0
+Sentence indices:  1 13 0 9 2 14 4 3 6 11 10 8 7 5 12
+
+=================================================================================
+
+Doc 137: loss impact nocturnal hypoglycemia clinical cost related issues patients type num type num diabetes: 24695260
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5625963 0.29890183 0.22060518 0.20305432 0.19171265 0.1753386 0.15617137 0.13629732 0.11072489
+Sentence indices:  4 0 1 8 6 5 3 7 2
+
+=================================================================================
+
+Doc 138: loss symptom burden infected adults time diagnosis rural uganda: 20384499
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.58387053 0.3064433 0.29492745 0.27189544 0.14741406 0.13918918 0.13918918 0.0
+Sentence indices:  5 1 0 7 2 6 4 3
+
+=================================================================================
+
+Doc 139: loss temperament features adolescents ego syntonic ego dystonic obsessive compulsive symptoms: 18427866
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5157137 0.30329406 0.29854023 0.29713193 0.22053415 0.1537384 0.06275284
+Sentence indices:  6 2 0 1 3 5 4
+
+=================================================================================
+
+Doc 140: loss sleep disturbance risk behaviors city african american adolescents: 21638116
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.52859753 0.30661452 0.266094 0.18014921 0.18014915
+Sentence indices:  0 1 4 2 3
+
+=================================================================================
+
+Doc 141: loss nutrition adequacy enhanced recovery surgery single academic center experience: 25547338
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.7310586 0.25120163 0.2388769 0.22056665 0.21613427 0.15739928 0.15739928 0.15463303 0.13371053 0.0 0.0 0.0 0.0
+Sentence indices:  8 12 0 4 10 5 1 2 9 11 7 6 3
+
+=================================================================================
+
+Doc 142: loss dangers euthanasia dementia kantian thinking support voluntary euthanasia cases extreme dementia: 22571425
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0
+Predicted_probs:   0.521133 0.3154624 0.27925926 0.2232721
+Sentence indices:  3 1 0 2
+
+=================================================================================
+
+Doc 143: loss correlates weight related quality life individuals binge eating disorder cognitive behavioral therapy: 28843136
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5319057 0.31513044 0.25031552 0.24659286 0.23017873 0.1734529 0.0 0.0
+Sentence indices:  1 0 2 6 3 5 7 4
+
+=================================================================================
+
+Doc 144: potential threat anxiety transmitting sum fears iranian nuclear threat salience offspring holocaust survivors: 25793401
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.48786622 0.45163655 0.42909905 0.42480707 0.42414987 0.42256376 0.19876423
+Sentence indices:  3 1 6 4 2 5 0
+
+=================================================================================
+
+Doc 145: potential threat anxiety human bed nucleus stria terminalis indexes hypervigilant threat monitoring: 20497902
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55589354 0.5370349 0.5253002 0.52410793 0.5200554 0.50878567 0.43924364 0.42867213 0.07847144 0.0
+Sentence indices:  2 5 9 6 3 0 7 1 8 4
+
+=================================================================================
+
+Doc 146: potential threat anxiety effects age pathology stance modifications response increased postural threat: 22277369
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.51693815 0.4849814 0.48085082 0.47433996 0.43355682 0.427386 0.42417118 0.39434364
+Sentence indices:  0 2 7 3 6 1 5 4
+
+=================================================================================
+
+Doc 147: potential threat anxiety effect challenge threat states performance examination potential mechanisms: 22913339
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.43189928 0.4301502 0.42736965 0.42543653 0.42427567 0.42408377
+Sentence indices:  4 1 0 5 3 2
+
+=================================================================================
+
+Doc 148: potential threat anxiety neural basis improved cognitive performance threat shock: 27369069
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.457063 0.45581713 0.42558092 0.42425266 0.39778847 0.3885924 0.18098629 0.0 0.0
+Sentence indices:  7 6 4 2 1 0 8 5 3
+
+=================================================================================
+
+Doc 149: potential threat anxiety anxious anticipation pain influence instructed conditioned threat pain: 28008077
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5013211 0.42966354 0.42890835 0.42479843 0.42479843 0.42479843 0.42479843 0.42453808 0.3850128 0.0
+Sentence indices:  4 3 2 7 6 5 1 9 0 8
+
+=================================================================================
+
+Doc 150: potential threat anxiety effect anxiety behavioural pattern separation humans: 26480349
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5934459 0.5934459 0.49506631 0.4010257 0.4010257 0.39108557 0.28001636 0.0
+Sentence indices:  6 4 3 2 1 7 0 5
+
+=================================================================================
+
+Doc 151: potential threat anxiety behavioral measures attentional bias threat dot probe task poor reliability lack correlation anxiety: 25538644
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.48155895 0.4553365 0.45308235 0.42928016 0.4254709 0.4198011 0.40408704 0.39667943 0.3882254 0.3716129 0.16073282
+Sentence indices:  10 8 4 2 0 3 7 5 9 6 1
+
+=================================================================================
+
+Doc 152: potential threat anxiety behavioral neural stability attention bias threat healthy adolescents: 27129757
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.4883347 0.39043063 0.3571274 0.25186044 0.17141888 0.17058265 0.14387387 0.11088709
+Sentence indices:  0 2 7 1 4 6 5 3
+
+=================================================================================
+
+Doc 153: potential threat anxiety postdeployment threat related attention bias interacts combat exposure account anxiety symptoms soldiers: 23959788
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5115896 0.4787573 0.4741323 0.42896727 0.42816028 0.42572728
+Sentence indices:  5 1 3 2 0 4
+
+=================================================================================
+
+Doc 154: potential threat anxiety interaction anticipatory anxiety emotional picture processing event related brain potential study: 20136732
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5156112 0.46887177 0.46356475 0.43732357 0.39542025 0.38943887 0.38450056
+Sentence indices:  2 1 4 3 0 5 6
+
+=================================================================================
+
+Doc 155: potential threat anxiety facial dot probe task attentional processes social anxiety systematic review: 26042381
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5934459 0.49138224 0.48454037 0.45042393 0.43710813 0.38983575 0.38969237 0.38922518 0.24603856 0.2271534 0.20139447 0.0
+Sentence indices:  4 3 10 1 6 0 5 8 2 9 11 7
+
+=================================================================================
+
+Doc 156: potential threat anxiety perceived threat childhood review research implications children living violent households: 24562723
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.49814126 0.4940426 0.4864001 0.4275269 0.42603227 0.4253149 0.36647066 0.2687453
+Sentence indices:  7 2 3 6 0 1 4 5
+
+=================================================================================
+
+Doc 157: potential threat anxiety memory bias threat generalized anxiety disorder potential importance stimulus relevance: 17530492
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.42469764 0.42419028 0.42416555 0.42416555 0.39174992 0.24370348 0.20748386 0.0
+Sentence indices:  6 0 5 4 1 2 3 7
+
+=================================================================================
+
+Doc 158: potential threat anxiety color anxiety neurobehavioral evidence distraction perceptually salient stimuli anxiety: 25084754
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5174651 0.47263613 0.4701448 0.39379227 0.38898522 0.38774738 0.35171792 0.2416638
+Sentence indices:  1 7 0 2 5 4 6 3
+
+=================================================================================
+
+Doc 159: potential threat anxiety anxiety sensitivity explains associations anxious arousal symptoms smoking abstinence expectancies perceived barriers cessation problems experienced past quit attempts low income smokers: 28024913
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.4727343 0.4565056 0.39627576 0.3925638 0.25510108 0.25303513 0.23832068 0.14452207
+Sentence indices:  3 5 6 7 0 2 1 4
+
+=================================================================================
+
+Doc 160: potential threat anxiety pooled patient level meta analysis children adults completing computer based anxiety intervention targeting attentional bias: 27693664
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5398334 0.5126524 0.41445014 0.41445014 0.3909021 0.3879997 0.35387245 0.13692383 0.114024915 0.0 0.0
+Sentence indices:  10 3 9 4 2 0 1 5 8 7 6
+
+=================================================================================
+
+Doc 161: potential threat anxiety emotional response patterns social threat individuals generalized social anxiety disorder anxious controls: 20708493
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0
+Predicted_probs:   0.39958033 0.35306317 0.2441108 0.09178181
+Sentence indices:  0 3 1 2
+
+=================================================================================
+
+Doc 162: potential threat anxiety neural responses affective pictures anticipating perceiving respiratory threat: 27766643
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5253002 0.47308627 0.47039774 0.42467427 0.2554821 0.2554821 0.24056673 0.17737378 0.16066203 0.16066203 0.0 0.0
+Sentence indices:  1 11 5 0 9 3 2 4 8 7 10 6
+
+=================================================================================
+
+Doc 163: potential threat anxiety worry discrimination threat safety cues event related potential investigation: 26459845
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.46185842 0.43185353 0.4269054 0.42558226 0.38708577 0.36370185 0.0
+Sentence indices:  4 2 1 5 0 3 6
+
+=================================================================================
+
+Doc 164: potential threat anxiety trait anxiety conflict monitoring threat study: 19055504
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.48445833 0.477174 0.47314417 0.43475384 0.42438868 0.37449148 0.0 0.0
+Sentence indices:  0 2 7 3 5 1 6 4
+
+=================================================================================
+
+Doc 165: potential threat anxiety complementary features attention bias modification therapy cognitive behavioral therapy pediatric anxiety disorders: 28407726
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5934459 0.5934459 0.51493615 0.49110028 0.47242638 0.44865754 0.4052909 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sentence indices:  12 1 2 3 0 8 7 13 11 10 9 6 5 4
+
+=================================================================================
+
+Doc 166: potential threat anxiety mental health problems adolescence interpretation unambiguous threat: 26039081
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.47994113 0.47216696 0.45295233 0.45286638 0.44537625 0.42969826 0.23936264 0.0
+Sentence indices:  5 0 2 7 4 1 3 6
+
+=================================================================================
+
+Doc 167: potential threat anxiety situation based social anxiety enhances neural processing faces evidence intergroup context: 23709354
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.47638738 0.45461887 0.38638812 0.3862222 0.38455594 0.35347447 0.15356503
+Sentence indices:  1 6 2 5 0 3 4
+
+=================================================================================
+
+Doc 168: potential threat anxiety impact anxiety symptoms problematic alcohol error related brain activity: 28606471
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.47732773 0.47675177 0.42398176 0.39079309 0.389337 0.3879167 0.38661808 0.38454345 0.25923648 0.13644558
+Sentence indices:  1 9 8 2 6 5 0 4 3 7
+
+=================================================================================
+
+Doc 169: potential threat anxiety distinct electrocortical behavioral evidence increased attention threat generalized anxiety disorder: 20196100
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.47775567 0.44165033 0.42417416 0.42386168 0.38663402 0.3719026 0.21539702 0.17852297 0.0 0.0 0.0
+Sentence indices:  2 0 8 10 3 7 9 4 6 5 1
+
+=================================================================================
+
+Doc 170: potential threat anxiety delineating role negative verbal thinking promoting worry perceived threat anxiety: 27110477
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.3850042 0.36786568 0.29918548 0.28841427 0.27960604 0.2746154 0.25669694
+Sentence indices:  1 0 5 2 6 3 4
+
+=================================================================================
+
+Doc 171: potential threat anxiety anxiety threat perception abnormalities emotional reasoning nonclinical dutch children: 12881033
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5230436 0.5104225 0.4843705 0.42516565 0.42516565 0.38953865 0.38845545
+Sentence indices:  6 0 4 3 2 1 5
+
+=================================================================================
+
+Doc 172: potential threat anxiety late life anxiety coming age: 26090588
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5934459 0.53463864 0.5248788 0.4973004 0.40190554 0.40190554 0.40190554 0.0
+Sentence indices:  2 3 6 0 7 5 1 4
+
+=================================================================================
+
+Doc 173: potential threat anxiety defensive motivation attention anticipation types predictable unpredictable threat startle event related potential investigation: 28370078
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4726957 0.47233745 0.42700258 0.42622775 0.42598137 0.42517447 0.42428625 0.4242334 0.35161796 0.19599897 0.0
+Sentence indices:  4 2 10 9 5 6 1 0 3 8 7
+
+=================================================================================
+
+Doc 174: potential threat anxiety intolerance uncertainty appraisals coping anxiety case num pandemic: 23834735
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5934459 0.5934459 0.51955265 0.47418475 0.47418475 0.44309664 0.435977 0.42424035 0.3940471 0.3940471 0.38749152 0.10774272 0.0 0.0
+Sentence indices:  1 0 8 11 9 5 6 13 4 2 12 3 10 7
+
+=================================================================================
+
+Doc 175: potential threat anxiety amygdala lesions reduce anxiety behavior human benzodiazepine sensitive approach avoidance conflict test: 28364943
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5934459 0.47039774 0.40020502 0.39567235 0.38857275 0.38816035 0.38705674 0.27804545 0.16819865 0.16819865 0.16819865 0.0 0.0
+Sentence indices:  3 6 2 0 12 1 10 11 8 7 5 9 4
+
+=================================================================================
+
+Doc 176: potential threat anxiety threat detection precautionary responses anxiety disorders: 21147162
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0
+Predicted_probs:   0.5000001 0.5000001 0.42571697 0.38451517
+Sentence indices:  2 1 3 0
+
+=================================================================================
+
+Doc 177: potential threat anxiety threat related amygdala activity peripheral concentrations men women: 28183031
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.53164846 0.47309542 0.4274637 0.42537135 0.4168658 0.11265841
+Sentence indices:  5 2 4 3 0 1
+
+=================================================================================
+
+Doc 178: sleep wakefulness effects generation histamine receptor antagonists sleep wakefulness cycle rats: 15212970
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.57332546 0.5510007 0.5510007 0.5271925 0.26639047 0.250358 0.11645193
+Sentence indices:  2 4 3 1 0 6 5
+
+=================================================================================
+
+Doc 179: sleep wakefulness circadian rhythms body temperature sleep: 24437258
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.51777744 0.5035727 0.30775005 0.26148063 0.0 0.0 0.0
+Sentence indices:  2 6 0 1 5 4 3
+
+=================================================================================
+
+Doc 180: sleep wakefulness reaction sleep wakefulness cycle stress related differences hypothalamo pituitary adrenal axis reactivity rat: 9729321
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55589294 0.55589294 0.54365677 0.53260034 0.526737 0.5225366 0.5095799 0.18005475 0.09954316 0.0
+Sentence indices:  7 6 0 3 5 8 2 4 1 9
+
+=================================================================================
+
+Doc 181: sleep wakefulness pharmacogenetic modulation orexin neurons alters sleep wakefulness states mice: 21647372
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5334653 0.5320558 0.5320558 0.2736802 0.2688573 0.2165432 0.21492784
+Sentence indices:  0 5 4 6 2 3 1
+
+=================================================================================
+
+Doc 182: sleep wakefulness role cholinergic inputs medial preoptic area regulation sleep wakefulness body temperature freely moving rats: 9098558
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5478406 0.53975195 0.5275107 0.5150182 0.50813705 0.24954918 0.22112733 0.18552288
+Sentence indices:  5 1 7 4 6 0 3 2
+
+=================================================================================
+
+Doc 183: sleep wakefulness fine tuning circadian rhythms importance bmal expression ventral forebrain: 28232786
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.7310585 0.28770366 0.25319263 0.2407182 0.23093301 0.1988403 0.17960687 0.0
+Sentence indices:  6 7 2 0 4 1 5 3
+
+=================================================================================
+
+Doc 184: sleep wakefulness hypocretins involvement regulation sleep wakefulness cycle pathogenesis narcolepsy: 17245312
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.51483274 0.49366686 0.23499152 0.22197549 0.18722434 0.17679185 0.17615528 0.16613817
+Sentence indices:  2 5 4 7 6 3 0 1
+
+=================================================================================
+
+Doc 185: sleep wakefulness circadian rhythm affects sleep wakefulness health background understanding shift work disorder: 22401482
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0
+Predicted_probs:   0.5165056 0.48026395 0.29040903 0.1225578
+Sentence indices:  2 1 3 0
+
+=================================================================================
+
+Doc 186: sleep wakefulness physiology sleep wakefulness rhythms: 9503822
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.52213293 0.52213293 0.510173 0.50877315 0.0
+Sentence indices:  3 0 1 4 2
+
+=================================================================================
+
+Doc 187: sleep wakefulness timing consolidation human sleep wakefulness performance symphony oscillators: 16077148
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.54256034 0.5342543 0.51432514 0.51000327 0.5076277 0.5076276 0.5002771 0.4948376 0.15043129 0.12680918 0.0
+Sentence indices:  7 2 9 1 8 6 0 4 3 5 10
+
+=================================================================================
+
+Doc 188: sleep wakefulness role polysialylated neural cell adhesion molecule rapid eye movement sleep regulation rats: 20128854
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.59777874 0.59777874 0.59417146 0.56711704 0.55836946 0.5510871 0.543889 0.5178119 0.25707588
+Sentence indices:  7 3 4 5 0 2 8 6 1
+
+=================================================================================
+
+Doc 189: sleep wakefulness effects striatal transplantation cells transfected gene pre pro regions mouse model parkinson disease: 27286696
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.7310585 0.5202792 0.2883088 0.2690757 0.2576858 0.23399192 0.21864112 0.20256412 0.20184794 0.17592403 0.17311113 0.15535629 0.13661058
+Sentence indices:  7 2 11 3 0 5 10 6 9 4 12 1 8
+
+=================================================================================
+
+Doc 190: sleep wakefulness regulation dopamine neurons ventral tegmental area sleep wakefulness: 9812847
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.52541584 0.5217519 0.5059743 0.50029635 0.18432786
+Sentence indices:  2 4 0 3 1
+
+=================================================================================
+
+Doc 191: sleep wakefulness filo ontogenetic development dopaminergic regylation wakefulness sleep cycle vertabrates: 23401916
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5478443 0.545419 0.545419 0.5264725 0.5237697 0.51710653 0.19004436 0.0
+Sentence indices:  4 3 1 5 7 6 2 0
+
+=================================================================================
+
+Doc 192: sleep wakefulness proton pump inhibition increases rapid eye movement sleep rat: 24701564
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5953261 0.5953261 0.5634356 0.53910226 0.5281999 0.5281999 0.5281999 0.51537 0.50718653 0.0
+Sentence indices:  5 4 8 2 7 6 0 9 1 3
+
+=================================================================================
+
+Doc 193: sleep wakefulness effects lateral preoptic area application orexin sleep wakefulness: 11095491
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5424657 0.5081155 0.50660926 0.4941955 0.41686028 0.19132775 0.19132775
+Sentence indices:  3 6 2 1 0 5 4
+
+=================================================================================
+
+Doc 194: sleep wakefulness vivo microdialysis measures extracellular norepinephrine rat amygdala sleep wakefulness: 12068146
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5550375 0.5222432 0.5156082 0.49602774 0.48281497 0.0 0.0
+Sentence indices:  5 1 0 6 2 4 3
+
+=================================================================================
+
+Doc 195: sleep wakefulness effect ambient temperature brain temperature sleep wakefulness medial preoptic area lesioned rats: 12613391
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55644155 0.5356151 0.530618 0.5239205 0.5136962 0.5075918 0.5073146 0.49051702 0.4781072 0.2566178
+Sentence indices:  9 8 4 3 7 0 6 2 1 5
+
+=================================================================================
+
+Doc 196: sleep wakefulness extracellular histamine levels feline preoptic anterior hypothalamic area natural sleep wakefulness prolonged wakefulness vivo microdialysis study: 12150786
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.54374915 0.53833866 0.5257948 0.52455294 0.52040625 0.515344 0.49840552 0.49349424 0.0
+Sentence indices:  6 4 1 2 5 7 0 8 3
+
+=================================================================================
+
+Doc 197: sleep wakefulness neurotensin expressed orexin producing neurons lateral hypothalamus plays important role regulation sleep wakefulness states: 23620827
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.49882266 0.2889685 0.25266704 0.23486343 0.22736162 0.21834671 0.2183467 0.21654856 0.20804285
+Sentence indices:  5 0 7 2 3 1 4 8 6
+
+=================================================================================
+
+Doc 198: sleep wakefulness receptor adenosinergic homeostatic regulation sleep wakefulness effects antisense receptor cholinergic basal forebrain: 12764116
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.55365056 0.5505653 0.54671025 0.53344285 0.52618974 0.49223354 0.47816986 0.47812435 0.19816373 0.0904855
+Sentence indices:  1 4 5 3 7 0 2 9 8 6
+
+=================================================================================
+
+Doc 199: sleep wakefulness release biogenic amines brain sleep wakefulness cycle: 9503824
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0
+Predicted_probs:   0.5247523 0.52041876 0.5145331 0.23735826
+Sentence indices:  1 3 2 0
+
+=================================================================================
+
+Doc 200: sleep wakefulness underlying brain mechanisms regulate sleep wakefulness cycles: 20969999
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5600159 0.5577527 0.5358306 0.5358306 0.5358306 0.5358306 0.5326017 0.5272724 0.50821626 0.5039062 0.49788913 0.49788913 0.0 0.0
+Sentence indices:  10 3 12 7 5 4 0 1 2 11 13 9 8 6
+
+=================================================================================
+
+Doc 201: sleep wakefulness effect intranasal orexin hypocretin num sleep wakefulness attention narcolepsy cataplexy: 24406723
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.520122 0.5019728 0.50089335 0.49365687 0.47816673 0.29402465 0.24207191 0.23535281 0.22990514 0.0
+Sentence indices:  5 0 4 6 9 1 3 2 8 7
+
+=================================================================================
+
+Doc 202: sleep wakefulness effect dopaminergic substances sleep wakefulness saline treated mice: 18275560
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5695902 0.50884265 0.5010848 0.21995205 0.206343 0.20611557 0.18909496 0.137824 0.13137427
+Sentence indices:  0 6 5 3 4 8 2 1 7
+
+=================================================================================
+
+Doc 203: sleep wakefulness reliability validity daily cognitive communication sleep profile instrument monitoring sleep wakefulness daytime function: 24677656
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.51567906 0.51567906 0.51567906 0.48959672 0.47886676 0.4780827 0.15590869 0.14724483 0.122115105 0.0
+Sentence indices:  6 5 3 7 0 8 1 4 2 9
+
+=================================================================================
+
+Doc 204: sleep wakefulness character sleep disturbances produced multiple administrations atropine antagonist brain muscarinic cholinergic system: 22573754
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.5622361 0.5546298 0.5430953 0.5231416 0.5231416 0.49848288 0.18213952 0.0
+Sentence indices:  5 7 3 6 0 1 4 2
+
+=================================================================================
+
+Doc 205: sleep wakefulness role receptor preoptic area regulation sleep wakefulness rapid eye movement sleep: 10211770
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0
+Predicted_probs:   0.5240841 0.50937927 0.47821656 0.0
+Sentence indices:  1 0 3 2
+
+=================================================================================
+
+Doc 206: sleep wakefulness selective loss receptors orexin producing neurons results disrupted sleep wakefulness architecture: 19246384
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.55135006 0.5019886 0.49236742 0.49197668 0.23251936 0.23237154
+Sentence indices:  4 0 5 1 2 3
+
+=================================================================================
+
+Doc 207: sleep wakefulness sleep wakefulness num hydroxydopamine lesion preoptic area: 10869848
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.5483686 0.5305983 0.5202092 0.5025809 0.47809067 0.21605508
+Sentence indices:  2 0 1 3 4 5
+
+=================================================================================
+
+Doc 208: sustained threat perceived threat predicts neural sequelae combat stress: 21242990
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.4646852 0.42738032 0.41171703 0.35975906 0.25824076 0.23280941 0.0
+Sentence indices:  6 5 2 4 1 3 0
+
+=================================================================================
+
+Doc 209: sustained threat interactions transient sustained neural signals support generation regulation anxious emotion: 22250290
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.45164624 0.41758186 0.410169 0.40132585 0.32802913 0.21172243 0.20252636
+Sentence indices:  5 4 3 0 2 1 6
+
+=================================================================================
+
+Doc 210: sustained threat activity alterations bed nucleus stria terminalis amygdala threat anticipation generalized anxiety disorder: 28981839
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4844562 0.48333085 0.46622622 0.44894257 0.4407146 0.41105318 0.40318507 0.32254252 0.3110172
+Sentence indices:  5 6 1 7 3 4 8 2 0
+
+=================================================================================
+
+Doc 211: sustained threat threat shock increases excitability connectivity intraparietal sulcus: 28555565
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.554838 0.554838 0.40503702 0.3079646 0.0 0.0
+Sentence indices:  5 4 3 2 1 0
+
+=================================================================================
+
+Doc 212: sustained threat sustained anxiety increases amygdala dorsomedial prefrontal coupling mechanism maintaining anxious state healthy adults: 24886788
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.42806587 0.42434418 0.40923917 0.4091678 0.4026599 0.36512572 0.35609108 0.35456285 0.24011049 0.20869714 0.18450402 0.13142367 0.10546485 0.10546485 0.0
+Sentence indices:  3 0 5 9 1 13 4 10 2 11 12 14 8 6 7
+
+=================================================================================
+
+Doc 213: sustained threat prefrontal mechanisms fear reduction threat offset: 21075229
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4604169 0.4290935 0.4235898 0.40427172 0.40080205 0.39919809 0.35077173 0.11459321 0.0
+Sentence indices:  7 5 6 2 4 0 8 1 3
+
+=================================================================================
+
+Doc 214: sustained threat eyes anxiety dissecting threat bias emotional binocular rivalry: 22390706
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.49574614 0.49574614 0.49574614 0.47711793 0.44677073 0.43710148 0.41424668 0.39848042 0.3545593 0.30655363 0.27550414
+Sentence indices:  7 6 3 9 5 4 0 10 1 8 2
+
+=================================================================================
+
+Doc 215: sustained threat social threat cage stress induced sustained extracellular regulated kinase num num phosphorylation differential modulation brain derived neurotrophic factor expression hippocampus mice: 15837118
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.42280254 0.40572378 0.39849246 0.3183382 0.3066777 0.19294389 0.19180329
+Sentence indices:  6 4 1 2 3 0 5
+
+=================================================================================
+
+Doc 216: sustained threat phasic amygdala activation anticipation temporally unpredictable social observation social anxiety disorder patients: 30878610
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.46012095 0.44815516 0.44601706 0.43059048 0.39835846 0.35907185 0.35767084 0.31730774 0.31125224 0.24908958 0.20592438
+Sentence indices:  10 1 2 8 9 0 3 7 4 6 5
+
+=================================================================================
+
+Doc 217: sustained threat expression freezing fear potentiated startle sustained fear mice: 25761115
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.3929751 0.34658974 0.34059042 0.33015168 0.2141326
+Sentence indices:  3 1 0 4 2
+
+=================================================================================
+
+Doc 218: sustained threat cannabinoid receptors distinct circuits extended amygdala determine fear responsiveness unpredictable threat: 27698427
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.46511173 0.44225448 0.42350695 0.40880394 0.31609794 0.23088865 0.15353121
+Sentence indices:  5 4 1 3 6 0 2
+
+=================================================================================
+
+Doc 219: sustained threat modulation sustained fear transcranial direct current stimulation tdcs inferior frontal cortex rifc: 30463809
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.43017167 0.42346027 0.40069193 0.33381042 0.3225467 0.30894998 0.19390476 0.16255708 0.16074027 0.0
+Sentence indices:  3 6 0 8 2 7 9 4 1 5
+
+=================================================================================
+
+Doc 220: sustained threat threat detection behavioral practices animals humans: 20727909
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.40466908 0.39276558 0.1896052 0.16650853 0.12728328 0.0 0.0
+Sentence indices:  0 4 3 2 5 6 1
+
+=================================================================================
+
+Doc 221: sustained threat neurophysiological mechanisms emotional modulation attention interplay threat sensitivity attentional control: 17582673
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.47542584 0.44560912 0.44515598 0.4449795 0.40554377 0.4037303 0.40251592 0.36410427 0.0
+Sentence indices:  6 7 1 0 5 2 3 8 4
+
+=================================================================================
+
+Doc 222: sustained threat shape threat simple geometric forms evoke rapid sustained capture attention: 17683209
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.42497104 0.42315248 0.40298352 0.36174533 0.2308955 0.20980442
+Sentence indices:  2 4 5 1 3 0
+
+=================================================================================
+
+Doc 223: sustained threat cerebral blood flow sustained anxiety: 17554005
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.6232703 0.47228622 0.46254557 0.36041003 0.109510146 0.0
+Sentence indices:  2 4 3 0 5 1
+
+=================================================================================
+
+Doc 224: sustained threat neuroimaging temporal dynamics human avoidance sustained threat: 24095880
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.46443966 0.42327088 0.42256206 0.4046436 0.40087393 0.36707583 0.33575326 0.19827294 0.12944928
+Sentence indices:  5 0 3 2 7 6 1 8 4
+
+=================================================================================
+
+Doc 225: sustained threat phasic sustained fear rats humans role extended amygdala fear anxiety: 19693004
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4143991 0.40251464 0.4007185 0.37165362 0.3555511 0.34823227 0.34195334 0.33410627 0.29118508 0.23268814
+Sentence indices:  7 6 2 3 5 9 8 4 0 1
+
+=================================================================================
+
+Doc 226: sustained threat neural basis improved cognitive performance threat shock: 27369069
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4634369 0.45633304 0.44827235 0.41825488 0.40127826 0.18098629 0.18098629 0.0 0.0
+Sentence indices:  2 4 1 6 7 8 0 5 3
+
+=================================================================================
+
+Doc 227: sustained threat uncertainty increased selective attention sustained stimulus processing: 26810702
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.48682043 0.45030192 0.42132604 0.40174347 0.39994115 0.14956751 0.0 0.0 0.0
+Sentence indices:  4 0 7 1 8 5 6 3 2
+
+=================================================================================
+
+Doc 228: sustained threat affective primes suppress attention bias threat socially anxious individuals: 18472088
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.49865162 0.46039194 0.45501634 0.45199367 0.44205958 0.36076784 0.12932314 0.0 0.0
+Sentence indices:  1 5 6 0 2 3 7 8 4
+
+=================================================================================
+
+Doc 229: sustained threat electrocortical evidence rapid allocation attention threat dot probe task: 25062842
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.4613912 0.45998308 0.45805153 0.4571969 0.4571969 0.4357673 0.4304714 0.42497388
+Sentence indices:  2 6 1 7 4 5 3 0
+
+=================================================================================
+
+Doc 230: sustained threat risk avoidant decision making increased threat electric shock: 22913418
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0
+Predicted_probs:   0.43068066 0.4304375 0.400911 0.39984325 0.39949903 0.0
+Sentence indices:  0 2 5 3 1 4
+
+=================================================================================
+
+Doc 231: sustained threat angiotensin regulation amygdala response threat high trait anxiety individuals: 29980493
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.46679142 0.4109267 0.39966676 0.34357145 0.34237126 0.24133782 0.15541817 0.1326442 0.0
+Sentence indices:  6 7 1 5 4 2 0 3 8
+
+=================================================================================
+
+Doc 232: sustained threat escape bear fall lion impact avoidance availability threat acquisition extinction: 30144498
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0
+Predicted_probs:   0.422703 0.4077659 0.40126973 0.40038803 0.39992595 0.3988201 0.1714673 0.1714673
+Sentence indices:  4 5 1 6 7 3 2 0
+
+=================================================================================
+
+Doc 233: sustained threat attention bias negative emotional information relationship daily worry context acute stress eye tracking study: 28013055
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.5055857 0.47707334 0.46839613 0.4632268 0.4631649 0.44487202 0.42135528
+Sentence indices:  3 0 1 2 5 4 6
+
+=================================================================================
+
+Doc 234: sustained threat network organization unfolds time periods anxious anticipation: 25143607
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5036193 0.4674494 0.4674494 0.4473322 0.4276461 0.33783454 0.31084538 0.26740795 0.14170486
+Sentence indices:  6 7 3 2 4 8 5 0 1
+
+=================================================================================
+
+Doc 235: sustained threat differences startle modulation instructed threat selective attention: 15294391
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.45546064 0.4448778 0.41149643 0.41149643 0.3985137 0.39276558 0.16843703 0.16843703 0.0
+Sentence indices:  4 7 2 1 5 8 6 0 3
+
+=================================================================================
+
+Doc 236: sustained threat measuring anxious responses predictable unpredictable threat children adolescents: 21440905
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.41248587 0.33976847 0.33886403 0.29407364 0.29307488 0.15845157 0.15845157 0.105720975 0.0 0.0 0.0
+Sentence indices:  7 8 3 4 10 2 0 9 6 5 1
+
+=================================================================================
+
+Doc 237: sustained threat neural evidence threat detection advantage differential attention allocation angry happy faces: 20883506
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0
+Predicted_probs:   0.44819328 0.44702348 0.44143188 0.4252792 0.39884838 0.31654984 0.104273655
+Sentence indices:  2 4 0 6 3 5 1
+
+=================================================================================
+
+Doc 238: sustained threat phasic sustained fear humans elicits distinct patterns brain activity: 21111828
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.49669412 0.44885123 0.4236827 0.42069823 0.41440743 0.3528815 0.34079343 0.33927605 0.31780097 0.0
+Sentence indices:  6 7 4 3 8 9 2 1 5 0
+
+=================================================================================
+
+Doc 239: sustained threat distinct phasic sustained brain responses connectivity amygdala bed nucleus stria terminalis threat anticipation panic disorder: 28485259
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.46542782 0.46533978 0.4110352 0.4036942 0.40030375 0.35224044 0.32459772 0.32133102 0.14929388 0.12583916
+Sentence indices:  1 8 4 0 6 5 7 3 2 9
+
+=================================================================================
+
+Doc 240: sustained threat amygdala responses averted direct gaze fear vary function presentation speed: 21666261
+
+Average precision: 0.0
+Predicted_labels:  0 0 0
+Predicted_probs:   0.47476667 0.41489878 0.3379293
+Sentence indices:  2 0 1
+
+=================================================================================
+
+Doc 241: sustained threat fostering prevention care delivery services capability pandemic ebola outbreak symbiosis africa: 26829532
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.5490993 0.49565512 0.4209931 0.39836437 0.30535355 0.20478329 0.18495378 0.15654854 0.1490817 0.0 0.0
+Sentence indices:  2 9 0 6 10 7 8 5 3 4 1
+
+=================================================================================
+
+Doc 242: sustained threat emerging viruses current strategies vaccine intervention: 30993690
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0
+Predicted_probs:   0.42355245 0.41514274 0.31254157 0.27503887 0.2646586
+Sentence indices:  0 1 4 3 2
+
+=================================================================================
+
+Doc 243: sustained threat impact emotional states cognitive control circuitry function: 26601909
+
+Average precision: 0.0
+Predicted_labels:  0 0 0 0 0 0 0 0 0 0
+Predicted_probs:   0.4274697 0.40873966 0.40415236 0.34273398 0.3192595 0.28404778 0.24938889 0.2304845 0.22773062 0.17638347
+Sentence indices:  2 3 6 8 7 9 4 1 0 5
+
+=================================================================================
+

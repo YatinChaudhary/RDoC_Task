@@ -1,0 +1,252 @@
+Acute_Threat_Fear
+27576271	Temporal phases of threat response, including potential threat (anxiety), acute threat (startle, fear), and post-threat response modulation, have been identified as the underlying markers of anxiety disorders.
+28599071	Acute predator threat has emerged as an ethological model of PTSD, yet the effects of predator odor on signaling cascades associated with long-term memory remain poorly understood.
+27981438	This effect was absent following a fear cue.
+16111764	In light of the increasing threat of large-scale massacres such as terrorism against non-combatants (civilians), more attention is warranted not only to posttraumatic stress disorder (PTSD) but also to acute sociogenic pseudoneurological ("conversion") symptoms, especially epidemic sociogenic symptoms.
+17445017	BACKGROUND: Aggressive behaviour poses a threat to the physical and psychological health of psychiatric nursing staff.
+26613707	Assessment of patients for risk of negative emotional outcomes of acute coronary syndrome needs to consider their beliefs about their illness and the degree of threat and fear experienced at the time of the event.
+25365751	Fear is a psychological construct inherent in assessment of and reaction to threat.
+26991018	However, the downstream neural circuits that mediate these fear responses differ according to the nature of the threat, with separate pathways having been identified for predator, conspecific and physically harmful threats.
+19782055	Although KOR signaling during acute stress may increase physical ability (by producing analgesia) and motivation to escape a threat (by producing aversion), prolonged KOR signaling in response to chronic or uncontrollable stress can lead to persistent expression of behavioral signs that are characteristic of human depressive disorders (i.e., "prodepressive-like" signs).
+26877119	Panic attacks are considered as abrupt and intense fear responses to acute threat arising from inside the body, while anxious apprehension refers to anxiety responses to potential harm and more distant or uncertain threat.
+22390711	These experiments show that acute contextual threat and learning experiences interact to shape the deployment of attention away from danger cues.
+21122818	However, little is known about the acute effects of alcohol on amygdala reactivity to threatening information in humans.
+17259206	Participants then completed a series of tasks assessing emotional aspects of attention (visual-probe task), perception (categorization of facial affect), memory (emotional memory task) and reactivity to threat (emotion potentiated startle).
+16298490	The present results provide support for the fear-avoidance model of pain [Vlaeyen JWS, Linton SJ Fear-avoidance and its consequences in chronic musculoskeletal pain: a state of the art Pain 2000;85:317-332] and confirm the importance of threat-expectancy in hypervigilance towards pain and fear avoidance.
+28117048	We investigated reactivity of the amygdala and cortical areas to repeated threat presentations in a prospective study of PTSD.
+28025095	Together, findings indicate that FKBP5 confers risk for fear extinction deficits.
+22362395	CONCLUSIONS: These findings suggest that during stress exposure, neural systems that enhance fear and arousal, modulate attention toward threat, and perseverate on emotional salience of the threat may be engaged preferentially in individuals with the SS genotype.
+21277566	Fear was operationally defined as the increase in startle reactivity during the threat cue in the predictable condition (fear-potentiated startle).
+26877132	Focusing on one key RDoC construct, acute threat or "fear," the current article illustrates a construct-oriented psychoneurometric strategy for operationalizing this construct in individual difference terms-as threat sensitivity (THT+).
+Arousal
+28986700	Non-vocal musical excerpts of the emotional qualities happiness or sadness were rated on arousal and valence dimensions.
+22562463	More specifically, introspective (i.e., verbal reports) and objective (heart rate and respiration rate) measures of arousal were incorporated to examine the relationships between arousal states and both, process components (i.e., routine consistency, timing), and outcome scores related to golf performance.
+26751631	The more nations valued excitement and other high arousal positive states, the more their leaders showed excited smiles; similarly, the more nations valued calm and other low-arousal positive states, the more their leaders showed calm smiles.
+30848050	However, neuroimaging studies suggest that a reliable part of the representation shared between self and others is supramodal and relates to dimensions such as Unpleasantness or arousal, common to qualitatively different experiences.
+20424047	These experiments support the conceptual model linking high-motivation affective states to narrowed attention and low-motivation affective states to broadened attention.
+30448351	Emotional arousal, stress, urge and unpleasantness ratings, as well as mean blood pressure were higher before than after micturition.
+23896304	Anxious Arousal symptoms (e.g., shakiness, heart racing) predicted larger abstinence-induced increases in fatigue and depressive affect (betas .15-.24).
+25701720	At each alert, a short questionnaire was filled in, asking questions about passage of present time, affective state, arousal level, and attention to current activities, among others.
+26214569	Participants in the limited time condition reported valuing calm and other low arousal positive states more than those in the expanded time condition.
+24835467	Specifically, we propose that fMRI nucleus accumbens (NAcc) activity is associated with positive arousal, whereas a combination of anterior insula activity and NAcc activity is associated with negative arousal.
+25556211	Neuroimaging results indicate that activity in primarily top-down control regions of the brain (inferior frontal gyrus and dorsal anterior cingulate cortex) was suppressed in the presence of emotional arousal (both negative and positive ACMs).
+28611707	Women's valence ratings were found to be more polarized and arousal ratings were higher than those made by men, and differences were also present for dominance, origin, and subjective significance.
+28463060	These results demonstrate key differences in audiovisual integration between valence and arousal.
+29321533	These results support the idea that an emotionally congruent body state facilitates the automatic processing of emotionally-charged stimuli and this effect is emotion-specific rather than due to generic factors such as arousal.
+23646134	We discuss the important value of ASR in psychophysiological research on emotion and speculate on HRV as a potential biological marker for demarcating adaptive from maladaptive responding.
+18346833	EtCO2 covaried with pleasantness but not arousal.
+22148994	In contrast to the view that the 5-HTTLPR primarily affects response to adverse experiences, these results suggest that this polymorphism moderates sensitivity to positive as well as negative affect.
+26876723	Three new antidepressive therapeutics arising from this work are briefly noted: 1) DBS of the medial forebrain bundle (MFB) in humans, 2) reduction of psychological pain that may arise from excessive PANIC arousal, and 3) facilitation of social joy through the study of social play in rats The overall argument is that we may more readily develop new psychiatric interventions through preclinical models if we take animal emotional feelings seriously, as opposed to just behavioral changes, as targets for development of new treatments.
+30684514	Building upon prior work on emotions and motivation, we expected that after controlling for arousal and valence, positive affect with higher motivational intensity would facilitate weaker recovery when compared to positive affect with lower motivational intensity.
+29939058	Exploratory results of Study 1 indicated that valuation of high arousal positive affective states was significantly associated with lower depression symptoms but higher anxiety and alcohol abuse symptoms and that valuation of high arousal negative states was specifically associated with greater anxiety symptoms.
+26884121	We used infrared thermography, a non-invasive method, to assess physiological arousal during open field and elevated plus maze tests in mice.
+30718450	We assessed 10 OCD patients with on and off STN DBS in a double-blind randomized manner by recording ratings of valence and arousal to low- and high-intensity positive and negative emotional images.
+25773637	These effects have important implications for the potential therapeutic use of music in neurological or psychiatric diseases, particularly those associated with motor, attention, or affective disturbances.
+16891566	In this article we propose a psychobiological model that construes PTSD fundamentally as a disorder of affect arousal regulation.
+19100525	Participants were placed into one of four emotion induction groups, crossing high and low arousal with positive and negative valence, or a control group.
+28604043	Emotional empathy was measured by subjective ratings of arousal and the similarity of affective states with the target person when viewing photos of a person in an emotionally charged context.
+Circadian_Rhythms
+30523071	Circadian rhythms are endogenously generated recurring patterns of around 24 hours with well-established roles in physiology and behaviour.
+24132226	RESULTS: Both melatonin and circadian rhythms impact reproduction, especially during pregnancy.
+28984167	We also found evidence for circadian rhythms in the EAG response magnitude of foragers but not of nurses.
+27736193	QTmean-RR intervals display clear diurnal and circadian rhythms in both WT and KChIP2(-/-).
+30784558	The mechanistic link between circadian rhythms and neurodegeneration is still not fully understood, although proposed underlying pathways include alterations of protein homoeostasis and immune and inflammatory function.
+29971599	The question is based on disruption of body's circadian rhythms.
+27506697	Spinal cord injured patients showed no circadian rhythms in the diuresis rate or in the renal clearance of creatinine, free water, solutes, sodium or urea.
+29843180	The causal connections between depressive disorders and disturbed circadian rhythms have not been completely clarified.
+30176735	Circadian rhythms have been identified in multiple physiological processes that may affect cardiovascular diseases, yet little is known about the impact of circadian rhythm on acute ST-segment elevation myocardial infarction (STEMI) onset and outcomes in the Middle East.
+29953265	In general, a flatter slope with altered peaks in cortisol and testosterone circadian rhythms has been observed in pathological individuals.
+29702105	Two lines of research in neuroendocrinology have been addressed: reproduction and parental care, particularly focused on paternal attention and the influence of testosterone, and studies on physiology and behavior of circadian rhythms, focused on the circadian biology of the species, its circadian locomotor activity and daily neuroendocrine regulation of metabolic parameters related to energy balance.
+26004319	It has been found for a long time that multiple immune parameters of animals and human are circadian-regulated by light-entrained circadian rhythm.
+24971530	Disordered circadian rhythms are associated with various psychiatric conditions and metabolic diseases.
+29204752	There was little information about behavior of circadian clocks at a single-cell level due to the difficulties in monitoring circadian rhythms of individual cells in an intact plant.
+27568094	Corticosterone is an entraining signal for extra-suprachiasmatic nucleus circadian rhythms.
+26253214	The mechanisms of its effects are unknown although some suggest a relationship to synchronization of circadian rhythms.
+27168152	Inhibition of NO synthesis with L-NAME had no effect on circadian rhythms.
+29966532	CONCLUSIONS: The most of migraine patients do not report a specific circadian profile of attacks occurrence.
+30080328	During aging significant decreasing of catalase activity was compensated by an increase in the amplitude of circadian rhythms of activity of this enzyme in animals of all groups.
+24942699	These circadian rhythms showed diversity in period length and sustainability, suggesting that circadian clock mechanisms are somewhat diversified among duckweeds.
+28823816	Circadian rhythms are biorhythms with a 24-hour period that are regulated by molecular clocks.
+30516584	Pleiotropy, epistasis and nongenetic factors may play important roles in regulating circadian rhythms, some of which may underlie circadian rhythm disturbances in BD.
+28321642	We examine evidence for endogenous abnormalities in the biological clock and disruptions in the external entrainment of circadian rhythms in BSDs.
+29065948	This review will explore the present data in the field of circadian rhythms, ageing and metabolism.
+29660304	Overall, these results indicated that Long-term isoflurane anesthesia induced more aggravated and prolonged memory deficits and circadian rhythms disruption in aged mice.
+28286126	Moreover, whether circadian rhythms of particular motivated behaviors exist is unknown.
+30533004	The knockdown or overexpression of CLOCK had no impact on the circadian rhythms of AANAT, melatonin, BMAL1 and PER2, but it significantly deregulated the circadian rhythms of CLOCK, BMAL2, CRY1/2 and PER3.
+30290235	In this context, this study sought to identify specific sleep and circadian rhythms markers associated with suicidal attempt in euthymic patients with BD.
+28910551	Altogether, these two factors may explain the differences observed in the two residences regarding the circadian rhythms, health status and quality of life.
+29161859	Then they used phase plane analysis tools to investigate circadian rhythms.
+Frustrative_Nonreward
+29922871	Sibling relational aggression is an important but understudied dimension of sibling relationships that has potential implications for adolescents' adjustment.
+25363638	Results are discussed in terms of their implications for advancing the literature on childhood relational aggression and their practical applications for identifying children at risk for these behaviors.
+28377733	A positive contribution of maternal authoritarian style on physical aggression was detected.
+26146468	This paper examined how engagement in preschool physical and relational aggression predicted psychosocial adjustment during the kindergarten school year.
+24156310	Negative friendship quality was found to mediate the association between relational aggression and depressive symptoms as well as between relational aggression and risky behavior, when controlling for physical aggression, gender and age.
+21833240	Relational aggression is a form of covert or indirect aggression or bullying in which harm is caused through damage to relationships or social status within a group, rather than through physical violence.
+22665946	This study examined gender differences in the level and developmental course of relational aggression in middle childhood, as well as early predictors and outcomes of relational aggression, after controlling for concurrent physical aggression.
+30315722	Relational aggression-a psychological form of aggression-has numerous negative consequences for physical and emotional health.
+29544393	For females, psychological aggression victimization and physical aggression perpetration were significant predictors of physical aggression victimization, and physical aggression victimization and psychological aggression perpetration were significant predictors of physical aggression perpetration.
+23880393	Relational aggression was significantly associated with future relational victimization even after controlling for physical aggression and gender.
+18645756	For example, observations of relational aggression were more highly associated with teacher reports of relational aggression than teacher reports of physical aggression.
+25375971	BACKGROUND: Does poor language ability in early childhood increase the likelihood of physical aggression or is language ability delayed by frequent physical aggression?
+28070756	Previous research has focused primarily on corporal punishment as a cause and adolescents' physical aggression as an outcome.
+25132727	Regression analyses, controlling for physical aggression, showed that average and high levels of effective coaching operated as a protective factor against stable high levels of relational aggression.
+25134025	Research on relational aggression (indirect and social means of inflicting harm) has previously focused on adolescent populations.
+30905314	This study investigated the contribution of general normative beliefs about aggression and specific normative beliefs about retaliatory aggression in predicting physical, non-physical and relational aggression.
+22477278	The purpose of this short-term longitudinal study was to examine Chinese children's trajectories of physical and relational aggression and their association with social-psychological adjustment problems (i.e., depressive symptoms and delinquency) and gender.
+26595354	Results revealed that viewing relational aggression on TV was longitudinally associated with future relational aggression.
+25059795	The curvilinear associations between social competence bias and two forms of aggression (physical and relational) were examined in a sample of 4th through 6th graders (n = 183); moderation by both sex and peer status (peer preference and popularity) also were tested.
+28782091	Physical aggression and non-physical aggression/oppositional behavior were measured at 30 months.
+25047296	Despite some similarities between psychological control and relational aggression, confirmatory factor analyses provided evidence that the two sibling processes are distinct.
+26918429	Relational aggression refers to harming others through damaging or manipulating peer relationships.
+28529439	This study is the first to examine relational aggression as a mechanism by which early pubertal timing leads to internalizing problems.
+30710456	Results revealed that exposure to relational aggression on television was associated with higher levels of relational aggression in texting one year later, but only for girls.
+24888340	Being male was related to both elevated physical aggression trajectories and the medium-desisting social aggression trajectory.
+23831139	Moreover, these biases were shown to be specific to the exposure condition (physical or relational) and not simply associated with exposure to aggression in general.
+19822329	Reactive relational aggression was also more strongly related to anger and hostility than proactive aggression.
+24893884	Results indicated significant partner paths from attachment to relational aggression, as well as significant actor paths between relational aggression and physical aggression.
+25047295	Teacher reports were used to assess relational victimization and relational aggression.
+26883026	Analyses compared how girls and boys in each typology of gender similarity differed in their use of relational and physical aggression.
+25047290	In contrast, no link was found between relational aggression and victimization for boys, although relational vulnerabilities did have unique associations with boys' relational victimization.
+21688275	The results show that selection effects of both physical and relational aggression disappeared when network effects, gender, and social status were taken into account.
+29173104	Mediation analyses suggest that attachment behaviors may be a mechanism through which relational aggression influences sexual satisfaction.
+28646480	Gender differences in play behavior and physical aggression have been consistently reported.
+26749211	However, the effect of neighborhoods on youth physical aggression remains unclear.
+Loss
+22829836	The public health challenge of hearing impairment is growing, as age is the major determinant of hearing loss.
+30132909	A conceptual definition of anticipatory loss is proposed based on the findings.
+29291191	Conclusions: After job loss, the respondents experienced feelings of loss of dignity and belonging as a human being.
+23105170	Similarly, a stronger relation between loss of services and symptoms of PTSD also was demonstrated in non-urban compared to urban settings.
+28772194	Among 134 undergraduates, we evaluated whether parasympathetic inflexibility (a lack of reduction in respiratory sinus arrhythmia) in response to a sadness induction involving loss would prospectively predict symptoms of depression across four waves of follow-up over twelve weeks.
+21968572	RESULTS: 15.6% of the sample reported 'rather more' or 'much more than usual' sleep loss due to worry over the prior 4 weeks.
+19068948	There may be a relationship between sleep loss and worry about economic conditions.
+25619113	Key dimensions of ambiguous loss identified in the transcripts include: psychological family, feelings of chronic/recurring loss, finding support, and meaning making.
+26275507	We propose an evolutionary model in which the ASAD and PTSD reactions represent complementary survival responses designed to protect the individual and close attachments from external threats.
+19347691	It was hypothesized that a subset of older adults with hearing loss would report increased CSC at T2.
+24885591	The common psychological experiences participants reported included frustration, worry, loss of identity, embarrassment, and in some participants, a healthy defiance against the disease.
+19762138	The contemporary economic downturn is suggested as a possible explanation for the significant increase in the prevalence of sleep loss through worry in 1991.
+27754926	We categorized measures of financial hardship into: material conditions (eg, out-of-pocket costs, productivity loss, medical debt, or bankruptcy), psychological responses (eg, distress or worry), and coping behaviors (eg, skipped medications).
+24574686	Some of the patients have difficulties adjusting to hair loss.
+29016235	The twice-daily IV regimen is challenging for patients who may experience infusion catheter-related bloodstream infections, difficulties with fatigue, loss of sleep, depressive disorders, and worry over the potential life-threatening side effects and the expenses of this therapy.
+25140524	It is associated with and predicts psychopathology after loss.
+8135720	Correlations with the Padua Inventory subscales showed that obsessional loss of mental control was moderately correlated to both worry and checking, whereas worry and checking were only weakly correlated.
+26307047	Development of psychological distress could be predicted by loss of family member.
+29654021	A total of 42.9% (1113/2593) said they would worry if they had any vision loss and 79.6% (2063/2593) knew that DM could cause blindness.
+25239281	Other important issues were emotional health (34%), physical health (11%), cognitive health (3%), and feelings of loss (9%; feelings of loss related to changes in the future/potential of the care recipient or related to the caregiver).
+29361912	Half would worry about surgery, radiotherapy, chemotherapy, and loss of control over life.
+26594267	Thematic content analysis revealed four categories that contained thirteen themes: (a) negative emotions of loneliness, which included themes of sadness, disconnection, fear, anger, and worry; (b) positive emotions when not lonely, which included themes of joy with others and pride in self; (c) loss of independence and loneliness, which included themes of functional decline contributes to loneliness, burden, and gratitude for help; and (d) ways of managing loneliness, which included remembering holidays and happier moments, staying busy, and getting out.
+30427918	A DT score of 4 or more was found to have a statistically significant correlation with female gender, advanced cancer stages and most of the Problem List items, including child care, work or school, treatment decision, dealing with children and partners, depression, fears, nervousness, sadness, loss of interest in usual activity, religious concerns, appearance, bathing/dressing, breathing, diarrhea, fatigue, feeling swollen, fever, getting around, indigestion, memory and concentration, nausea, dry nose, pain, and sexual problems.
+15132072	The most common worries reported focused on loss of bodily function (44%), being dependent (40%), and being a burden (39%).
+30361884	Themes on priority concerns are presented by the following domains and health outcomes: (1) physical (n = 62 studies), e.g., physical symptoms; (2) psychological (n = 65), e.g., worry; (3) psychosocial (n = 31), e.g., relationships; (4) existential (n = 37), e.g., existential loss; and (5) "other" (n = 39), e.g., information access.
+24854574	The gradual loss of vision due to retinal diseases, such as retinitis pigmentosa (RP), age-related macular degeneration (AMD), or glaucoma can contribute to the experience of negative psychosocial states, such as anxiety, stress, and depression, as well as diminished quality of life.
+23089242	BACKGROUND: Prolonged grief in response to loss has been associated with negative outcomes and decreased well-being in caregivers (i.e., spouse or adult child) of relatives with dementia.
+24695260	Hypoglycemia is also associated with increased health care costs and resources required to treat hypoglycemic events, as well as personal financial costs and loss of productivity at school or work.
+20384499	The 10 most common symptoms were pain (76%), weight loss (70%), itching (67%), feeling drowsy/tired (61%), and lack of energy (61%), numbness /tingling in hands or feet (57%), cough (53%) skin changes (52%), worry (51%), and lack of appetite (49%).
+18427866	Whether OC symptoms become ego-syntonic or ego-dystonic seems to mainly depend on NS levels: low NS might protect people (with the prevention of "exploratory and active behaviours" that may elicit loss of control on symptoms) from the development of interfering OC symptoms.
+21638116	Adolescents tend to experience more problems with sleep loss as a natural consequence of puberty, whereas teens from impoverished urban areas are likely to witness neighborhood violence and/or engage in risk behaviors that may affect sleep.
+25547338	Most common reasons for missed meals included loss of appetite and feelings of fatigue or worry.
+22571425	If rationality is the only factor in valuing a human life, then the loss of that rationality (however such loss might be defined) would allow us to use essentially utilitarian thinking in order to support non-voluntary euthanasia, since the patients themselves would no longer be moral agents that demand respect.
+28843136	Cognitive behavioral therapy (CBT), the best available treatment for BED, does not consistently produce weight loss or improvements in weight QOL.
+Potential_Threat_Anxiety
+25793401	Moreover, the positive relationship between the salience of the Iranian threat and symptoms of anxiety was stronger among OHS.
+20497902	Here, we applied psychophysiological and neuroimaging methodologies sensitive to sustained arousal-based responses to test the role of the human BNST in mediating environmental threat monitoring, a potential experimental model for sustained anxiety symptoms.
+22277369	This study investigated modifications to standing posture in response to elevated postural anxiety evoked by a potential physical threat to stability.
+22913339	Challenge and threat states were successively manipulated via task instructions.
+27369069	These findings identify potential mechanisms by which threat of unpredictable shock can facilitate distinct cognitive functions.
+28008077	Afterwards, in an identical test phase participants watched the same visual cues from the previous phase indicating potential threat or safety, and received painful thermal stimulation.
+26480349	The purpose of this study was to determine the effect of anxiety (threat of shock) on BPS, which was assessed across separate encoding and retrieval sessions.
+25538644	However, when attention is measured in the dot-probe task with the N2pc component of the event-related potential waveform, substantial attentional orienting to threat is observed, and the internal reliability is moderate.
+27129757	Considerable translational research on anxiety examines attention bias to threat and the efficacy of attention training in reducing symptoms.
+23959788	CONCLUSION: These results demonstrate the potential of threat-related attention bias as a behavioral marker of PTSD and anxiety symptoms in a high-risk military occupational context.
+20136732	Furthermore, in both the safety and threat-of-shock conditions, emotional pictures elicited an enlarged early posterior negativity and late positive potential.
+26042381	METHODS: The current systematic review aims at disentangling the heterogeneous findings using effect sizes across results by systematically taking into account potential moderating variables (stimulus type, stimulus duration, situational anxiety, disorder severity).
+24562723	Across methodologies, a uniform finding is that children who have higher threat attenuation are at increased risk for the development of anxiety disorders.
+17530492	However, evidence for memory biases in generalized anxiety disorder (GAD) has been mixed at best.
+25084754	However, whether and how anxiety is related to attentional capture at a more basic level (i.e., in the absence of threat) is less well understood.
+28024913	The present study sought to address this gap by examining anxiety sensitivity, a transdiagnostic factor related to both anxiety and smoking, as a potential mediator for the influence of anxiety symptoms on smoking-related processes, including threat-related smoking abstinence expectancies (somatic symptoms and harmful consequences), perceived barriers for cessation, and problems experienced during past quit attempts.
+27693664	Attentional bias (AB) towards threat, the target mechanism of ABM, was tested as an outcome and a mechanistic mediator and moderator of anxiety reduction.
+20708493	These findings are discussed in relation to current conceptualizations of the construct of emotion as well as directions for future research and potential implications for clinical practice.
+27766643	Taken together, these results highlight the impact of perceived and anticipated respiratory threat on the neural processing of emotional picture stimuli, as well as its modulation by anxiety sensitivity levels.
+26459845	In addition, high and low worriers differed in processing of threat and neutral images as indexed by the late positive potential.
+19055504	Threat-related attentional disruptions in anxiety may relate to changes in cognitive control during task processing.
+28407726	The authors used amygdala-based connectivity during a threat-attention task and a randomized controlled trial design to evaluate potential complementary features of these treatments in pediatric anxiety disorders.
+26039081	In the present study, 41 adolescents diagnosed with a mental illness and 45 demographically matched controls were asked to provide danger ratings of stimuli normatively rated as being either low or high in potential threat.
+23709354	Given its social origin, we asked whether an anxiety-inducing social situation could enhance the processing of faces linked to the situational threat.
+28606471	There is some evidence to suggest that problematic alcohol use is also associated with an enhanced ERN; although prior studies have been almost exclusively in men and have yet to examine the potential interactive effects of anxiety and alcohol abuse symptoms.
+20196100	In particular, the late positive potential (LPP) reflects increased attention to emotional stimuli-and was recently found to be larger with increasing state anxiety.
+27110477	Worry is characterized by streams of verbal thoughts about potential negative outcomes.
+12881033	Examined the relation between childhood anxiety and threat-perception abnormalities using vignettes in which external (i.e., exposure to potential threat cues) and internal (i.e., experience of anxiety responses) information were systematically varied.
+26090588	Given that they are rooted in a complex adaptive system that has many potential points of impact to develop pathology, it is not surprising that anxiety disorders are extremely heterogeneous.
+28370078	The startle reflex and self-reported anxiety were increased in anticipation of both types of threat relative to no threat.
+23834735	It has been established that the public is often confused by the threat that a potential pandemic virus poses and that they are unsure of what information related to the disease they can trust.
+28364943	In successive epochs of this game, participants collect monetary tokens on a spatial grid while under threat of virtual predation.
+21147162	Here we consider important potential advances and remaining future challenges when basic research on threat detection and precautionary responses is used to address the anxiety disorders.
+28183031	These results add to the literature finding associations between systemic levels of inflammation and brain function and suggest that threat-related amygdala activity may serve as a potential pathway through which heightened chronic inflammation may increase risk for mood and anxiety problems.
+Sleep_Wakefulness
+15212970	On the other hand, no significant difference was observed in the total times of wakefulness, non-rapid eye movement sleep and rapid eye movement sleep by any drugs used in the experiments.
+24437258	On the other hand, circadian rhythms in sleep-wakefulness are expressed by two independent but mutually coupled oscillators, the circadian pacemaker and the oscillator specific to sleep-wakefulness.
+9729321	Acute stress is known to modify sleep-wakefulness cycle, although with considerable interindividual differences.
+21647372	Hypothalamic neurons expressing neuropeptide orexins are critically involved in the control of sleep and wakefulness.
+9098558	Independent studies showed that both these inputs influence sleep, wakefulness and body temperature.
+28232786	Temporal patterns of sleep-wakefulness and feeding also changed accordingly.
+17245312	Cells bodies of hypocretin neurons are restricted mainly to the lateral and ventral hypothalamus, while hypocretin fibers project throughout the brain, including several areas implicated in the regulation of the sleep/wakefulness cycle.
+22401482	The disorder consists of a constant or recurrent pattern of sleep interruption that results in insomnia when sleep is needed and excessive sleepiness during waking hours.
+9503822	As the most important site for sleep-wakefulness change, the role of the hypothalamus is particularly emphasized based on our long term experimental data.
+16077148	During entrainment to external 24-h cycles, the opposing interplay between circadian and homeostatic changes in sleep propensity consolidates sleep and wakefulness.
+20128854	Non-REM sleep and wakefulness were unaffected by Endo.
+27286696	The sleep-wakefulness cycle was studied by continuous EEG and motor activity monitoring 1 and 2 weeks after MPTP injection.
+9812847	The above results suggest that bilateral microinjection of GABA and 5-HT into VTA could exert respectively an inhibitory or an excitatory action on the dopamine neurons in VTA, mediating the sleep-wakefulness effect probably through the mesolimbic system.
+23401916	For analysis of quantitative changes dynamics in thyrozinhydroxylase, D1 and D2 immunoreactive material in sleep-wakefulness cycle the model of sleepdeprivation is used.
+24701564	The changes in sleep-wakefulness were compared statistically.
+11095491	Orexin-A was microinjected into lateral preoptic area (IPOA) and the effects on sleep-wakefulness and brain temperature were studied.
+12068146	The aim of this study was to know the change of extracellular NE level in the rat amygdala, which are reciprocally connected with LC, during sleep-wakefulness.
+12613391	The possible contribution of the increased brain temperature variation in producing sleep-wakefulness changes cannot be ruled out.
+12150786	To test this possibility, we used microdialysis sample collection in the preoptic/anterior hypothalamic area of cats during natural sleep-wakefulness cycles, 6 h of sleep deprivation induced by gentle handling/playing, and recovery sleep.
+23620827	A neurotensin receptor antagonist decreased Fos expression in orexin neurons and wakefulness time in wild type mice when administered intraperitoneally.
+12764116	After microdialysis perfusion of A1 receptor antisense in the basal forebrain, spontaneous levels of sleep-wakefulness showed a significant reduction in non-rapid eye movement (REM) sleep with an increase in wakefulness.
+9503824	Accumulated evidences suggest the relevance of these amines to the regulatory system of sleep-wakefulness cycle.
+20969999	Daily cycles of wakefulness and sleep are regulated by coordinated interactions between wakefulness- and sleep-regulating neural circuitry.
+24406723	Administration was preceded by an adaptation night and followed by a modified maintenance of wakefulness test, attention testing and a second full night of polysomnographic recording.
+18275560	Sleep/wakefulness (S/W) disorders are frequent in Parkinson's disease (PD).
+24677656	Afterwards, participants completed the Pittsburgh Sleep Quality Index (PSQI).
+22573754	Thereafter drug administrations were ceased and EEG registration of sleep-wakefulness cycle ultradian structure was continued during 10 consecutive days.
+10211770	The role of GABA in medial preoptico-anterior hypothalamic area in the regulation of spontaneous sleep-wakefulness and rapid eye movement sleep was investigated in this study.
+19246384	Hypothalamic neurons that contain the neuropeptide orexin (hypocretin) play important roles in the regulation of sleep/wake.
+10869848	This study was undertaken to assess the role of catecholamine fibers, terminating in the preoptic area, in regulating sleep-wakefulness in rats.
+Sustained_Threat
+21242990	Our results demonstrate that combat stress has sustained consequences on neural responsivity, and suggest a key role for the appraisal of threat on an amygdala-centered neural network in the aftermath of severe stress.
+22250290	Anxious emotion can manifest on brief (threat response) and/or persistent (chronic apprehension and arousal) timescales, and prior work has suggested that these signals are supported by separable neural circuitries.
+28981839	The results for the BNST activation hint towards its role in sustained threat responding, and contribute to a deeper understanding of pathological sustained anticipatory anxiety in GAD.
+28555565	We report that a single brain region, the intraparietal sulcus (IPS), shows both elevated neural activity and global brain connectivity during threat.
+24886788	Here, we used a robust translational paradigm (threat of shock) to induce sustained anxiety.
+21075229	CONCLUSIONS: These results provide first evidence for a prefrontal mechanism that functions to control anxiety after threat offset, which may be dysfunctional in patients who suffer from excessive sustained anxiety.
+22390706	SAD patients showed a sustained threat bias, though it was smaller than in healthy controls.
+15837118	The sustained BDNF up-regulation in the hippocampi of mice subjected to repeated social threat could be related to rewarding aspects of aggressive interactions, suggested by our previous studies.
+30878610	No differential activity during sustained threat anticipation in SAD patients compared to HC was found.
+25761115	Major findings are that (1) a motion sensitive platform built on mechano-electrical transducers enables measurement of startle responses in freely behaving mice, (2) absence or presence of startle stimuli during retrieval as well as unpredictability of a given threat determine phasic and sustained fear response profiles and (3) both freezing and startle responses indicate phasic and sustained components of behavioral fear, with sustained freezing reflecting unpredictability of conditioned stimulus (CS)/unconditioned stimulus (US) pairings.
+27698427	Although the vast majority of experimental studies assess fear as a transient state of apprehension in response to a discrete threat, such phasic states of fear can shift to a sustained anxious apprehension, particularly in face of diffuse cues with unpredictable environmental contingencies.
+30463809	We found a significant interaction effect of condition x tDCS for SCR during the sustained threat.
+20727909	In contrast to a perceptible threat that releases freezing, fleeing and fighting, abstract potential threat elicits anxiety and vigilance.
+17582673	Enhanced N200 following fearful faces was linked to sustained and even slightly improved executive attention performance (reduced conflict interference) among high threat-sensitive individuals, but with decrements in executive attention among low threat-sensitive individuals.
+17683209	These findings indicate that the meaning of threat can be conveyed rapidly with minimal stimulus detail.
+17554005	The sustained threat context increased CBF in the right hippocampus, mid-cingulate gyrus, subgenual PFC, midbrain periaqueductal gray, thalamus, bilateral ventral striatum, and parieto-occipital cortex.
+24095880	However, our understanding of the temporal dynamics of the network to sustained threat that prompts sustained avoidance is limited.
+19693004	Fear is a generally adaptive state of apprehension that begins rapidly and dissipates quickly once the threat is removed (phasic fear).
+27369069	Findings reveal that threat-related cognitive facilitation (improved NoGo accuracy) is associated with greater activation of a right-lateralized frontoparietal group of regions previously implicated in sustained attention and response inhibition.
+26810702	Uncertainty appears to enhance the engagement of early phasic and sustained attention for uncertainly cued targets.
+18472088	However, under conditions of sustained environmental threat this otherwise-present attention bias disappears.
+25062842	However, there was no evidence of sustained engagement with the threat-related stimuli, as measured by the late positive potential (LPP).
+22913418	The threat cues elicited increased electrodermal activity and a sustained decrease in heart rate, consistent with defensive vigilance.
+29980493	In response to fearful faces, the drug prevented habituation, caused sustained amygdala activation, and led to increased activation in other brain areas associated with threat processing, such as the insula and putamen.
+30144498	When avoidance was unavailable, as during the extinction phase, we observed sustained differential skin conductance responses for threat versus safety cues.
+28013055	Results revealed the hypothesized moderation effect for sustained attention towards threat after the mood induction but not at baseline, though sustained attention towards dysphoric stimuli also moderated the effect of stressors on worry.
+25143607	Together, our study unraveled a progression of responses and network-level changes due to sustained threat.
+15294391	This may reflect a more sustained state of anxiety on which cue-specific fear responses are superimposed.
+21440905	Participants showed fear-potentiated startle to the threat cue in the P condition.
+20883506	A larger sustained posterior contralateral negativity indicated that angry faces also gained more enhanced subsequent processing.
+21111828	Evidence of threat-induced phasic and sustained fear was presented using fear ratings and skin conductance.
+28485259	CONCLUSIONS: We demonstrate a role for the BNST during unpredictable threat anticipation in PD and provide first evidence for dissociation between phasic amygdala and sustained BNST activation and their functional connectivity.
+21666261	Together, these studies provide evidence consistent with an early, reflexive amygdala response tuned to clear threat and a later reflective response tuned to ambiguous threat.
+26829532	Therefore, there is an urgent need to develop novel key strategies are crucial in curbing the constant viral resurgence, persistence transmission dynamics and spread, as well in accelerating Ebola vaccines regimen (immunization) development and national implementation plans in achieving sustained control, and eventual elimination.
+30993690	With each new threat comes the call for rapid vaccine development.
+26601909	The current study examines the impact of emotions on actions using a novel behavioral paradigm and functional neuroimaging to assess cognitive control under sustained states of threat (anticipation of an aversive noise) and excitement (anticipation of winning money).
