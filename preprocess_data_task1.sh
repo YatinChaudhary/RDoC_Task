@@ -1,0 +1,1 @@
+python preprocess_data.py --training-file ./datasets/Task1_without_acronym/train_docs.txt --validation-file ./datasets/Task1_without_acronym/val_docs.txt --test-file ./datasets/Task1_test_data_without_acronym/test_docs.txt --data-output ./datasets/Task1_without_acronym

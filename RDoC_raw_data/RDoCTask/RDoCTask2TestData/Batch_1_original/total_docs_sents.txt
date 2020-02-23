@@ -1,0 +1,682 @@
+======================================================================
+Loss
+======================================================================
+22829836
+
+The public health challenge of hearing impairment is growing, as age is the major determinant of hearing loss.
+Almost one in four (22.6%) over 75-year olds reports moderate or severe worry because of hearing problems.
+There is a 40% comorbidity of tinnitus and balance disorders.
+Good outcomes depend on early presentation and appropriate referral.
+This paper describes how the NHS Improvement Programme in England used service improvement methodologies to identify referral pathways and tools which were most likely to make significant improvements in diagnosing hearing loss, effective referrals and better patient outcomes.
+An audiometric screening device was used in GP surgeries to enable thresholds for effective referrals to be measured in the surgery.
+Revised referral criteria, the use of this device, new "assess and fit" technology in the audiology clinic, and direct access pathways can transform audiology service delivery so that patient outcomes are measurably better.
+This, in turn, changes the experience of GPs, so they are more likely to refer patients who can benefit from treatment.
+At the end of 2011, 51 GP practices in one of the audiology pilot areas had bought HearCheck screeners, a substantial development from the 4 practices who first engaged with the pilot.
+
+30132909
+
+AIM: The aim of this article is to describe the concept of anticipatory loss in adult children for independent aging parents.
+BACKGROUND: The existing literature, with numerous definitions of anticipatory loss, is disease and event specific.
+The literature on anticipation of the normative losses experienced by adult children is sparse.
+DESIGN: The Schwartz-Barcott and Kim hybrid concept analysis was used to examine anticipatory loss in adult noncaregiving children.
+This three-step approach, involving literature review, fieldwork, and final analysis, has been used successfully to compare, revise, and expand a number of existing definitions.
+DATA SOURCE: Empirical and conceptual literature as well as qualitative fieldwork.
+RESULTS: Defining attributes of anticipatory loss in healthy aging families are worry, sadness, and gratitude.
+Worry about future loss is tempered by gratitude for current parental good health.
+Anticipatory loss acts as an impetus for adult children to connect with parents and siblings.
+A conceptual definition of anticipatory loss is proposed based on the findings.
+CONCLUSIONS: Anticipating the loss of a healthy aging parent is different from existing conceptualizations of anticipatory loss and related concepts.
+Future research is needed to validate this concept and explore connections with health outcomes.
+
+29291191
+
+Introduction: Several studies have revealed an association between unemployment and ill health, and shown that unemployment can affect people differently.
+This study aimed to provide an understanding of the experiences of unemployment and perceptions of wellbeing among persons who involuntary lost their work during the recent economic recession in Gavle Municipality.
+Methods: Sixteen unemployed men and women aged 28-62 were interviewed face-to-face.
+A purposeful sampling strategy was used in order to suit the research question and to increase the variation among informants.
+The interview texts were analysed using thematic analysis.
+Results: Six different themes emerged from the accounts: The respondents perceived work as the basis for belonging, and loss of work affected their social life and consumption patterns due to changes in their financial situation.
+They also expressed feelings of isolation, loss of self-esteem, and feelings of hopelessness, which affected their physical well-being.
+Longer duration of unemployment increased the respondents' negative emotions.
+The respondents reported activities, structure, and affiliation in other contexts as part of their coping strategy against poor mental health.
+Conclusions: After job loss, the respondents experienced feelings of loss of dignity and belonging as a human being.
+They also felt worry, insecurity, and stress due to their changed financial situation, which in turn led to isolation and loss of self-esteem.
+Social support and having other activities gave the respondents structure and meaning.
+
+23105170
+
+Disasters have been associated with both acute and prolonged distress and significant post-disaster psychiatric symptoms.
+These outcomes may be further complicated by extended periods without vital services and supplies, such as electricity and drinking water.
+The present study investigated the relations between post-disaster loss of services and psychiatric symptoms in urban/non-urban disaster victims.
+Random-digit-dial methodology was used to interview 1,249 victims of Hurricane Ike, a strong storm that hit Galveston, TX in 2008.
+Findings demonstrated significant relations between loss of services and post-disaster symptoms of posttraumatic stress disorder (PTSD), depression, and worry.
+These relations varied by urban/non-urban settings; there were significant positive relations between loss of services and symptoms of depression in non-urban settings, but not in urban settings.
+Similarly, a stronger relation between loss of services and symptoms of PTSD also was demonstrated in non-urban compared to urban settings.
+Findings highlight the potential importance of pre-disaster preparation, post-disaster restoration of services, and post-disaster community support in post-disaster psychiatric outcomes, with a particular emphasis in non-urban settings.
+
+28772194
+
+Depression often is characterized by inflexible autonomic and metacognitive processes that interfere with effective self-regulation.
+However, few studies have integrated these factors to improve the prediction of which individuals are at greatest risk for depression.
+Among 134 undergraduates, we evaluated whether parasympathetic inflexibility (a lack of reduction in respiratory sinus arrhythmia) in response to a sadness induction involving loss would prospectively predict symptoms of depression across four waves of follow-up over twelve weeks.
+Furthermore, we evaluated whether metacognitive components of perseverative cognition (PC) and decentering (identified by a principal component analysis) would moderate this relationship in opposite directions.
+Multilevel modeling demonstrated that the relationship between parasympathetic inflexibility and prospective symptoms of depression was exacerbated by PC, but attenuated by decentering.
+Furthermore, individuals with parasympathetic inflexibility, PC, and low decentering were at greatest risk for symptoms of depression across follow-up.
+These results support the utility of integrating autonomic and metacognitive risk factors to identify individuals at risk for depression.
+
+21968572
+
+BACKGROUND: The association between specific sleeping disorders and risk of cardiovascular disease (CVD) is unclear.
+We assessed the association between sleep loss due to worry and future risk of CVD and death in a representative sample of community dwelling adults.
+METHODS: A cohort of 11,905 adults (aged 53.4 +/- 12.2 years, 42.2% male) without known history of CVD were drawn from the Scottish Health Surveys.
+Self-reported sleep disturbance was measured using a single item from the General Health Questionnaire.
+Incident CVD events (comprising CVD death, nonfatal myocardial infarction, coronary surgical procedures, stroke, and heart failure) over 8-year follow up were ascertained by a linkage to national registers; a total of 1448 CVD events and 1249 all-cause deaths were recorded.
+RESULTS: 15.6% of the sample reported 'rather more' or 'much more than usual' sleep loss due to worry over the prior 4 weeks.
+Sleep loss due to worry (much more than usual) was associated with elevated risk of CVD [age- and sex-adjusted hazard ratio (HR) 1.74, 95% confidence interval (CI) 1.35-2.25] and all-cause mortality (age- and sex-adjusted HR 2.02, 95% CI 1.57-2.61).
+Adjustment for a range of psychosocial, behavioural, and clinical risk factors partly attenuated the association, and in particular health behaviours (smoking, alcohol, physical inactivity) accounted for approximately 40% of the sleep-CVD relation.
+CONCLUSION: Sleep loss due to worry was associated with a greater risk of CVD and all-cause mortality, but the association can be largely explained by intermediate risk factors such as health behaviours.
+
+19068948
+
+Farm work involves seasonal peak busy periods with long hours of work and potential sleep loss.
+Social, technological, and economic changes, and depressed commodity prices, have resulted in financial stress.
+There may be a relationship between sleep loss and worry about economic conditions.
+The objective of this study was to examine the association between hours of sleep and worry associated with cash flow shortages and worry associated with debt among a population of farmers and their family members.
+One hundred and ninety-five persons from 94 active farms in two rural municipalities in west central Saskatchewan were interviewed by questionnaire.
+Logistic regression analyses were used to quantify associations between sleep patterns and economic concerns during peak seasons and nonpeak seasons.
+During peak agricultural seasons, 31.6% of owners/operators reported less than 6 hours of sleep per night compared to 6.3% during the nonpeak seasons (p< .01).
+A significant relationship (odds ration [OR] 3.59, confidence interval [Cl] 1.58-8.13) was observed between daily cash flow worry and impaired sleep during peak busy seasons.
+A large proportion of farmers surveyed suffered sleep deprivation during peak seasons, and this sleep loss appeared related to worries about cash flow that were not observed during nonpeak seasons.
+It is possible that sleep loss during peak busy seasons may be related to impared judgment, as shown by differential worry habits, and might also be related to the high injury rates in farmers during peak busy seasons.
+
+25619113
+
+In this study, an ambiguous loss framework as described by Boss (1999, Ambiguous loss: Learning to live with unresolved grief, First Harvard University Press, Cambridge, MA) was used to examine and understand the family experiences of Mexican immigrant agricultural workers in Minnesota.
+Transcripts from interviews with 17 workers in Minnesota and 17 family members in Mexico were analyzed using qualitative methodology to identify experiences of ambiguous loss in the participants' narratives.
+Key dimensions of ambiguous loss identified in the transcripts include: psychological family, feelings of chronic/recurring loss, finding support, and meaning making.
+In the category of psychological family, participants in both Mexico and the United States mourned the physical absence of their family members and experienced ambiguity regarding family responsibilities, but worked to maintain their psychological roles within the family.
+In the category of chronic/recurring loss, participants in both countries experienced chronic worry from not knowing if family members were safe, ambiguity regarding when the immigrant would return, and chronic stressors that compounded these feelings of loss.
+Participants in both countries coped with both real and ambiguous losses by accessing family support and by using ambiguous communication to minimize worry.
+Participants in Mexico also accessed work and community-based support.
+Participants in both countries made meaning of the ambiguous loss by identifying ways their lives were improved and goals were met as a result of the immigration for agricultural work in Minnesota.
+
+26275507
+
+There is some evidence that adult separation anxiety disorder (ASAD) symptoms are closely associated with posttraumatic stress disorder (PTSD) amongst refugees exposed to traumatic events (TEs), but the pathways involved remain to be elucidated.
+A recent study suggests that separation anxiety disorder precedes and predicts onset of PTSD.
+We examined a path model testing whether ASAD symptoms and worry about family mediated the path from traumatic losses to PTSD symptoms amongst 230 refugees from West Papua.
+Culturally adapted measures were applied to assess TE exposure and symptoms of ASAD and PTSD.
+A structural equation model indicated that ASAD symptoms played an important role in mediating the effects of traumatic losses and worry about family in the pathway to PTSD symptoms.
+Although based on cross-sectional data, our findings suggest that ASAD symptoms may play a role in the path from traumatic losses to PTSD amongst refugees.
+We propose an evolutionary model in which the ASAD and PTSD reactions represent complementary survival responses designed to protect the individual and close attachments from external threats.
+
+19347691
+
+This study tested prospective models of anxiety and depression following a first time diagnosis of age-related hearing loss, also known as presbycusis, which is one of the most common and disabling health problems in the world.
+The predictor of interest was cognitive self-consciousness (CSC; Cartwright-Hatton & Wells (1997).
+Beliefs about worry and intrusions: The Meta-Cognitions Questionnaire and its correlates.
+Journal of Anxiety Disorders, 11, 276-279.
+), or the tendency to closely attend to and monitor the content and process of one's own thoughts.
+Sixty-seven older adults were assessed at a university-based audiology clinic at three timepoints: at the time of diagnosis (T1), six (T2), and 12 months later (T3).
+Measures of anxiety, depression, and CSC were collected.
+It was hypothesized that a subset of older adults with hearing loss would report increased CSC at T2.
+Additionally, the interaction of CSC and anxiety and depression symptoms at T2 was expected to predict significant variance in measures of anxiety and depression at T3, even after baseline levels of distress were controlled in regression models.
+Finally, it was hypothesized that consistent use of a hearing aid by T3 would act as a palliative to reduce distress in response to hearing loss at T3.
+Results were partially consistent with hypotheses and point to a new direction in preventing anxiety and depression following a first time diagnosis of presbycusis.
+
+24885591
+
+BACKGROUND: Lymphangioleiomyomatosis (LAM) is a rare, progressive lung disease that affects almost exclusively women and is most often diagnosed before menopause.
+The main symptom of LAM is shortness of breath.
+LAM patients' perceptions of how the disease impacts their lives is largely unknown, but such information could be useful to generate patient reported outcome measures for use in drug trials (or other research studies) and to formulate interventions aimed at easing the burdens LAM imposes on patients.
+OBJECTIVE: To capture patients' perceptions of how LAM affects their lives.
+METHODS: We used reflexive team analysis to analyze transcripts from semi-structured focus groups conducted with LAM patients at LAMposium 2013.
+We sought to determine what patients perceive as the primary symptoms of LAM and how the disease affects them in their daily lives.
+RESULTS: The 37 participants described seven primary symptoms of LAM and five common psychological experiences from living with the disease.
+Shortness of breath and low energy (or fatigue) dominated the symptomatic picture; cough, sensations in the chest, difficulty sleeping, gastrointestinal issues, and mild cognitive difficulties were less common.
+The common psychological experiences participants reported included frustration, worry, loss of identity, embarrassment, and in some participants, a healthy defiance against the disease.
+CONCLUSIONS: Patients perceive the physical symptoms from LAM to be intrusive and limiting.
+Women living with LAM are frustrated by their physical limitations, and they worry about what the future will be like if the disease progresses.
+Therapeutic interventions should take aim at improving these perceptions.
+
+19762138
+
+Using two longitudinal and nationally representative datasets, this study employs a cross-cohort analysis to examine age, cohort and period effects in the prevalence of sleep loss through worry for people over the age of 50 in the UK.
+The likelihood of reporting sleep loss through worry is calculated at two time-points for 7785 respondents from the Health and Activity Survey (HALs) and 21,834 respondents from the English Longitudinal Study of Ageing (ELSA), with baseline information on sleep loss through worry.
+Descriptive statistical methods were applied to determine the prevalence rates in sleep loss through worry at each survey within both datasets.
+The results of analysis reveal that sleep loss through worry declined with age, but this pattern was tempered by a temporary increase in the early 1990s.
+The contemporary economic downturn is suggested as a possible explanation for the significant increase in the prevalence of sleep loss through worry in 1991.
+
+27754926
+
+Background: With rising cancer care costs, including high-priced cancer drugs, financial hardship is increasingly documented among cancer survivors in the United States; research findings have not been synthesized.
+Methods: We conducted a systematic review of articles published between 1990 and 2015 describing the financial hardship experienced by cancer survivors using PubMed, Embase, Scopus, and CINAHL databases.
+We categorized measures of financial hardship into: material conditions (eg, out-of-pocket costs, productivity loss, medical debt, or bankruptcy), psychological responses (eg, distress or worry), and coping behaviors (eg, skipped medications).
+We abstracted findings and conducted a qualitative synthesis.
+Results: Among 676 studies identified, 45 met the inclusion criteria and were incorporated in the review.
+The majority of the studies (82%, n = 37) reported financial hardship as a material condition measure; others reported psychological (7%, n = 3) and behavioral measures (16%, n = 7).
+Financial hardship measures were heterogeneous within each broad category, and the prevalence of financial hardship varied by the measure used and population studied.
+Mean annual productivity loss ranged from $380 to $8236, 12% to 62% of survivors reported being in debt because of their treatment, 47% to 49% of survivors reported experiencing some form of financial distress, and 4% to 45% of survivors did not adhere to recommended prescription medication because of cost.
+Conclusions: Financial hardship is common among cancer survivors, although we found substantial heterogeneity in its prevalence.
+Our findings highlight the need for consistent use of definitions, terms, and measures to determine the best intervention targets and inform intervention development in order to prevent and minimize the impact of financial hardship experienced by cancer survivors.
+
+24574686
+
+Few dermatologic complaints carry as much emotional overtones as hair loss.
+Adding to the patient's worry may be prior frustrating experiences with physicians, who trivialize hair loss.
+A detailed patient history, physical examination and few pertinent screening blood tests usually establish a specific diagnosis.
+Once the diagnosis is certain, treatment appropriate for that diagnosis is likely to control the problem.
+Treatment options are available, though limited, in terms of indications and efficacy.
+Success depends both on comprehensions of the underlying pathology and on unpatronizing sympathy from the part of the physician.
+Ultimately, patients need to be educated about the basics of the hair cycle and why considerable patience is required for effective cosmetic recovery.
+Communication is an important component of patient care.
+For a successful encounter at an office visit, one needs to be sure that the patient's key concerns have been addressed.
+Physicians should recognize that alopecia goes well beyond the simple physical aspects of hair loss.
+Patients' psychological reactions to hair loss are less related to physicians' ratings than to patients' own perceptions.
+Some of the patients have difficulties adjusting to hair loss.
+The best way to alleviate the emotional distress is to eliminate the hair disease that is causing it.
+Treatment success relies on patient compliance.
+Rather than being the patient's failure, patient non-compliance results from failure of the physician to ensure confidence and motivation.
+Finally, patients with hypochondriacal, body dysmorphic, somatoform, or personality disorders remain difficult to manage.
+The physician should be careful not to be judgmental or scolding because this may rapidly close down communication.
+The influence of the prescribing physician should be kept in mind, since inspiring confidence versus scepticism and fear clearly impacts the outcome of treatment.
+Sometimes the patient gains therapeutic benefit just from venting concerns in a safe environment with a caring physician.
+
+29016235
+
+Patients receiving home parenteral nutrition (HPN), a life-sustaining intravenous (IV) infusion that provides nourishment and hydration to patients with short gut or inflammatory bowel diseases, are often isolated and not in visual contact with peers or health providers.
+One completed clinical trial (Clinical Trials.gov NCT0190028) and 1 ongoing clinical trial (Clinical Trials.gov NCT02987569) are evaluating a mobile videoconferencing-delivered support group intervention for patients on HPN and their caregivers.
+This home-based telemedicine intervention uses encrypted tablet-based videoconferencing to connect multiple families in real time.
+The twice-daily IV regimen is challenging for patients who may experience infusion catheter-related bloodstream infections, difficulties with fatigue, loss of sleep, depressive disorders, and worry over the potential life-threatening side effects and the expenses of this therapy.
+Using secure telemedicine, the facilitated support group intervention aims to enhance HPN home care, daily functioning, and quality of life.
+The authors provide the rationale for the telemedicine approach with HPN users and caregivers.
+They provide "how-to" information about the content and process of the facilitated support group sessions via secure videoconferencing.
+They share lessons learned from the ongoing evaluation of the telemedicine approach.
+
+25140524
+
+Rumination is a risk factor in adjustment to bereavement.
+It is associated with and predicts psychopathology after loss.
+Yet, the function of rumination in bereavement remains unclear.
+In the past, researchers often assumed rumination to be a maladaptive confrontation process.
+However, based on cognitive avoidance theories of worry in generalised anxiety disorder (GAD) and rumination after post-traumatic stress disorder (PTSD), others have suggested that rumination may serve to avoid painful aspects of the loss, thereby contributing to complicated grief.
+To examine if rumination is linked with loss avoidance, an eye-tracking study was conducted with 54 bereaved individuals (27 high and 27 low ruminators).
+On 24 trials, participants looked for 10 seconds at a picture of the deceased and a picture of a stranger, randomly combined with negative, neutral or loss-related words.
+High ruminators were expected to show initial vigilance followed by subsequent disengagement for loss stimuli (i.e., picture deceased with a loss word) in the first 1500 ms. Additionally, we expected high ruminators to avoid these loss stimuli and to show attentional preference for non-loss-related negative stimuli (i.e., picture stranger with a negative word) on longer exposure durations (1500-10000 ms).
+Contrary to expectations, we found no evidence for an effect of rumination on vigilance and disengagement of loss stimuli in the first 1500 ms.
+However, in the 1500-10000 ms interval, high ruminators showed shorter gaze times for loss stimuli and longer gaze times for negative (and neutral) non-loss-related stimuli, even when controlling for depression and complicated grief symptom levels.
+Effects of rumination on average fixation times mirrored these findings.
+This suggests that rumination and loss avoidance are closely associated.
+A potential clinical implication is that rumination and grief complications after bereavement may be reduced through the use of exposure and acceptance-based therapeutic techniques.
+
+8135720
+
+The relationships between self-reported worry and obsessional-compulsive symptoms were examined among 145 hospital outpatients.
+Subjects completed the Penn State Worry Questionnaire and the Padua Inventory.
+Despite moderately strong correlations, the scales measured distinct constructs.
+Eliminating five items from the Padua Inventory may improve its discriminant validity.
+Correlations with the Padua Inventory subscales showed that obsessional loss of mental control was moderately correlated to both worry and checking, whereas worry and checking were only weakly correlated.
+The results are discussed in terms of possible relationships between worry and obsessions.
+
+26307047
+
+BACKGROUND: By September 2014, an outbreak of Ebola Viral Disease (EVD) in West African countries of Guinea, Liberia, Sierra Leone, Senegal and Nigeria, had recorded over 4500 and 2200 probable or confirmed cases and deaths respectively.
+EVD, an emerging infectious disease, can create fear and panic among patients, contacts and relatives, which could be a risk factor for psychological distress.
+Psychological distress among this subgroup could have public health implication for control of EVD, because of potential effects on patient management and contact tracing.
+We determined the Prevalence, pattern and factors associated with psychological distress among survivors and contacts of EVD and their relatives.
+METHODS: In a descriptive cross sectional study, we used General Health Questionnaire to assess psychological distress and Oslo Social Support Scale to assess social support among 117 participants who survived EVD, listed as EVD contacts or their relatives at Ebola Emergency Operation Center in Lagos, Nigeria.
+Factors associated with psychological distress were determined using chi square/odds ratio and adjusted odds ratio.
+RESULTS: The mean age and standard deviation of participants was 34 +/ - 9.6 years.
+Of 117 participants, 78 (66.7%) were females, 77 (65.8%) had a tertiary education and 45 (38.5%) were health workers.
+Most frequently occurring psychological distress were inability to concentrate (37.6%) and loss of sleep over worry (33.3%).
+Losing a relation to EVD outbreak (OR = 6.0, 95% CI, 1.2-32.9) was significantly associated with feeling unhappy or depressed while being a health worker was protective (OR = 0.4, 95% CI, 0.2-0.9).
+Adjusted Odds Ratio (AOR) showed losing a relation (AOR = 5.7, 95% CI, 1.2-28.0) was a predictor of "feeling unhappy or depressed", loss of a relation (AOR = 10.1, 95% CI, 1.7-60.7) was a predictor of inability to concentrate.
+CONCLUSIONS: Survivors and contacts of EVD and their relations develop psychological distress.
+Development of psychological distress could be predicted by loss of family member.
+It is recommended that psychiatrists and other mental health specialists be part of case management teams.
+The clinical teams managing EVD patients should be trained on recognition of common psychological distress among patients.
+A mental health specialist should review contacts being monitored for EVD for psychological distress or disorders.
+
+29654021
+
+OBJECTIVE: To assess the association between awareness of diabetic retinopathy (DR) and actual attendance for DR screening.
+DESIGN: Cross-sectional study.
+SETTING: Two public general outpatient clinics.
+PARTICIPANTS: The subjects were people with diabetes mellitus (DM) who participated in a randomised controlled trial, set up in 2008, to test the impact of a copayment on attendance for DR screening.
+PRIMARY AND SECONDARY OUTCOME MEASURES: The subjects' awareness of DR was evaluated using a structured questionnaire conducted via a telephone interview.
+The attendance for screening was from the actual attendance data.
+Association between awareness and attendance for screening was determined using multivariate logistic regression model and was reported as ORs.
+RESULTS: A total of 2593 participants completed the questionnaire.
+A total of 42.9% (1113/2593) said they would worry if they had any vision loss and 79.6% (2063/2593) knew that DM could cause blindness.
+Only 17.5% (453/2593) knew that treatment was available for DR and 11.5% (297/2593) knew that early DR could be asymptomatic.
+The importance of having a regular eye examination was acknowledged by 75.7% (1964/2593), but 34% (881/2593) did not know how frequently their eyes should be examined.
+Worry about vision loss (OR=1.72, P<0.001), awareness of the importance of regular eye examination (OR=1.83, P=0.002) and awareness of the frequency of eye examinations ('every year' (OR=2.64, P<0.001) or 'every 6 months' (OR=3.27, P<0.001)) were the most significant factors associated with attendance.
+CONCLUSIONS: Deficits in knowledge of DR and screening were found among subjects with DM, and three awareness factors were associated with attendance for screening.
+These factors could be targeted for future interventions.
+
+25239281
+
+OBJECTIVES: To identify aspects of health-related quality of life (HRQOL) that are relevant to caregivers of individuals with traumatic brain injury (TBI) and to propose an integrated conceptual framework based on this information.
+DESIGN: Nine focus groups with caregivers of individuals with moderate-to-severe TBI were qualitatively analyzed to ascertain the effect that caring for an individual with a TBI has on caregiver HRQOL.
+SETTING: University hospitals and rehabilitation treatment centers.
+PARTICIPANTS: Caregivers (N=55) of individuals with moderate-to-severe TBI.
+INTERVENTIONS: Not applicable.
+MAIN OUTCOME MEASURES: Not applicable.
+RESULTS: Qualitative analysis indicated that caregivers were most concerned about their social health (42% of comments).
+Other important issues were emotional health (34%), physical health (11%), cognitive health (3%), and feelings of loss (9%; feelings of loss related to changes in the future/potential of the care recipient or related to the caregiver).
+Areas of concern that were discussed that were specific to the caregiver and not fully evaluated by existing patient-reported outcomes (PROs) included feelings of loss, anxiety related to the caregiver role (reinjury concerns, worry about leaving the person alone, etc), and caregiver strain (burden, stress, feeling overwhelmed, etc).
+CONCLUSIONS: Although existing PROs capture relevant aspects of HRQOL for caregivers, there are HRQOL domains that are not addressed.
+A validated and sensitive HRQOL tool for caregivers of individuals with TBI will facilitate initiatives to improve outcomes in this underserved group.
+
+29361912
+
+BACKGROUND: Surveys indicate quite high prevalence of cancer worry in the general population, but little is known about what it is about cancer that worries people.
+A better understanding of the origins of cancer worry may help elucidate previously found inconsistencies in its behavioural effect on cancer prevention, screening uptake, and help-seeking for symptoms.
+In this study, we explore the prevalence and population distribution of general cancer worry and worries about specific aspects of cancer previously identified.
+METHODS: A population-based survey of 2048 English adults (18-70 years, April-May 2016), using face-to-face interviews to assess demographic characteristics, general cancer worry and twelve sources of cancer worry (adapted from an existing scale), including the emotional, physical, and social consequences of a diagnosis.
+RESULTS: In general, a third of respondents (37%) never worried about cancer, 57% worried occasionally/sometimes, and 6% often/very often.
+In terms of specific worries, two thirds would be 'quite a bit' or 'extremely' worried about the threat to life and emotional upset a diagnosis would cause.
+Half would worry about surgery, radiotherapy, chemotherapy, and loss of control over life.
+Worries about the social consequences were less commonly anticipated: just under half would worry about financial problems or their social roles, and a quarter would be worried about effects on identity, important relationships, gender role, and sexuality.
+Women and younger people reported more frequent worry about getting cancer, and would be more worried about the emotional, physical, and social consequences of a cancer diagnosis (p < .001).
+Those from ethnic minority backgrounds reported less frequent worry about getting cancer than their white counterparts, but would be equally worried about the emotional and physical impact of a cancer diagnosis, and worried more about the social consequences of a cancer diagnosis (p < .05).
+CONCLUSIONS: The majority of English adults worry at least occasionally about getting cancer, and would be most worried about the emotional and physical impact of a cancer diagnosis.
+Distinguishing between the various worries that cancer can evoke may help inform efforts to allay undue worries in those who are deterred by them from engaging with cancer prevention and early detection.
+
+26594267
+
+This phenomenological qualitative study explored the experience of living with loneliness and multiple chronic conditions for rural older women in Appalachia.
+The study took place in 2012 in Northern West Virginia.
+Participants were 14 older women who were chronically ill, community dwelling, and lonely (Score of 40 or higher on the Revised 20-item UCLA Loneliness Scale).
+Thematic content analysis revealed four categories that contained thirteen themes: (a) negative emotions of loneliness, which included themes of sadness, disconnection, fear, anger, and worry; (b) positive emotions when not lonely, which included themes of joy with others and pride in self; (c) loss of independence and loneliness, which included themes of functional decline contributes to loneliness, burden, and gratitude for help; and (d) ways of managing loneliness, which included remembering holidays and happier moments, staying busy, and getting out.
+The study contributes new knowledge about the experience of anger, fear, and worry when lonely.
+These emotions have not extensively been identified as significant to loneliness.
+Future studies exploring the links between loneliness and anger, fear, worry, and negative physical health outcomes could enhance knowledge of mechanisms by which loneliness contributes to health decline.
+Additionally, knowing that positive emotions such as joy are described as being linked to less lonely times could inform future work that aims to diminish loneliness and enhance positive emotional states.
+Finally, understanding that functional impairment is described as contributing to loneliness in this population reinforces the need to assess for and address functional limitations.
+
+30427918
+
+BACKGROUND: The distress thermometer (DT) has been studied and validated as an effective screening instrument for identifying distress among cancer patients worldwide.
+This study aims to evaluate the validity of the Arabic version of the DT in Saudi cancer patients, to define the optimal cutoff point of the Arabic DT for detecting clinically significant distress and to determine whether there is any correlation between clinically significant distress and other demographic and Problem List variables.
+METHODS: The original form of the DT was translated to Arabic using a forward and backward translation method.
+Then, a group of 247 cancer patients who were followed up at the Outpatient Oncology Clinic at King Saud Medical City in Riyadh, Saudi Arabia, completed a socio-demographic and clinical status questionnaire, the DT and the Problem List scale, and the Hospital Anxiety and Depression Scale (HADS).
+RESULTS: Receiver operating characteristic (ROC) curve analyses picked out an area under the curve of 0.76 when compared with a HADS cutoff score of 15.
+The DT had the best sensitivity (0.70) and specificity (0.63) with cutoff score of 4.
+A DT score of 4 or more was found to have a statistically significant correlation with female gender, advanced cancer stages and most of the Problem List items, including child care, work or school, treatment decision, dealing with children and partners, depression, fears, nervousness, sadness, loss of interest in usual activity, religious concerns, appearance, bathing/dressing, breathing, diarrhea, fatigue, feeling swollen, fever, getting around, indigestion, memory and concentration, nausea, dry nose, pain, and sexual problems.
+In contrast, a multivariate regression analysis confirmed only advanced cancer stages, treatment decision, depression, fear, sadness, worry, breathing, feeling swollen, fever, indigestion, memory and concentration, dry nose and congestion, pain and sleep as independent factors associated with distress in cancer patients.
+CONCLUSIONS: We found the Arabic version of the DT to be a valid instrument for screening distress in Saudi patients with cancer.
+Our study proposes using a cutoff score of 4 as an indicator of clinically significant distress in this population.
+
+15132072
+
+In this exploratory study, family members of 63 decedents were interviewed by telephone, two to five months post-death, about their perceptions of their loved one's worries, symptoms, and suffering at the end of life.
+The most common worries reported focused on loss of bodily function (44%), being dependent (40%), and being a burden (39%).
+Distressing physical and psychological symptoms were reported.
+A majority (94%) of family members reported that their loved one suffered at the end of life, but only worries about loss of quality of life (e.g., being unable to participate in enjoyable activities) were predictive of reports of suffering.
+Findings suggest that worries, irrespective of the level of current symptoms, play an important role in the suffering of dying patients, and that treatment plans for the terminally ill should routinely explore both symptoms and worries.
+
+30361884
+
+BACKGROUND: The design and provision of quality pediatric palliative care should prioritize issues that matter to children and their families for optimal outcomes.
+OBJECTIVE: This review aims to identify symptoms, concerns and outcomes that matter to children and young people ("young people") with terminal illnesses and their families.
+Findings from the systematic review will inform the development of a relevant framework of health outcomes.
+METHOD: This is a systematic literature review across multiple databases for identification of eligible primary evidence.
+Data sources included PsycINFO, MEDLINE, Embase, CINAHL, OpenGrey, and Science Direct Journals, searched from 1 August 2016 to 30 July 2017.
+The study also incorporates consultations with experts in the field, citation searches via Scopus, and a hand search of reference lists of included studies.
+RESULTS: Of the 13,567 articles that were evaluated, 81 studies were included.
+Most of these studies (n = 68) were from high-income countries and foused on young people with cancer (n = 58).
+A total of 3236 young people, 2103 family carers, 108 families, and 901 healthcare providers were included in the studies.
+Young people did not contribute to data in 30% of studies.
+Themes on priority concerns are presented by the following domains and health outcomes: (1) physical (n = 62 studies), e.g., physical symptoms; (2) psychological (n = 65), e.g., worry; (3) psychosocial (n = 31), e.g., relationships; (4) existential (n = 37), e.g., existential loss; and (5) "other" (n = 39), e.g., information access.
+CONCLUSION: Burdensome symptoms and concerns affect young people with malignant and nonmalignant conditions and occur across the disease trajectory; pediatric palliative care should not be limited to the end-of-life phase.
+A child-family-centered framework of health outcomes, spanning the patient, family, and quality of service levels is proposed to inform service development.
+Future research should address gaps identified across the literature (i.e., the involvement of young people in research, evidence for developing countries, and a focus on nonmalignant conditions.
+
+24854574
+
+Visual field (VF) test results are often unreliable in visually impaired patients, but continue to be a cornerstone of clinical trials and play a vital role in clinical decision making since they are the primary method to determine patients' functional vision loss or progression.
+Currently, patients are typically asked to perform VF tasks with minimal instruction or consideration of their psychological experience during the test.
+The gradual loss of vision due to retinal diseases, such as retinitis pigmentosa (RP), age-related macular degeneration (AMD), or glaucoma can contribute to the experience of negative psychosocial states, such as anxiety, stress, and depression, as well as diminished quality of life.
+We hypothesize that VF testing elicits test performance anxiety and perception of functional losses of vision, which induces distracting negative thoughts that result in increased VF test variability.
+Resources for processing and responding to vision-related information may be diverted from task-relevant VF stimuli to task-irrelevant ones, such as internal worry and test anxiety, thereby resulting in VF test performance decrements.
+We present a theoretical model to support the hypothesis that VF variability is linked to patients' negative thoughts during VF testing.
+This conceptual framework provides a basis for the development of coping strategies and mindfulness-based interventions to be evaluated in future research aimed at improving psychosocial states and VF reliability in visually-impaired patients.
+It would be highly significant to intervene by modifying negative thoughts during VF testing to reduce test variability in glaucoma patients who are progressively losing vision to a blinding eye disease, but whose vision loss has not been accurately identified and treated early enough due to variable VF results.
+In clinical trials of potential interventions for RP and non-neovascular AMD, reducing VF variability would effectively increase the precision for detecting treatment effects and allow a reduction in the number of VF tests needed to estimate the treatment responses, thus reducing burden on investigators and patients, as well as saving time and money.
+
+23089242
+
+OBJECTIVE: To evaluate the evidence for pre-death grief in caregivers (CGs) of persons with Parkinson's disease (PD) and to compare non-motor PD symptoms (cognitive decline, depression, hallucinations) versus motor symptoms (fluctuations of mobility) for associations with CG grief reactions.
+BACKGROUND: Prolonged grief in response to loss has been associated with negative outcomes and decreased well-being in caregivers (i.e.
+spouse or adult child) of relatives with dementia.
+In Parkinson's disease (PD) the negative impact of providing care has been referred to as caregiver strain.
+Grief has not been explored in PD caregivers, and understanding grief may offer new insights for future intervention.
+METHODS: Volunteer caregivers (n = 74) filled out the Marwit and Meuser Caregiver Grief Inventory (MM-CGI-SF) which measures 3 types (i.e.
+subscales) of grief: Personal Sacrifice and Burden, Heartfelt Sadness and Longing, Worry and Felt Isolation.
+This scale also provided a total grief score.
+Volunteer caregivers also responded to self-reported UPDRS questions about the motor and non-motor symptoms of their PD relative (i.e.
+spouse or parent).
+T-tests were used to correlate CG subscales of grief with patient variables.
+A hierarchical regression analysis was used to determine the predictive contribution of motor and nonmotor symptoms to grief.
+RESULTS: Grief based on the total score was found in 17% of CGs.
+Grief was significantly higher in CG's whose relative had more severe symptoms.
+The type of grief experienced was similar across all three subscales.
+Hierarchical regression analysis revealed that nonmotor symptoms explained slightly more of the variance (14-23%) than motor symptoms (11-17%).
+CONCLUSIONS: This study revealed that pre-death grief is a significant finding in PD caregivers.
+The severity of symptoms and the presence of nonmotor symptoms, especially cognitive decline, predict caregivers who are at greatest risk of prolonged grief; however it should be kept in mind that motor symptoms also contribute.
+
+24695260
+
+PURPOSE: This article provides an overview of the clinical and economic issues associated with hypoglycemia in patients with type 1 and type 2 diabetes mellitus.
+Current research regarding hypoglycemia is comprehensively reviewed, with special emphasis on nocturnal hypoglycemia, as almost 50% of all severe hypoglycemic episodes occur at nighttime during sleep.
+Current findings on the economic and human burden of hypoglycemia are presented.
+CONCLUSIONS: Poor diabetes self-management leads to an increased risk for hypoglycemia and the development of long-term complications associated with poor glycemic control.
+Hypoglycemia is also associated with increased health care costs and resources required to treat hypoglycemic events, as well as personal financial costs and loss of productivity at school or work.
+In addition, fear, anxiety, and worry about hypoglycemic episodes are shown to interfere with patients' quality of life.
+Nocturnal hypoglycemia can cause a number of immediate clinical consequences, including convulsions, coma, and even death.
+Repeated long-term exposure to nocturnal hypoglycemia can blunt counterregulatory mechanisms that maintain glucose levels, leading to reduced cognitive function, impaired awareness of hypoglycemia, and hypoglycemia-associated autonomic failure.
+Clinicians must be aware of the impact of hypoglycemia, particularly nocturnal hypoglycemia, so that they can prescribe appropriate glucose-lowering therapy and educate patients about the prevention and management of hypoglycemic events to reduce anxiety and improve quality of life.
+
+20384499
+
+PURPOSE: This study aimed to measure symptom burden prior to antitetroviral therapy (ART) initiation in a population of adults with low CD4 presenting for human immunodeficiency virus (HIV) care and treatment in Uganda, and to explore the relationship between World Health Organization (WHO) stage, CD4 count, and symptomatology.
+METHODS: HIV-infected, ART-naive adults with CD4 less than 200 cells per microliter referred from voluntary testing and counseling services in rural Uganda for potential enrollment into a large double-blinded placebo-controlled trial were invited to completed the Memorial Symptom Assessment Scale-Short Form (MSAS-SF).
+This is a validated symptom assessment tool that records the presence and severity of 37 physical and 4 psychological symptoms.
+RESULTS: Two hundred twelve subjects were enrolled.
+The mean total number of symptoms was 14.0 (standard deviation [SD] = 6).
+The 10 most common symptoms were pain (76%), weight loss (70%), itching (67%), feeling drowsy/tired (61%), and lack of energy (61%), numbness /tingling in hands or feet (57%), cough (53%) skin changes (52%), worry (51%), and lack of appetite (49%).
+The median number of symptoms was not associated with WHO stage CD4 count group.
+CONCLUSION: This study demonstrates that the burden of HIV-related symptoms in individuals presenting for care in Uganda is significant and debilitating.
+
+18427866
+
+The present study evaluated whether different patterns of temperament may predict a different threshold of acceptability of obsessive-compulsive (OC) symptoms in adolescents.
+OC symptomatology was detected with the Leyton Obsessional Inventory-Child Version (LOI-CV) and temperament was assessed using the tridimensional personality questionnaire in 2,775 high-school students.
+According to the LOI-CV scores, the adolescents were classified as high interference (interfering, ego-dystonic symptoms) (HI), supernormal (noninterfering, ego-syntonic symptoms) (Sn) and controls (C) HI were 119 (4.3%), Sn 85 (3.1%) and C 2,571 (92.6%).
+The best predictor of belonging to HI or Sn groups was the temperament configuration of high Harm Avoidance (HA) and high Persistence (P).
+The feature that mainly distinguishes the two symptomatic groups were Novelty Seeking (NS) levels.
+Our data suggest that people characterized by pessimistic worry in anticipation of future problems, passive avoidant behaviour, rapid fatigability (high HA) and irresoluteness, ambitiousness, perseverance, perfectionism, enduring feelings of frustration (high P) might develop OC symptoms.
+Whether OC symptoms become ego-syntonic or ego-dystonic seems to mainly depend on NS levels: low NS might protect people (with the prevention of "exploratory and active behaviours" that may elicit loss of control on symptoms) from the development of interfering OC symptoms.
+
+21638116
+
+Adolescents tend to experience more problems with sleep loss as a natural consequence of puberty, whereas teens from impoverished urban areas are likely to witness neighborhood violence and/or engage in risk behaviors that may affect sleep.
+Data from the Mobile Youth Survey, a longitudinal study of impoverished inner-city African-American adolescents (1998-2005; N = 20,716; age range = 9.75-19.25 years), were used to compare paired years of annual surveys elicited by questions about how sleep was affected when bad things happen to friends or family.
+Using a cross-lagged panel multivariate approach comparing reports for two sequential years and controlling for age/gender plus exposure to traumatic stress and violence, prior sleep disturbance was associated with carrying a knife/gun, brandishing a knife/gun, using a knife/gun, quick temperedness, warmth toward mother, worry, and belief in the neighborhood street code in the latter year.
+Conversely, seeing someone cut, stabbed, or shot, using alcohol, worry, and internalized anger were associated with sleep disturbance in a latter year.
+Although a limited measure of sleep disturbance was used, these findings support further research to examine sleep disturbance and risk behaviors among low-income adolescents.
+
+25547338
+
+BACKGROUND: A prospective observational study was initiated to determine the prevalence of nutrition risk before surgery and assess nutrition adequacy of food choices after elective colorectal surgery.
+MATERIALS AND METHODS: Patient-Generated Subjective Global Assessment was used to screen all preoperative clinic patients (n = 70) scheduled for elective colorectal surgery.
+Adequacy of dietary intake (n = 40) was determined for the first 3 postoperative days by estimating total energy and protein intake from leftover food at each meal based on standard hospital portions with food composition tables.
+Food access questionnaire provided a rationale for observed food intake.
+All patients received Enhanced Recovery After Surgery (ERAS) and room service system care.
+RESULTS: Before surgery, 63% of patients were considered well-nourished, 29% suspected or moderately undernourished, and 8% severely undernourished.
+Fifty-one percent of patients scored > 4 on the Patient-Generated Subjective Global Assessment, indicating requirement for dietary intervention or symptom management.
+On average, 77% +/- 27%, 63% +/- 28%, and 92% +/- 39% of energy requirements were met on postoperative days 1, 2, and 3, respectively; conversely, 55% +/- 24%, 43% +/- 16%, and 45% +/- 12% of protein requirements were met.
+Most common reasons for missed meals included loss of appetite and feelings of fatigue or worry.
+Preoperative nutrition risk tended to result in a greater 30-day hospital readmission rate compared to well-nourished patients (P = .07).
+CONCLUSIONS: A third of patients scheduled for elective colorectal surgery were at nutrition risk.
+An acceptable intake of dietary protein was not achieved during the first 3 days of hospitalization.
+Preoperative nutrition education, as part of Enhanced Recovery Programs, may be useful to optimize nutrition status before surgery to mitigate clinical consequences associated with undernutrition and empower patients to make adequate food choices for recovery.
+NCT 01727570.
+
+22571425
+
+Some writers have argued that a Kantian approach to ethics can be used to justify suicide in cases of extreme dementia, where a patient lacks the rationality required of Kantian moral agents.
+I worry that this line of thinking may lead to the more extreme claim that euthanasia is a proper Kantian response to severe dementia (and similar afflictions).
+Such morally treacherous thinking seems to be directly implied by the arguments that lead Dennis Cooley and similar writers to claim that Kant might support suicide.
+If rationality is the only factor in valuing a human life, then the loss of that rationality (however such loss might be defined) would allow us to use essentially utilitarian thinking in order to support non-voluntary euthanasia, since the patients themselves would no longer be moral agents that demand respect.
+
+28843136
+
+Individuals with obesity and binge eating disorder (BED) report poorer weight-related quality of life (WRQOL) compared to individuals with obesity alone.
+Cognitive behavioral therapy (CBT), the best available treatment for BED, does not consistently produce weight loss or improvements in weight QOL.
+The purpose of the current study was to examine baseline and longitudinal associations between eating-related and psychosocial variables and dimensions of weight QOL.
+We examined associations between predictor variables, including body mass index (BMI), eating disorder (ED) psychopathology, and psychosocial factors, in relation to three dimensions of WRQOL among 171 patients whom received CBT for BED.
+Participants completed interviews and self-report measures at baseline prior to CBT and at end of treatment.
+At baseline the following associations were significant: BMI, ED psychopathology, and self-esteem were associated with weight-related self-esteem; gender, BMI, and self-esteem were associated with weight-related public distress (i.e., stigma and worry in public because of one's weight); and age, BMI, and ED psychopathology were associated with weight-related physical function.
+At end of treatment, the following associations were significant: changes in ED psychopathology and coping predicted weight-related self-esteem; changes in coping and self-esteem predicted weight-related public distress; and changes in BMI and subjective binge eating predicted weight-related physical function.
+Overall, changes in a number of ED and associated symptoms were associated with improvements in WRQOL.
+
+======================================================================
+Acute_Threat_Fear
+======================================================================
+27576271
+
+Temporal phases of threat response, including potential threat (anxiety), acute threat (startle, fear), and post-threat response modulation, have been identified as the underlying markers of anxiety disorders.
+Objective measures of response during these phases may help identify children at risk for anxiety; however, the complexity of current assessment techniques prevent their adoption in many research and clinical contexts.
+We propose an alternative technology, an inertial measurement unit (IMU), that enables noninvasive measurement of the movements associated with threat response, and test its ability to detect threat response phases in young children at a heightened risk for developing anxiety.
+We quantified the motion of 18 children (3-7 years old) during an anxiety-/fear-provoking behavioral task using an IMU.
+Specifically, measurements from a single IMU secured to the child's waist were used to extract root-mean-square acceleration and angular velocity in the horizontal and vertical directions, and tilt and yaw range of motion during each threat response phase.
+IMU measurements detected expected differences in child motion by threat phase.
+Additionally, potential threat motion was positively correlated to familial anxiety risk, startle range of motion was positively correlated with child internalizing symptoms, and response modulation motion was negatively correlated to familial anxiety risk.
+Results suggest differential theory-driven threat response phases and support previous literature connecting maternal child risk to anxiety with behavioral measures using more feasible objective methods.
+This is the first study demonstrating the utility of an IMU for characterizing the motion of young children to mark the phases of threat response modulation.
+The technique provides a novel and objective measure of threat response for mental health researchers.
+
+28599071
+
+Post-traumatic stress disorder (PTSD) is characterized by memory disturbances following trauma.
+Acute predator threat has emerged as an ethological model of PTSD, yet the effects of predator odor on signaling cascades associated with long-term memory remain poorly understood.
+In this study, we exposed male and female Wistar rats to the synthetic predator odor 2,5-dihydro-2,4,5-trimethylthiazoline (TMT) to assess behavioral and physiological responses as well as rapid modulation of signal transduction cascades associated with learning and memory in the male and female hippocampus.
+During exposure to TMT in the homecage, both male and female animals displayed robust immobility, avoidance, and altered activity as a function of time.
+Physiologically, TMT exposure increased circulating corticosterone and blood glucose in both male and female rodents, suggesting that TMT evokes sex-independent behavioral and physiological responses.
+With respect to signal transduction, TMT exposure rapidly reduced phosphorylation of cyclic-adenosine monophosphate response element binding protein (CREB) in the male, but not the female hippocampus.
+Furthermore, TMT exposure reduced phosphorylation of extracellular signal-regulated kinase 1/2 and increased nuclear expression of the synapto-nuclear messenger protein Jacob in the male hippocampus, consistent with activation of the CREB shut-off pathway.
+In a follow-up behavioral experiment, post-training exposure to TMT did not affect spatial water maze performance of male rats.
+However, male rats re-introduced to the context in which TMT had previously been presented displayed avoidance and hyperactivity, but not freezing behavior or elevated corticosterone responses, suggesting that TMT exposure supports a form of contextual conditioning which is not characterized by immobility.
+Taken together, our findings suggest that TMT evokes similar behavioral and physiological responses in male and female Wistar rats, but affects distinct signaling cascades in the male and female hippocampus which may contribute to behavioral disruptions associated with predator exposure.
+
+27981438
+
+It is a widely observed finding that emotion and anxiety interact; highly stressed or anxious individuals show robust attentional biases towards external negative information.
+More generally, research has suggested that exposure to threatening stimuli, as well as the experience of acute stress, also may impair top-down attentional control and working memory.
+In the current study, we investigated how the influence of emotion and anxiety may interact to influence working memory performance.
+Participants were required to encode the orientation of four simple shapes, eight, or four shapes while filtering out four other irrelevant shapes from memory.
+Before memory displays, an irrelevant neutral or fearful face cue also was presented.
+Memory performance was found to interact with self-reported state anxiety and cue valence; on neutral cue trials, state anxiety was negatively correlated with performance.
+This effect was absent following a fear cue.
+In addition, filtering efficiency was negatively associated with state anxiety solely following a fear cue.
+Our findings suggest that state anxiety's influence to visual working memory can be strongly modulated by external signals to threat.
+Most crucially, rather than anxious individuals having greater difficulty rejecting external threatening information, we observed that external threat may in its own right generally impair filtering efficiency in anxious individuals.
+
+16111764
+
+In light of the increasing threat of large-scale massacres such as terrorism against non-combatants (civilians), more attention is warranted not only to posttraumatic stress disorder (PTSD) but also to acute sociogenic pseudoneurological ("conversion") symptoms, especially epidemic sociogenic symptoms.
+We posit that conversion disorders are etiologically related to specific evolutionary pressures (inescapable threats to life) in the late stage of the human environment of evolutionary adaptedness (EEA).
+Bracha et al.
+have recently argued that from the neuroevolutionary perspective, medically unexplained efferent vasovagal syncope and medically unexplained craniofacial musculoskeletal pain in young otherwise healthy individuals, may be taxonomized as stress and fear-circuitry disorders.
+In the present article, we extend neuroevolutionary perspectives to acute pseudoneurological sociogenic ("conversive") symptoms: psychogenic non-epileptic attacks ("pseudoseizures"), epidemic sociogenic disorders (DSM-IV-TR Epidemic "Hysteria"), conversive motor deficits (pseudo-paralysis and pseudo-cerebellar symptoms), and psychogenic blindness.
+We hypothesize that these perplexing pseudoneurological stress-triggered symptoms, which constitute psychopathology in extant humans, are traceable to allele-variant polymorphisms which spread during the Neolithic EEA.
+During Neolithic warfare, conversive symptoms may have increased the survival odds for some non-combatants by visually (i.e., "non-verbally") signaling to predatory conspecifics that one does not present a danger.
+This is consistent with the age and sex pattern of conversive disorders.
+Testable and falsifiable predictions are presented; e.g., at the genome-transcriptome interface, one of the major oligogenic loci involved in conversive spectrum disorders may carry a developmentally sensitive allele in a stable polymorphism (balanced polymorphism) in which the gene expression mechanism is gradually suppressed by pleiotropic androgens especially dehydroxyepiandrosterone sulfate (DHEA-S).
+Taxonomic implications for the much-needed rapprochement between the forthcoming Diagnostic and Statistical Manual for Mental Disorders, Fifth Edition (DSM-V) and the International Classification of Diseases (ICD) are discussed.
+
+17445017
+
+AIM: This paper reports a study to investigate the nature and prevalence of inpatient aggressive behaviour directed at staff and other patients and, in the case of patient self-harm, the methods used by nursing staff to manage this.
+BACKGROUND: Aggressive behaviour poses a threat to the physical and psychological health of psychiatric nursing staff.
+The fear that results from working in a climate of potential danger can also have a damaging impact on patient care.
+METHODS: Nursing staff on five acute inpatient wards in one hospital in the United Kingdom collected data on aggressive incidents using the Staff Observation Aggression Scale - Revised during a 10 month period from June 2001 to April 2002.
+RESULTS: There were 254 incidents of aggression recorded.
+Staff were most commonly targeted and were involved in 57 x 1% of incidents.
+The most frequent provocation of the aggression was the patient being denied something such as leave from the ward (29 x 5% of incidents).
+The most frequent means used by patients was verbal aggression (60% of incidents), the most frequent outcome for the victim was feeling threatened (59% of incidents), and verbal interventions were used most frequently to manage the aggressive behaviour (43 x 7%).
+Despite many incidents involving verbal aggression in both staff- and patient-targeted aggression, 35 x 9% of incidents involving staff and 25% of incidents involving other patients resulted in seclusion.
+CONCLUSION: It is estimated that in a 12 month period at the hospital in this study a nurse would have a one in 10 chance per year of receiving any kind of injury as a result of patient aggression.
+Despite the predominance of verbal over physical aggression, the fear generated from working in such an environment and a difficulty in understanding the causes of patient aggression may motivate staff to manage aggressive incidents with physical methods such as seclusion and restraint on a frequent basis.
+
+26613707
+
+This study identified predictors of anxiety and depression in patients with acute coronary syndrome.
+Predictors included illness beliefs, fear/threat at the time of the cardiac event, threat reappraisal over time and social support.
+A total of 97 participants completed questionnaires in hospital and 1- and 6-month follow-up.
+Perceived threat and fear at the time of the cardiac event predicted affective response at both time points, partly mediated by threat reappraisal.
+Contemporaneous measures of illness beliefs contributed additional variance, although not always in the predicted direction: high concern and control over the illness were associated with emotional distress.
+Assessment of patients for risk of negative emotional outcomes of acute coronary syndrome needs to consider their beliefs about their illness and the degree of threat and fear experienced at the time of the event.
+Interventions need to help people cope with negative emotional states as well as challenging inappropriate illness beliefs.
+
+25365751
+
+Fear is a psychological construct inherent in assessment of and reaction to threat.
+Its expression has been associated with individual differences in temperament, personality, and behavioral inhibition.
+Defining and subsequently assessing these individual differences in fear as a trait-like variable, however, have been largely neglected by researchers.
+Although there are well-established measures of fear, these primarily assess response to phobic stimuli rather than a reaction tendency to acute fear.
+As such, the goals of the present studies were to create, pilot, and revise a scale to assess the general construct of trait-like response to fear as it relates to underlying individual differences.
+Following guidelines for scale development, outlined by Haynes, Richard, and Kubany (1995 [Content validity in psychological assessment: A functional approach to concepts and methods.
+Psychological Assessment, 7, 238-247]) results of the current investigation provide strong, initial support for the factor structure, reliability, and construct validity of a new measure of trait-like fear: the Fight, Flight, Freeze questionnaire.
+
+26991018
+
+The amygdala has been shown to be essential for the processing of acute and learned fear across animal species.
+However, the downstream neural circuits that mediate these fear responses differ according to the nature of the threat, with separate pathways having been identified for predator, conspecific and physically harmful threats.
+In particular, the dorsomedial part of the ventromedial hypothalamus (VHMdm) is critical for the expression of defensive responses to predators.
+Here, we tested the hypothesis that this circuit also participates in predator fear memory by transient pharmacogenetic inhibition of the VMHdm and its downstream effector, the dorsal periaqueductal grey, during predator fear learning in the mouse.
+Our data demonstrate that neural activity in the VMHdm is required for both the acquisition and recall of predator fear memory, whereas that of its downstream effector, the dorsal periaqueductal grey, is required only for the acute expression of fear.
+These findings are consistent with a role for the medial hypothalamus in encoding an internal emotional state of fear.
+
+19782055
+
+Stress is most often associated with aversive states.
+It rapidly induces the release of hormones and neuropeptides including dynorphin, which activates kappa opioid receptors (KORs) in the central and peripheral nervous systems.
+In animal models, many aversive effects of stress are mimicked or exacerbated by stimulation of KORs in limbic brain regions.
+Although KOR signaling during acute stress may increase physical ability (by producing analgesia) and motivation to escape a threat (by producing aversion), prolonged KOR signaling in response to chronic or uncontrollable stress can lead to persistent expression of behavioral signs that are characteristic of human depressive disorders (i.e., "prodepressive-like" signs).
+Accumulating evidence suggests that KORs contribute to the progressive amplification (sensitization) of stress-induced behaviors that occurs with repeated exposure to stress.
+Many of the aversive effects of stress are blocked by KOR antagonists, suggesting that these agents may have potential as therapeutics for stress-related conditions such as depression and anxiety disorders.
+This review summarizes current data on how KOR systems contribute to the acute (rapid), delayed, and cumulative molecular and behavioral effects of stress.
+We focus on behavioral paradigms that provide insight on interactions between stress and KOR function within each of these temporal categories.
+Using a simplified model, we consider the time course and mechanism of KOR-mediated effects in stress and suggest future directions that may be useful in determining whether KOR antagonists exert their therapeutic effects by preventing the development of stress-induced behaviors, the expression of stress-induced behaviors, or both.
+
+26877119
+
+In the current review, we reconceptualize a categorical diagnosis-panic disorder and agoraphobia-in terms of two constructs within the domain "negative valence systems" suggested by the Research Domain Criteria initiative.
+Panic attacks are considered as abrupt and intense fear responses to acute threat arising from inside the body, while anxious apprehension refers to anxiety responses to potential harm and more distant or uncertain threat.
+Taking a dimensional view, panic disorder with agoraphobia is defined with the threat-imminence model stating that defensive responses are dynamically organized along the dimension of the proximity of the threat.
+We tested this model within a large group of patients with panic disorder and agoraphobia (N = 369 and N = 124 in a replication sample) and found evidence that panic attacks are indeed instances of circa strike defense.
+This component of the defensive reactivity was related to genetic modulators within the serotonergic system.
+In contrast, anxious apprehension-characterized by attentive freezing during postencounter defense-was related to general distress and depressive mood, as well as to genetic modulations within the hypothalamic-pituitary-adrenal (HPA) axis.
+Patients with a strong behavioral tendency for active and passive avoidance responded better to exposure treatment if the therapist guides the patient through the exposure exercises.
+
+22390711
+
+Factors leading humans to shift attention away from danger cues remain poorly understood.
+Two laboratory experiments reported here show that context interacts with learning experiences to shape attention avoidance of mild danger cues.
+The first experiment exposed 18 participants to contextual threat of electric shock.
+Attention allocation to mild danger cues was then assessed with the dot-probe task.
+Results showed that contextual threat caused subjects to avert attention from danger cues.
+In the second experiment, 36 participants were conditioned to the same contextual threat used in Experiment 1.
+These subjects then were randomly assigned to either an experimental group, trained to shift attention toward danger cues, or a placebo group exposed to the same stimuli without the training component.
+As in Experiment 1, contextual threat again caused attention allocation away from danger in the control group.
+However, this did not occur in the experimental group.
+These experiments show that acute contextual threat and learning experiences interact to shape the deployment of attention away from danger cues.
+
+21122818
+
+Alcohol is a known exogenous modulator of negative affect (anxiety, tension) in both animals and humans.
+It has been proposed that the anxiolytic effects of alcohol are mediated via the amygdala, an area critical to fear perception and responding.
+However, little is known about the acute effects of alcohol on amygdala reactivity to threatening information in humans.
+We used functional magnetic resonance imaging and a validated task to probe amygdala responses to social signals of threat in 12 healthy, social drinkers after a double-blind crossover administration of alcohol or placebo.
+We found that alcohol significantly reduced amygdala reactivity to threat signals.
+The current findings fit well with the notion that alcohol may attenuate threat-based responding and provide a potential brain-based mechanism for the link between alcohol and anxiety and/or social threat perception.
+
+17259206
+
+We have previously shown that a single dose of intravenous citalopram in healthy volunteers enhances the detection of fearful facial expressions, suggesting an effect of acute selective serotonin re-uptake inhibitor (SSRI) treatment on the processing of anxiety-related stimuli.
+The aim of the present study was to confirm and extend this finding by studying the effects of a single dose of oral citalopram on a range of tasks designed to assess different aspects of emotional processing.
+A total of 32 healthy volunteers were randomly allocated to double-blind treatment with either citalopram 20 mg orally or placebo.
+Participants then completed a series of tasks assessing emotional aspects of attention (visual-probe task), perception (categorization of facial affect), memory (emotional memory task) and reactivity to threat (emotion potentiated startle).
+Relative to placebo-treated subjects, participants treated with citalopram demonstrated improved recognition of fearful faces and increased baseline startle response.
+However, the citalopram group also showed an attentional bias towards positive words.
+Our data suggest that acute oral citalopram increases the processing of anxiety-related stimuli in healthy volunteers.
+This mechanism could underlie the known tendency of SSRIs to increase anxiety in patients early in treatment.
+Our data also suggests that some of the positive biases in emotional processing produced by SSRI treatment might be detectable at the beginning of treatment.
+
+16298490
+
+The aims of this study were threefold.
+Firstly, to investigate the effect of increasing threat-expectancy on attentional biases towards pain-related words.
+Secondly, to determine the interaction between threat-expectancy and the effectiveness of two coping strategies on pain threshold and tolerance.
+Thirdly, to investigate the relationship between fear of pain and the experimental manipulations.
+One hundred undergraduate psychology students were randomly assigned to receive either threat-increasing or reassuring information about the cold pressor task.
+After reading the information, all participants completed the dot-probe task for four categories of pain-related words.
+Following the dot-probe task, participants were randomly allocated to one of two coping strategy conditions (focusing on affective vs sensory aspects of pain).
+Participants then completed the cold pressor task while engaging in the relevant coping strategy.
+There was a significant effect of threat on bias towards affective vs sensory pain words.
+Participants in the threat condition showed a stronger bias towards affective pain words.
+In contrast, the no-threat condition displayed a stronger bias towards sensory pain words.
+Significant interaction effects were observed between threat and coping strategy for threshold and tolerance.
+These results indicated that focusing on sensory pain sensations was helpful in the absence of threat, however, in the presence of threat was relatively unhelpful in comparison to focusing on the affective components of pain.
+The present results provide support for the fear-avoidance model of pain [Vlaeyen JWS, Linton SJ.
+Fear-avoidance and its consequences in chronic musculoskeletal pain: a state of the art.
+Pain 2000;85:317-332] and confirm the importance of threat-expectancy in hypervigilance towards pain and fear avoidance.
+
+28117048
+
+BACKGROUND: Studies suggest that exaggerated amygdala reactivity is a vulnerability factor for posttraumatic stress disorder (PTSD); however, our understanding is limited by a paucity of prospective, longitudinal studies.
+Recent studies in healthy samples indicate that, relative to reactivity, habituation is a more reliable biomarker of individual differences in amygdala function.
+We investigated reactivity of the amygdala and cortical areas to repeated threat presentations in a prospective study of PTSD.
+METHODS: Participants were recruited from the emergency department of a large level I trauma center within 24 hours of trauma.
+PTSD symptoms were assessed at baseline and approximately 1, 3, 6, and 12 months after trauma.
+Growth curve modeling was used to estimate symptom recovery trajectories.
+Thirty-one individuals participated in functional magnetic resonance imaging around the 1-month assessment, passively viewing fearful and neutral face stimuli.
+Reactivity (fearful > neutral) and habituation to fearful faces was examined.
+RESULTS: Amygdala reactivity, but not habituation, 5 to 12 weeks after trauma was positively associated with the PTSD symptom intercept and predicted symptoms at 12 months after trauma.
+Habituation in the ventral anterior cingulate cortex was positively associated with the slope of PTSD symptoms, such that decreases in ventral anterior cingulate cortex activation over repeated presentations of fearful stimuli predicted increasing symptoms.
+CONCLUSIONS: Findings point to neural signatures of risk for maintaining PTSD symptoms after trauma exposure.
+Specifically, chronic symptoms were predicted by amygdala hyperreactivity, and poor recovery was predicted by a failure to maintain ventral anterior cingulate cortex activation in response to fearful stimuli.
+The importance of identifying patients at risk after trauma exposure is discussed.
+
+28025095
+
+Deficits in fear extinction learning are hypothesized to underlie the development of posttraumatic stress disorder (PTSD).
+Such deficits may, in part, be due to genetic and epigenetic variation in the stress related gene FKBP5.
+Conversely, altering FKBP5 epigenetic responses during memory consolidation may rescue extinction deficits making it a target for acute intervention to prevent the development of PTSD.
+Study 1 (Humans) examines if FKBP5 single nucleotide polymorphisms (SNPs) and PTSD symptom domains (re-experiencing, avoidance/numbing, hyperarousal) are associated with abnormal fear extinction phenotypes identified using latent growth mixture modeling (LGMM).
+Study 2 (Mice) tests if increasing doses of dexamethasone administered prior to extinction alters Fkbp5 mRNA production in the amygdala after extinction and recall and prevents the development of abnormal extinction phenotypes.
+In humans, abnormal extinction was associated with the TT homozygous genotype of FKBP5 SNPs RS9470080 and RS1360780, and hyperarousal symptoms.
+In mice, dexamethasone 300 mug/kg was associated with increased amygdala Fkbp5 mRNA following extinction and robust extinction learning while lower doses were not associated with amygdala Fkbp5 mRNA or differences in extinction learning.
+Further, mice that extinguished on dexamethasone 300 mug/kg maintained low levels of freezing behavior during recall training while mRNA levels were no longer elevated.
+Together, findings indicate that FKBP5 confers risk for fear extinction deficits.
+However, this risk may be ameliorated by increasing fkbp5 mRNA expression in the amygdala during memory consolidation making this mechanism a plausible point of acute intervention to prevent the development of PTSD.
+
+22362395
+
+OBJECTIVE: Many studies have shown that 5-HTTLPR genotype interacts with exposure to stress in conferring risk for psychopathology.
+However, the specific neural mechanisms through which this gene-by-environment interaction confers risk remain largely unknown, and no study to date has directly examined the modulatory effects of 5-HTTLPR on corticolimbic circuit responses during exposure to acute stress.
+METHOD: An acute laboratory stressor was administered to 51 healthy women during blood-oxygen-level-dependent functional magnetic resonance imaging.
+In this task, participants were threatened with electric shocks of uncertain intensity, which were unpredictably delivered to the wrist after a long anticipatory cue period of unpredictable duration.
+RESULTS: Relative to women carrying the L allele, those with the SS genotype showed enhanced activation during threat anticipation in a network of regions, including the amygdala, hippocampus, anterior insula, thalamus, pulvinar, caudate, precuneus, anterior cingulate cortex, and medial prefrontal cortex.
+Individuals with the SS genotype also displayed enhanced positive coupling between medial prefrontal cortex activation and anxiety experience, whereas enhanced negative coupling between insula activation and perceived success at regulating anxiety was observed in individuals carrying the L allele.
+CONCLUSIONS: These findings suggest that during stress exposure, neural systems that enhance fear and arousal, modulate attention toward threat, and perseverate on emotional salience of the threat may be engaged preferentially in individuals with the SS genotype.
+This may be one mechanism underlying the risk for psychopathology conferred by the S allele upon exposure to life stressors.
+
+21277566
+
+BACKGROUND: The debilitating effects of chronic glucocorticoids excess are well-known, but comparatively little is understood about the role of acute cortisol.
+Indirect evidence in rodents suggests that acute cortisone could selectively increase some forms of long-duration aversive states, such as "anxiety," but not relatively similar, briefer aversive states, such as "fear."
+However, no prior experimental studies in humans consider the unique effects of cortisol on anxiety and fear, using well-validated methods for eliciting these two similar but dissociable aversive states.
+The current study examines these effects, as instantiated with short- and long-duration threats.
+METHODS: Healthy volunteers (n = 18) received placebo or a low (20 mg) or a high (60 mg) dose of hydrocortisone in a double-blind crossover design.
+Subjects were exposed repeatedly to three 150-sec duration conditions: no shock; predictable shocks, in which shocks were signaled by a short-duration threat cue; and unpredictable shocks.
+Aversive states were indexed by acoustic startle.
+Fear was operationally defined as the increase in startle reactivity during the threat cue in the predictable condition (fear-potentiated startle).
+Anxiety was operationally defined as the increase in baseline startle from the no shock to the two threat conditions (anxiety-potentiated startle).
+RESULTS: Hydrocortisone affected neither baseline nor short-duration, fear-potentiated startle but increased long-duration anxiety-potentiated startle.
+CONCLUSIONS: These results suggest that hydrocortisone administration in humans selectively increases anxiety but not fear.
+Possible mechanisms implicated are discussed in light of prior data in rodents.
+Specifically, hydrocortisone might increase anxiety via sensitization of corticotrophin-releasing hormones in the bed nucleus of the stria terminalis.
+
+26877132
+
+The National Institute of Mental Health's Research Domain Criteria (RDoC) initiative calls for the incorporation of neurobiological approaches and findings into conceptions of mental health problems through a focus on biobehavioral constructs investigated across multiple domains of measurement (units of analysis).
+Although the constructs in the RDoC system are characterized in "process terms" (i.e., as functional concepts with brain and behavioral referents), these constructs can also be framed as dispositions (i.e., as dimensions of variation in biobehavioral functioning across individuals).
+Focusing on one key RDoC construct, acute threat or "fear," the current article illustrates a construct-oriented psychoneurometric strategy for operationalizing this construct in individual difference terms-as threat sensitivity (THT+).
+Utilizing data from 454 adult participants, we demonstrate empirically that (a) a scale measure of THT+ designed to tap general fear/fearlessness predicts effectively to relevant clinical problems (i.e., fear disorder symptoms), (b) this scale measure shows reliable associations with physiological indices of acute reactivity to aversive visual stimuli, and (c) a cross-domain factor reflecting the intersection of scale and physiological indicators of THT+ predicts effectively to both clinical and neurophysiological criterion measures.
+Results illustrate how the psychoneurometric approach can be used to create a dimensional index of a biobehavioral trait construct, in this case THT+, which can serve as a bridge between phenomena in domains of psychopathology and neurobiology.
+Implications and future directions are discussed with reference to the RDoC initiative and existing report-based conceptions of psychological traits.
+
