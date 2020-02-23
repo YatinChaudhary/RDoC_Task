@@ -1,0 +1,1512 @@
+======================================================================
+Acute_Threat_Fear
+======================================================================
+20395400
+
+Life-threatening danger is assumed to produce, in tandem, increases in both vigilance toward threat and stress-related symptoms, but no data test the validity of this assumption.
+For participants within rocket range, the magnitude of threat bias varied with the magnitude of distress symptoms, such that as bias away from threat increased, distress symptoms increased.
+These data challenge current thinking about the role of attention in stress responding.
+Attentional threat avoidance may reduce the acute impact of imminent threat, but this may come at a price in terms of an elevated risk for psychopathology.
+A computerized measure of threat-related vigilance using a classic dot-probe attention task was also collected
+The authors examined associations, in real time, among imminent life-threatening danger, stress-related symptoms, and vigilance.
+
+28675115
+
+Finally, we investigated the brain regions involved by administering nicotine directly into the dorsal hippocampus, ventral hippocampus, and prelimbic cortex
+In the present study, C57BL/6 mice were administered acute or chronic nicotine and trained over three days in a differential backward trace conditioning paradigm consisting of five trials of a forward conditioned stimulus (CS)+ (Light) co-terminating with a footshock unconditioned stimulus followed by a backward CS- (Tone) presented 20 s after cessation of the unconditioned stimulus.
+Therefore, we investigated whether nicotine would disrupt learned safety by enhancing fear associated with a safety cue.
+Another group of animals administered acute nicotine showed fear when presented with the backward CS (Light) alone, indicating the formation of a maladaptive fear association with the backward CS.
+
+19931549
+
+We previously reported that administration of cortisol acutely reduced non-spatial selective attention to fearful faces and likewise reduced preferential processing of fearful faces in a spatial working memory task.
+Here we report the acute effects of 40 mg cortisol (administered in a double-blind, placebo-controlled crossover design) on a different experimental task for measuring threat-selective attention
+This reliable method has been used repeatedly to demonstrate fear-driven selective attention.
+
+24076207
+
+Anxiety-like behavior during both spontaneous and antagonist-precipitated withdrawal was measured by potentiation of the startle reflex.
+In addition, fear to an explicit, Pavlovian conditioned stimulus (fear-potentiated startle) was enhanced.
+These data suggest that anxiety-like behavior as measured using potentiated startle responding does not emerge spontaneously during withdrawal from chronic opiate exposure - in contrast to withdrawal from acute drug exposure - but rather is manifested as exaggerated fear in response to explicit threat cues.
+
+16204321
+
+In this experiment we compared the effects of acute doses of a benzodiazepine, diazepam and an H(1) histamine receptor-blocking sedative, diphenhydramine, on auditory and somatosensory evoked potentials within the latency range 100- 500 ms in a fear conditioning paradigm.
+One hundred and twenty min after diphenhydramine or 60 min after diazepam, they underwent an 8 min recording period in which auditory evoked potentials elicited by 40 ms, 95 dB[A], 1 kHz tones, and somatosensory evoked potentials elicited by a mildly painful electric shock (1.8 mA, 50 ms) were recorded at Cz (vertex).
+
+27173662
+
+However, no study to date has directly examined whether current problematic drinkers exhibit heightened reactivity to uncertain threat as would be expected.
+The present study was therefore designed to examine the association between current problematic alcohol use and reactivity to uncertain threat during sobriety in two, independent samples.
+The findings are notably consistent with the notion that heightened reactivity to uncertain threat is an important individual difference factor associated with the onset and/or maintenance of problematic drinking behaviors and may therefore be a novel prevention and intervention target.
+As hypothesized, across both studies greater levels of problematic drinking were associated with greater startle potentiation to unpredictable threat.
+In Study 1 (n=221) and Study 2 (n=74), adult participants completed the same well-validated threat-of-shock task which separately probes responses to temporally predictable and unpredictable threat.
+An emerging hypothesis is that individuals who exhibit heightened reactivity to uncertain threat may be especially motivated to use alcohol to dampen their distress, setting the stage for negative reinforcement processes to drive excessive alcohol use
+
+20866019
+
+A narrative account of personal identity is developed to illuminate the nature of the threat to identity and agency DBS potentially poses, and to suggest steps that might be taken to mitigate and avoid these threats.
+I trace the source of these negative reactions to the fear that stimulation-related psychological and personality changes represent a threat to personal identity and agency
+
+16247114
+
+Despite substantial overlap across crimes, rape victims reported more emotional responses reflecting fear, detachment, shame, and more nonactive behavioral responses.
+Regression analysis examining the prediction of perceived threat by peritraumatic responses and crime variables indicated that increased duration of crimes; decreased calmness; increased fear; numbing; use of begging, pleading, and crying; and attempts to reason with the perpetrator(s) were all significantly associated with increased appraisal of threat.
+
+29555429
+
+Therefore, the present study used functional magnetic resonance imaging (fMRI) to investigate stress-induced changes in PFC-amygdala function during Pavlovian fear conditioning.
+Further, the High stress-reactivity group demonstrated greater autonomic arousal (i.e., skin conductance response, SCR) to both conditioned and unconditioned stimuli compared to the Low and Medium stress-reactivity groups
+These findings demonstrate that acute stress facilitates fear learning, enhances autonomic arousal, and impairs emotion regulation, and suggests these stress-induced changes in emotional function are mediated by the PFC.
+
+25414863
+
+This category included four subcategories, "inattention to the signs and symptoms", "doubt and anxiety", "perception of danger and time limitation" and "change of life conditions", which occurred in linear progression over time.
+The aim of the present study was exploring the perceived threat in adults with leukemia undergoing HSCT
+
+21269779
+
+Findings suggest that the acute elevations in systemic cortisol produced by hydrocortisone administration may have fear-inhibiting effects.
+This study examined the effects of oral administration of 20mg hydrocortisone on baseline and fear-potentiated startle in 63 male veterans with or without PTSD.
+Results showed that the magnitude of the difference between startle responses recorded during anticipation of imminent shock compared to "safe" periods was reduced after hydrocortisone administration relative to placebo.
+This finding may have implications for understanding the role of hypothalamic-pituitary-adrenal (HPA)-axis function in vulnerability and resilience to traumatic stress.
+The procedure was based on a two-session, within-subject design in which acoustic startle eyeblink responses were recorded during intervals of threat or no threat of electric shock.
+
+23073641
+
+Using functional magnetic resonance imaging (fMRI) in humans we found that a fear-conditioned stimulus activates amygdala but not striatum, whereas a relief-conditioned stimulus activates striatum but not amygdala.
+Correspondingly, acute inactivation of amygdala or of ventral striatum in rats respectively abolished only conditioned fear or only conditioned relief.
+
+22491355
+
+ATD significantly increased long-duration anxiety-potentiated startle but had no effect on short-duration fear-potentiated startle
+In particular, data in rodents suggest that global serotonin depletion may specifically increase long-duration bed nucleus of the stria terminalis (BNST)-mediated aversive responses (ie, anxiety), but not short-duration BNST-independent responses (ie, fear).
+Fear and anxiety were operationally defined as the increase in startle reactivity during short- and long-duration threat periods evoked by predictable shock (fear-potentiated startle) and by the context in which the shocks were administered (anxiety-potentiated startle), respectively.
+
+30265859
+
+Thus, neural activity measured acutely following trauma exposure predicted future PTSD symptom severity
+Determining the acute effects of trauma exposure on brain function would provide new insight into the neural processes that mediate the cognitive-affective dysfunction associated with PTSD
+Participants completed a Pavlovian fear conditioning procedure during functional magnetic resonance imaging (fMRI).
+Therefore, the present study investigated neural activity that supports fear learning and memory processes in recently Trauma-Exposed (TE) and Non-Trauma-Exposed (NTE) participants.
+Further, only the TE group showed a negative relationship between fMRI signal responses within dorsomedial prefrontal cortex (PFC) and threat expectancy during safety cues.
+
+24151118
+
+The first section of the manuscript highlights the pivotal role of exaggerated threat responses-mediated by circuits connecting the frontal cortex, amygdala, and midbrain-in anxiety, and reviews data indicating that genotypic variation in the serotonin system is associated with hyperactivity in this circuitry, which elevates the risk for anxiety and mood disorders.
+In addition to its basic scientific value, a better understanding of interactions between the neural systems that mediate threat and reward responses may offer relief from the burdensome condition of anxious depression
+Here, we use the RDoC conceptualization to review research on threat responses, reward processing, and their interaction.
+The third section covers recent studies that document negative effects of acute threats and chronic stress on reward responses in humans.
+
+30760585
+
+Such social threat, or fear, learning can have dramatic consequences, as manifested in acute stress symptoms and maladaptive fears.
+Our results demonstrate the strong influence of others’ expressions of fear on one’s own decisions and have important implications for understanding both healthy and pathological human behaviors resulting from the indirect exposure to threatening events.
+We found that both types of social threat learning transfer to decision making in a strong and surprisingly inflexible manner.
+We contrasted learning from direct experience (i.e., Pavlovian conditioning) (experiment 1) against two common forms of social threat learning-social observation (experiment 2) and verbal instruction (experiment 3)-and how this learning transferred to subsequent instrumental decision making using behavioral experiments and computational modeling
+
+28013055
+
+Eye-tracking was used to assess multiple forms of threat bias (i.e., early vigilance, sustained attention, facilitated engagement, delayed disengagement) thought to be related to anxiety
+However, many studies have found threat bias indices to have poor reliability and have failed to observe the theorized relationship between threat bias and anxiety symptoms; this may be due to the non-unitary nature of threat bias and the influence of state-level variables on its expression.
+Worry-relevant sustained attention towards negative emotional stimuli may be a partially mood-context dependent phenomenon.
+A non-clinical sample (N = 165) was recruited to test the hypothesis that biased attention towards threat, but not dysphoric or positive emotional stimuli, during an anxious mood induction, but not at a pre-stress baseline, would prospectively predict greater worry symptoms on days in which more naturalistic stressors occurred.
+
+16115784
+
+The analysis of visible behavior confirms the usefulness of immobility as a measure of fear conditioning, especially when higher shock doses were used
+Apart from such visible outcome, however, behaviorally relevant information can also be obtained when analyzing the animals’ ultrasonic vocalization, which is typically emitted in highly motivational situations, like 22-kHz calls in response to acute or conditioned threat.
+To further investigate such vocalizations and their relationship with overt behavior, we tested male Wistar rats in a paradigm of Pavlovian fear conditioning, where a tone stimulus (CS) was preceding an aversive foot-shock (US) in a distinct environment.
+
+21855571
+
+Neural exaggeration in limbic (amygdala) and paralimbic (insula) regions appears to be associated with functional outcomes involving increased attention for and processing of social threat
+Social fearfulness is expressed on a continuum of severity from moderate distress to incapacitating fear.
+
+14998902
+
+The endocrine stress response was decreased when the pups were reunited with their mother immediately after exposure.
+Exposure to a deadly threat, an adult male rat, induced the release of corticosterone in 14-day-old rat pups.
+
+20371819
+
+Furthermore, spaced tone presentations led to between-session extinction even in the complete absence of within-session extinction, as observed for remote fear memories and in case of abolished cannabinoid receptor type 1 signaling
+Induction of between-session extinction was accompanied by an increase in the number of c-Fos-positive neurons within the basolateral amygdala, the cingulate cortex, and the dentate gyrus, independent of the level of within-session extinction
+In a mouse model explicit for exposure therapy, we challenge the view that within-session fear reduction is the turning point for relearning of a stimulus-threat association.
+
+25451788
+
+The goals of the current work were to examine dimensional associations between fear-related symptoms of PTSD and fear load variables to test their validity as an intermediate phenotype
+Based on previously reported findings, we hypothesized that fear load would be significantly associated with intrusion and fear memories of an index traumatic event
+Negative Valence Systems in the RDoC matrix include the construct of acute threat, which can be measured on a physiological level using potentiation of the acoustic startle reflex assessed via electromyography recordings of the orbicularis oculi muscle.
+
+21656765
+
+Furthermore, we compared outcomes with those following identical manipulations administered in early adulthood and found that animals exposed to cues of predation threat during adolescence showed the most robust defensive responses to a homotypic stressor encountered in adulthood
+Here, we further our investigation of both acute and long-term effects of repeated adolescent stressor exposure on physiological (i.e., corticosterone) and behavioral (i.e., defensive behavior) measures of stress responding in male and female rats
+This was based on prior work showing that repeated exposure of rats to a stressor across an adolescent period increases fearfulness in a novel environment in adulthood and results in lower levels of dopamine receptor subtype-2 protein in prefrontal cortex.
+
+20964748
+
+Questionnaires about perceived threat of the risk for graft rejection and Health-Related Quality of Life were mailed to 229 OTRs between 19-65 years old
+The instrument perceived threat of the risk for graft rejection, might be usable to measure the impact of fear of graft rejection, to predict needs of pedagogical intervention strategies to reduce fear and to improve Health-Related Quality of Life related to graft rejection
+Three homogenous factors of perceived threat for graft rejection were revealed, labelled ’intrusive anxiety’, ’graft-related threat’ and ’lack of control’.
+
+29902666
+
+Recent evidence suggests that the steroid hormone testosterone can decrease the functional coupling between orbitofrontal cortex (OFC) and amygdala.
+Therefore, we placed twenty-two women in dynamically changing situations of escapable and inescapable threat after a within-subject placebo controlled testosterone administration
+Together these results for the first time provide a detailed understanding of functional brain alterations induced by testosterone under threat conditions, and corroborate and extend the view that testosterone prepares the brain for goal-directed action in case of threat.
+Theoretically this decoupling has been linked to a testosterone-driven increase of goal-directed behaviour in case of threat, but this has never been studied directly.
+
+16971899
+
+The present study examined whether acute citalopram increased fear-potentiated startle to predictable and/or unpredictable shocks in healthy subjects
+Participants were exposed to three conditions including one in which predictable aversive shocks were signaled by a cue, a second in which unpredictable shocks were anticipated, and a third in which no shocks were administered.
+Changes in aversive states were investigated using acoustic startle stimuli.
+
+20189314
+
+In this study, we hypothesized that level of cannabis smoked by participants in our treatment study would be inversely related to the level of threat-related amygdala reactivity.
+Thus, a higher level of cannabis use was consistently associated with a lower level of amygdala reactivity across all subjects (matched pairs t = 2.70, df = 5, p < 0.05, two-tailed).
+The threat-related amygdala reactivity task used by Hariri et al. (2009) was completed during BOLD fMRI scans at study baseline and then again 12 weeks later at the end of the trial.
+
+28784793
+
+These findings show that acute stress increases generalization of older but not recent threat memories and have clinical relevance to understanding overgeneralization characteristics of anxiety and stress-related disorders.
+Thus, acute stress coupled with a delay in time from a negative experience may be a strong predictor of the transition from normal to generalized fear expression.
+In a between-subjects design, healthy adult volunteers underwent threat (fear) conditioning using a tone-conditioned stimulus paired with an electric shock to the wrist and another tone not paired with shock.
+Here, we investigated the effect of a single-episode acute stressor on generalization of aversive learning when stress is administered either immediately after an aversive learning event or following a delay.
+
+26747839
+
+In case of images depicting landscape and healthcare objects, brain scans show significant higher amygdala activation associated with sharp contour
+An implicit perception of threat represented by sharp objects, in humans, was hypothesized to explain this bias
+Hospital forms do have systematic impact on fear response during precognitive stages of human perception.
+To examine whether exposure to curve versus sharp contours in the built healthcare setting produces systematic and identifiable patterns of amygdala activation and behavioral response in healthy adults
+
+26377804
+
+Specifically, we focused on genetic influences on activation patterns of frontolimbic neural circuitry and on startle, skin conductance, and heart rate responses.
+We examined genetic contributions to the construct of acute threat at two units of analysis within the RDoC framework: (1) neural circuits and (2) physiology.
+
+20720535
+
+The neuropeptide oxytocin (OXT) decreases anxiety and stress, facilitates social encounters, and attenuates amygdala reactivity to threatening faces in healthy subjects.
+Patients with generalized social anxiety disorder (GSAD) exhibit heightened activation of the amygdala in response to social cues conveying threat (eg, fearful/angry faces).
+The goal of this study was to examine the effects of OXT on fear-related amygdala reactivity in GSAD and matched healthy control (CON) subjects.
+In a functional magnetic resonance imaging study utilizing a double-blind placebo-controlled within-subjects design, we measured amygdala activation to an emotional face matching task of fearful, angry, and happy faces following acute intranasal administration of OXT (24 IU or 40.32 mug) and placebo in 18 GSAD and 18 CON subjects
+
+28893930
+
+The bed nucleus of the stria terminalis (BNST) is implicated in defensive responding during uncertain threat anticipation whereas the amygdala may drive responding upon more acute danger
+Despite the significance of understanding their contributions to defensive reactions, there is a paucity of human studies that directly compared these regions on activity and connectivity during threat processing.
+Here we used data from two independent functional magnetic resonance imaging studies [n = 108 males and n = 70 (45 females)] to probe how coordination between the BNST and amygdala may regulate responses during shock anticipation and actual shock confrontation.
+
+29223783
+
+Fear generalization occurs when a response, previously acquired with a threatening stimulus, is transferred to a similar
+We concluded that stress exposure, prior to contextual fear conditioning, promotes the generalization of fear memory and that the GABAergic transmission within the BLA has a critical role in this phenomenon.
+Furthermore, we observed that increasing GABA-A signaling by intra-BLA midazolam administration prior to the stressful session exposure prevented the generalization of fear memory, whereas intra-BLA administration of the GABA-A antagonist (Bicuculline), prior to fear conditioning, induced the generalization of fear memory in unstressed rats
+In the present work, we have characterized the impact of acute restraint stress prior to contextual fear conditioning on the generalization of this fear memory, and the role of the GABAergic signaling within the basolateral amygdala complex (BLA) on the stress modulatory effects.
+
+26995802
+
+An experimental design was used to manipulate threat and elicit acute pain via a cold pressor task.
+These findings demonstrate that the interpersonal context is independently related to acute pain and may also alter the effect of threatening information on acute pain.
+The threat manipulation altered couples’ perceived threat of pain.
+
+17604912
+
+Chronically elevated HPA activity has often been associated with fear and anxiety, but there is evidence that single administrations of glucocorticoids may acutely reduce fear.
+These results extend earlier findings of acute fear reduction after glucocorticoid administration.
+Hypervigilant processing of threat information plays a role in anxiety disorders and although relations with HPA functioning have been established, causality of these relations remains unclear.
+Presently, self-reported anxiety and response time patterns on a masked emotional Stroop task with fearful faces were measured in 20 healthy young men after double-blind, placebo-controlled oral administration of 40 mg cortisol.
+
+27808542
+
+Here we examine whether chronic cannabis use is associated with impaired fear extinction in humans.
+In rats, chronic cannabinoid administration impairs fear extinction in a drug-free state.
+A 2-day differential fear conditioning paradigm was used to test the hypothesis that chronic cannabis use would be associated with impaired extinction of the skin conductance response
+
+15772862
+
+In this study we used functional magnetic resonance imaging (fMRI) to examine the effects of acute tryptophan depletion (ATD), a well-recognised method for inducing transient cerebral serotonin depletion, on brain activation to fearful faces.
+We predicted that ATD would increase the responsiveness of the amygdala to fearful faces as a function of individual variation in threat sensitivity.
+Consistent with previous findings, fearful faces induced significant signal change in the bilateral amygdala/hippocampus as well as the fusiform face area and the right dorsolateral prefrontal cortex.
+The data support the hypothesis that individual variation in threat sensitivity interacts with manipulation of 5-HT function to bias the processing of amygdala-dependent threat-relevant stimuli.
+
+26329286
+
+We examined the role of corticosterone (CORT) in SEFL.
+However, when the level of fear is not proportional to the level of threat, maladaptive fear-related behaviors characteristic of anxiety disorders result.
+Stress-enhanced fear learning (SEFL) is a rodent model of this sensitized responding, in which exposure to a 15-shock stressor nonassociatively enhances subsequent fear conditioning training with only a single trial.
+Fear promotes adaptive responses to threats.
+Western blot analysis of the basolateral amygdala (BLA) revealed an increase in the GluA1 AMPA receptor subunit that correlated with SEFL
+
+20977330
+
+In this article, we discuss mechanisms underlying the acquisition, the assessment and extinction of pain-related fear through the cognitive-behavioral treatment of pain-related fear.
+Fear learning takes place when neutral stimuli receive the propensity to predict the occurrence of pain, and when defensive responses are initiated in anticipation of potential threats to the integrity of the body.
+Based on extensive literature on fear reduction in anxiety disorders; cognitive-behavioral treatments have been developed and applied to patients with chronic pain reporting substantial pain-related fear.
+
+======================================================================
+Arousal
+======================================================================
+26761427
+
+In the present study, we sought to identify intensive valence and arousal affective states via facial EMG activity.
+
+27539030
+
+Further, physical activities of daily living were significantly associated with energetic arousal and calmness, but not valence.
+Substantial evidence shows that physical activities of daily living are positively correlated with affective states in middle-aged and older adults.
+This study investigated need satisfaction (competence, relatedness, and autonomy) and its moderating effect on the within-subject relation between physical activities of daily living and three dimensions of affective states (valence, energetic arousal, and calmness) based on an ambulatory assessment that used activity-triggered e-diaries.
+
+27708602
+
+The objective of this study was to investigate the bi-directional effect of momentary affective states on naturally occurring exercise and vice versa in healthy participants in real-life environments by applying an ecological momentary assessment design.
+Furthermore, affective states should be taken into account in creating effective interventions to foster exercise behavior and enhance maintenance.
+However, the dynamic relation between affect and exercise in daily life is not yet well-understood.
+
+26996254
+
+Moreover, the method may provide certain indirect evidences that valence and arousal have their brain’s motivational circuit origins.
+To improve accuracy and simplify model, we introduce a new computational modeling method named as higher-order multivariable polynomial regression to estimate human affective states.
+
+21244540
+
+This study examined a two-dimensional approach to assessing affective states among good and poor sleepers using the self-assessment manikin (SAM), a brief non-verbal self-report measure of affective states with separate ratings of valence and arousal.
+These findings indicate that the SAM appears to detect differences between good and poor sleepers on both valence and arousal of current daytime and retrospective night-time emotional states.
+
+23596426
+
+The current study examined the influence of various everyday life activities on three dimensions of mood (valence, calmness, energetic arousal) in a predominantly inactive sample.
+Accordingly, everyday life activities of short duration might be used to regulate affective states
+As their activity increased, the participants’ positive feelings and energetic arousal increased.
+
+21517150
+
+Our viewpoint is that attentional narrowing occurs during affective states of high motivational intensity to aid organisms in acquiring desirable objects and avoiding aversive ones.
+Attentional broadening occurs during affective states of low motivational intensity to open organisms to new opportunities.
+That is, affective states of low motivational intensity (e.g., sadness, postgoal positive affect) broaden attention, whereas affective states of high motivational intensity (e.g., disgust, pregoal positive affect) narrow attention.
+
+29340251
+
+We aimed to develop a methodology for studying affect and exercise using only technology that participants already possess, namely GPS running watches and smartphones.
+Using this methodology, we aimed to characterize within-individual fluctuations in affective valence and arousal in relation to bouts of exercise, and explore possible moderators of these fluctuations.
+Our study demonstrated the potential for studying the associations between affect and exercise in a way that is precise, undemanding for participants, and convenient for researchers, using technologies that participants already own and use.
+
+26377553
+
+To answer these questions we used activity-triggered e-diaries to investigate the within-subject effects of physical activity on three dimensions of affective states (valence, energetic arousal, calmness) during everyday life.
+Socio-emotional selectivity theory may support the finding that older individuals are emotionally more stable during their day-to-day life, which might explain the non-significant effect on the affect dimension valence.
+
+23346064
+
+For energetic arousal, men reported to have lower feelings of energy and women reported to have more feelings of energy during leisure time compared to working episodes.
+Using a prospective, real-time assessment design (ambulatory assessment), we investigated the effects of aPA on affective states (valence, energetic arousal, calmness) in real-time during everyday life while controlling for the context.
+
+27242643
+
+A significant effect of valence on short-term activity fluctuations might indicate that activity interventions would benefit from taking into account enhancement of positive affective valence in everyday life.
+This study analyzed the extent to which three dimensions of affective states (valence, calmness, and energetic arousal) were associated with different components of daily activity trajectories.
+
+21801839
+
+The primary purpose of the study was to determine if multi-voxel pattern analysis could be used within and between participants to predict valence, arousal and combined affective states elicited by pictures based on distributed patterns of whole brain activity.
+Additionally, individual differences multidimensional scaling based on fMRI data clearly separated valence and arousal levels and was consistent with a circumplex model of affective states
+
+28089759
+
+In the absence of language, autonomic activity can provide crucial information about cognitive and affective states during single-unit recording, inactivation and lesion studies.
+Nonhuman primates (NHPs) are a valuable research model because of their behavioral, physiological and neuroanatomical similarities to humans.
+
+28462104
+
+Therefore, cultural differences exist in some aspects of emotions, one such important aspect of emotion being emotional arousal level.
+Moreover, people in the East actually experience and prefer to experience low arousal emotions more than high arousal emotions.
+Mechanism of these cross-cultural differences and implications are also discussed.
+
+25309310
+
+In this paper, we present results from two different studies conducted to validate the XIM as a general-purpose sensing infrastructure for the study of human affective states under ecologically valid conditions.
+In the first investigation, we recorded and classified signals from subjects exposed to pictorial stimuli corresponding to a range of arousal levels, while they were free to walk and gesticulate.
+Our results indicate that, by using our sensing infrastructure, it is indeed possible to infer human event-elicited affective states through measurements of psychophysiological signals under ecological conditions.
+
+26379609
+
+To explore the influence of affective context on VWM for faces, we conducted two experiments using both a VWM task for emotionally expressive faces and a mood induction procedure.
+In both experiments, affective states led to a switch from specific enhancement of angry expressions in VWM to an equally sensitive representation of all emotional expressions
+
+26487403
+
+These graphs are referred to as response landscapes, and they highlight the flexibility available for improving training efficacy and the likely need for different approaches to suit animals in different affective states and at various levels of arousal
+Following on from recent studies showing that affective states and arousal levels may correlate with behavioural outcomes, we explore the contribution of both affective state and arousal in behavioural responses to operant conditioning.
+
+25570122
+
+One of the most common of such dimensional spaces is the bidimensional Arousal/Valence space.
+In order to cover a high range of emotions, researchers in the field have introduced different dimensional spaces for emotion description that allow the characterization of affective states in terms of several variables or dimensions that measure distinct aspects of the emotion.
+From the analysis of the features selected in smaller subsets via RFE, it can be observed that the signals that are more informative into the arousal and valence space discrimination are the EEG, Electrooculogram/Electromiogram (EOG/EMG) and the Galvanic Skin Response (GSR).
+
+23534888
+
+More specifically, cognitive and behavioral strategies would be aimed at targeting maladaptive sexual beliefs and thoughts, as well as regulating negative affective states resulting from a dysfunctional cognitive style regarding sexuality.
+The aim of this study was to characterize the cognitive and emotional style of women reporting PGAD.
+Nevertheless, there are no consistent data on the content of the beliefs system presented by these women.
+More precisely, the content of sexual beliefs, thoughts, and emotions during sexual intercourse was explored.
+
+19923040
+
+The results of this study suggest that classification of facial thermal infrared imaging data coupled with affect models can be used to provide information about an individual’s affective state for potential use as a passive communication pathway
+A total of six binary classification tasks were examined to distinguish baseline and affect states.
+Affect states were determined from subject-reported levels of arousal and valence.
+
+30296909
+
+This experiment tested whether motivational-general arousal imagery can improve the decision-making performance of elite endurance cyclists.
+Results showed that the manipulation was successful with cyclists in the positive imagery condition reporting more positive affective states (higher levels of happiness and lower levels of dejection) than those in the negative imagery condition.
+
+22216233
+
+These findings indicate that affective influences on cognitive processes can be driven by independent effects of variations in valence and arousal, which may resolve several heterogeneous findings observed in previous studies on affect-cognition interactions.
+We examined how changes in both valence (negative vs. positive) and arousal (low vs. high) influence performance in tasks requiring executive control because recent research indicates that two dissociable cognitive components are involved in the regulation of task performance: amount of current control (i.e., strength of filtering goal-irrelevant signals) and control adaptation (i.e., strength of maintaining current goals over time).
+However, until now, no study has investigated whether valence and arousal are also dissociable at the level of affect-related changes in cognitive processing.
+
+25862928
+
+This study explored whether the percentage of visible eye whites is a valid measure of a low arousal, positive emotional state in dairy cows (Bos taurus), by using stroking as the positive stimulus.
+Behaviours known to be associated with positive emotions in cows were performed during the stroking phase of the focal observation, supporting the use of stroking as a stimulus to induce a positive, low arousal emotional state.
+
+28493755
+
+We recruited mothers and their 12- to 14-month-old infants (Ndyads = 98) to complete a lab study in which mothers were initially separated from their infants and assigned to either a low-arousal positive/relaxation condition, intended to elicit parasympathetic nervous system (PNS) reactivity, or a high-arousal negative/ stress task, intended to elicit sympathetic nervous system (SNS) reactivity.
+
+28544868
+
+This model captures variability in affective ratings better than alternative approaches, increasing variance explained from 60% to over 90% without adding parameters.
+In an effort to distill the complexity of affective experience, psychologists routinely focus on a simplified subset of subjective rating scales (i.e., dimensions) that capture considerable variability in reported affect: reported valence (i.e., how good or bad?) and reported arousal (e.g., how strong is the emotion you are feeling?).
+
+21352887
+
+Larger blink magnitude was found for fearful than for sad or neutral clips.
+Implications for conceptualizing sadness are discussed.
+Because sadness has generally been studied as a low arousal emotion, it remains unclear whether high arousal sadness would produce startle potentiation to a similar degree as high arousal fear.
+
+27598534
+
+In addition, the brain regions identified by searchlight analyses to represent valence and arousal were consistent with previously identified regions associated with emotion processing.
+Identification of affective states from more naturalistic stimuli has clinical relevance, but the feasibility of identifying these states on an individual trial basis from fMRI data elicited by dynamic multimodal stimuli is unclear.
+The goal of this study was to determine whether affective states can be similarly identified when participants view dynamic naturalistic audiovisual stimuli.
+
+30624745
+
+Specific situational and affective contexts of smoking lapses for adolescents were implicated, indicating the need for cessation interventions to address craving and high-arousal affective states as precipitators of lapse in this high-risk group.
+The present work provides ecological data to suggest that the experience of heightened arousal in teens’ daily lives interferes with their efforts to quit smoking.
+Thus, this work highlights the importance of affective dysregulation, or amplitude of emotional feelings, for teen smoking lapses.
+
+25503895
+
+The findings confirmed satisfactory psychometric properties of both Polish versions of the Job-related Affective Well-being Scale.
+This version of JAWS includes 2 dimensions: valence and arousal, which allow to assess 4 categories of emotions: low-arousal positive emotions, high-arousal positive emotions, low-arousal negative emotions and high-arousal negative emotions.
+
+28458642
+
+The present study examined whether stressful daily life situations that elicit affective arousal also elicit increased physical activity in the form of restless movement.
+These results support the conclusion that stressful daily life situations that elicit affective arousal also elicit increased physical activity in the form of restless movement and suggest that affective responses to stressful situations may be important determinants of physical activity during daily life.
+
+27859246
+
+ This micro-longitudinal study examines personality (Neuroticism, Extraversion) and emotional salience (peak and recent affect) associations with retrospective-momentary affect report discrepancies over different time frames
+This study is the first to identify arousal-specific retrospective affect report discrepancies over time and suggests retrospective reports also reflect personality differences in affective self-knowledge.
+
+26365539
+
+The results highlight the detrimental effects of negative social evaluative emotions and high-arousal affective states for adolescent sleep.
+Although past research has assessed the association between affect and sleep among adolescents, few studies have examined both trait (typical) and day-to-day changes in affect, and fewer still have specifically examined negative social evaluative emotions (e.g. embarrassment) in relation to sleep.
+At the within-person level, individuals had longer sleep latencies following days that they had experienced high-arousal positive affect (e.g. excitement), and had longer wake bouts following days they had experienced more negative social evaluative emotions.
+
+27113096
+
+Furthermore, since variations in pupil diameter reliably display self-induced changes in sympathetic arousal, the relevance of this parameter is strongly indicated for future approaches in clinical biofeedback.
+Parallel recordings of skin conductance changes prove a general enhancement of induced autonomic arousal.
+
+29305673
+
+The present study examined associations between adolescents’ daily romantic relationship experiences and their same-day negative affective states (i.e., fluctuations in high-arousal, aversive mood).
+Beyond the effects of these romantic experiences, adolescent couples were also synchronized in their fluctuating negative affective states, evidencing the presence of emotional contagion.
+
+26339285
+
+Thanks to advanced methods of computational psychometrics, in this study, affective states were deeply examined using simultaneous and synchronized recordings of gazes and psychophysiological signals in 28 female students during an investment game.
+Results showed that participants experienced different affective states according to the type of communication (personal versus impersonal).
+
+30321612
+
+Traditionally, psychology has described emotions through discrete labels (e.g. happy, afraid) or standardized affective dimensions (e.g. valence, arousal), and neuroscience has more recently sought the neurobiological basis of emotions via functional neuroimaging.
+This finding suggests that the insula may underlie individual-level affective information processing that is specific to one’s own affective states, which offers new opportunities for functional neuroimaging to inform clinical approaches of disorders involving emotion dysregulation.
+
+27250346
+
+Instead, affect predicted the desire to gamble, with high levels of sadness and arousal independently predicting an increased desire to gamble.
+The present findings provide evidence that negative affect is not directly related to actual gambling behavior, and suggest that affective states rather impact the desire to gamble.
+Time-sampling methodology was implemented to examine the prospective associations between affect, desire to gamble, and gambling behavior in individuals diagnosed with a mood disorder.
+
+23527508
+
+In particular, the extent to which autonomic nervous system activity signifies distinct affective states remains controversial.
+Further, examining the error distribution of classifiers revealed that the dimensions of valence and arousal selectively contributed to decoding emotional states from self-report, whereas a categorical configuration of affective space was evident in both self-report and autonomic measures.
+
+======================================================================
+Circadian_Rhythms
+======================================================================
+29986218
+
+Behavior circadian rhythms were disturbed according to the repetitive cycles after autocorrelation analysis, and the toxic effects of different chemicals could be reflected by the profiles of the Self-Organizing Map (SOM), which indicated the circadian rhythm disorder in different degrees.
+These results deduced from the statistical analysis, autocorrelation and SOM strongly supported that circadian rhythms based on zebrafish BS could be used as an indicator in the environmental stress assessment.
+Statistical analysis with p<0.01 shows that a clear difference between average values of BS during dark period (AVD) and those during light period (AVL) could be observed, and 24h circadian rhythms do exist in zebrafish behavior responses.
+
+27033596
+
+Mood disorders, including bipolar disorder (BD), are commonly associated with disturbed circadian rhythms.
+Therefore, we hypothesized that high levels of DA during episodes of mania contribute to disturbed circadian rhythms in BD.
+Here, we provide in vivo and in vitro evidence across species that elevated DA signaling lengthens the circadian period, an effect remediated by VPA treatment
+
+27216486
+
+We conclude that the inability of lithium to regulate circadian rhythms in BD may reflect reduced ERK activity, and signaling through ELK-1.
+To understand the mechanism by which lithium differentially affects rhythm amplitude in BD cells, we investigated the extracellular-signal-regulated kinase (ERK) and related signaling molecules linked to BD and circadian rhythms.
+
+28449894
+
+The present results suggest that sleep fragmentation and any resultant cognitive deficits are likely not confounded by corresponding deficits in circadian rhythms.
+Given previous human and animal data suggesting intact circadian regulation of melatonin across the day and night, it was hypothesized that behavioral indices of circadian rhythmicity would likewise be intact in the sample with DS.
+
+30874451
+
+As our knowledge of circadian biology increases, it may be possible to incorporate strategies that take advantage of circadian rhythms and chronotherapy to prevent and/or treat disease.
+Disruption of circadian rhythms can have adverse consequences including the promotion of and/or exacerbation of a wide variety of gastrointestinal disorders and diseases.
+In this review, we evaluate some of the many gastrointestinal functions that are regulated by circadian rhythms and how dysregulation of these functions may contribute to disease.
+
+30447063
+
+We explore whether 2D2 mice have abnormalities in circadian rhythms and the potential underlying molecular mechanism
+The results presented here indicate that alteration of circadian rhythms in 2D2 mice affects behavior and immune function, and the potential molecular mechanism might be the Per1 and Per2 expression disorders in the SCN.
+
+28802827
+
+Among the changes observed in the levels of various mRNAs including heme oxygenase- 1 (HO-1) and ALA synthase-1 (ALAS1), a mouse homologue of the plant circadian-regulating protein SRR1, SRR1 domain containing (SRRD) was induced by the ALA treatment.
+Heme plays a role in the regulation of the expression of genes related to circadian rhythms and heme metabolism.
+
+30344415
+
+Moreover, life habits respecting circadian rhythms should be promoted for the prevention of these diseases
+In recent years, experimental and clinical studies have consistently evidenced that the alteration of circadian rhythms is associated with the development of digestive pathologies mainly linked to dismotility or changes in microbiota composition.
+In situations of disturbed circadian rhythms (chronodisruption) where the central clock and the peripheral clocks receive incoherent signals, the synchronicity is lost producing implications for health.
+
+26930624
+
+Thus, the amplitude-enhancing effect of lithium in WT fibroblasts was unaffected by Cry2 knockout and occurred in the absence of period-lengthening, whereas the period-lengthening effect of lithium in WT SCN was unaffected by Cry1 or Cry2 knockout and occurred in the absence of rhythm amplification, suggesting that these two effects of lithium on circadian rhythms are independent of CRYs and of each other.
+One possible pathway for these effects involves inhibition of glycogen synthase kinase-3beta (GSK-3beta), which regulates degradation of CRY2, a canonical clock protein determining circadian period.
+In this paper, we tested the hypothesis that lithium affects circadian rhythms through CRYs.
+
+28360128
+
+Feedback of period and timeless on their own transcription forms the core of the molecular clock, and accurately timed expression, localization, post-transcriptional modification, and functio
+Flies thus remain a valuable tool for both discovery of novel molecules and deep mechanistic understanding of sleep and circadian rhythms.
+The advantages of the model organism Drosophila melanogaster, including low genetic redundancy, functional simplicity, and the ability to conduct large-scale genetic screens, have been essential for understanding the molecular nature of circadian ( approximately 24 hr) rhythms, and continue to be valuable in discovering novel regulators of circadian rhythms and sleep.
+
+24853393
+
+This essay discusses several open questions confronting the cross-level synthesis, and proposes that circadian regulation, and its role in mood, stands as a uniquely tractable system to study the causal mechanisms of neural adaptation.
+Disruption of this balance underlies both circadian rhythm abnormality and mood disorders.
+However, we do not fully understand the network properties that govern the crosstalk between the circadian system and mood regulation.
+
+26476274
+
+Since calcium signals impact upon the circadian clock, and L-type calcium channels (LTCC) have emerged as genetic risk factors for BD, we examined whether loss of function in LTCCs accounts for the attenuated response to lithium in BD cells.
+We conclude that in cells from BD patients, calcium signaling is abnormal, and that LTCCs underlie the failure of lithium to amplify circadian rhythms
+Previously, we demonstrated that fibroblasts grown from BD patients show weaker amplification of circadian rhythms by lithium compared to control cells.
+
+30180433
+
+Saliva samples were collected at each of the following three time points: immediately upon wakening, 30 minutes after wakening and bedtime, with the index of circadian rhythm of HPA axis calculated, which including cortisol awake response (CAR), cortisol in puberty priming and diurnal cortisol slope (DCS).
+The indexes of circadian rhythm of HPA axis were associated with the development of puberty
+To explore the developmental characteristics of circadian rhythms in hypothalamus-pituitary-adrenal (HPA) axis during puberty.
+
+28674176
+
+We show that chronic social defeat stress in mice produces progressive alterations in sleep and circadian rhythms that resemble features of depression as it appears in humans.
+Here we examined the effects of chronic social defeat stress (CSDS), an ethological form of stress, on sleep and circadian rhythms.
+
+29141950
+
+In this review, we outline circadian timing system ontogeny in mammals and examine emerging research from animal models demonstrating long-term negative implications for progeny health following maternal chronodisruption during pregnancy.
+Meanwhile, the fetus is developing an endogenous circadian timing system, preparing for life in an external environment where light, food availability, and other environmental factors change predictably and repeatedly every 24 h.
+
+27908540
+
+Here, we review recent literature on sleep, circadian rhythms and CVD with a specific emphasis on differences between racial/ethnic groups.
+We discuss the evidence for genetic and environmental causes of these differences in sleep and circadian rhythms, and their usefulness as health intervention targets
+
+28332018
+
+Additionally, squirrels maintained in captivity under conditions of constant darkness spontaneously developed significant circadian rhythms of T b and activity soon after ending torpor.
+However, whether circadian rhythms persist and are functionally important during hibernation in all mammals is currently unclear
+We examined whether circadian rhythms of body temperature (T b) persist during multi-day, steady-state torpor and investigated the association between timing of animal emergence, exposure to light, and resumption of activity and T b rhythms in free-living and captive male arctic ground squirrels.
+
+29289962
+
+This type of assessment is quite easy, low-cost, and provides valuable indications how to adjust the therapeutic approach to the circadian phase of the particular patient
+The most common are the diurnal changes that repeat roughly every 24 hours, called circadian rhythms.
+The aim of this article is to present the current understanding of the circadian rhythms physiological role, with particular emphasis on the circadian rhythm sleep-wake disorders (CRSWD), principles of their diagnosis and chronobiological therapy.
+
+30098753
+
+This systematic review provides a summary of studies of circadian rhythms and associated sleep problems and maternal distress, among postpartum women.
+
+30487653
+
+Presently, we hypothesized that lithium-responsive BD patients (Li-R) would show characteristic differences in chronotype and cellular circadian rhythms compared to lithium non-responders (Li-NR).
+We conclude that circadian rhythms may influence response to lithium in maintenance treatment of BD.
+
+28169087
+
+However, less is known about how circadian rhythm disruptions may relate to psychosis symptoms and prognosis for adolescents with clinical high-risk (CHR) syndromes
+Future studies with longer study designs are necessary to further examine circadian rhythms in the prodromal period and rates of conversion to psychosis among CHR teens.
+The present study examines circadian rest/activity rhythms in CHR and healthy control (HC) youth to clarify the relationships among circadian rhythm disturbance, psychosis symptoms, psychosocial functioning, and the longitudinal course of illness.
+
+28777176
+
+This article discusses the physiology of the circadian rhythms, their relationship to neurologic disease, and the presentation and treatment of circadian rhythm sleep-wake disorders.
+Irregular sleep-wake rhythm disorder is misentrainment with patches of brief sleep and wakefulness spread throughout the day, leading to unstable sleep and waking behavioral patterns and an entirely idiosyncratic sleep-wake schedule.
+
+28514644
+
+This study aimed to deepen our understanding of mechanisms underlying circadian feeding behaviour in animals, using pigs, Sus scrofa, as a case study.
+Furthermore, our results suggest that circadian rhythms of other hormones, such as leptin and ghrelin, are less important in circadian regulation of feeding behaviour than previously thought.
+
+29496017
+
+We studied circadian rhythms of body temperature and locomotor activity in antelope ground squirrels (Ammospermophilus leucurus) under laboratory conditions of a 12L:12D light-dark cycle and in constant darkness.
+Daily oscillations in body temperature consisted of a rise in temperature during the daytime activity phase of the circadian cycle and a decrease in temperature during the nighttime rest phase
+This suggests that although muscular thermogenesis associated with locomotor activity can modify the level of body temperature, the circadian rhythm of body temperature is not simply a consequence of the circadian rhythm of activity.
+
+25535886
+
+We conclude that (i) in RA some immune cell populations lose their normal circadian rhythms whereas others establish new ’inflammatory’ circadian rhythms and
+In this study, we investigated circadian rhythms of cellular immunity in RA (CiRA study).
+
+28592698
+
+To gain more insight into the mechanisms by which UNF contributes to the functioning of the circadian master pacemaker, we identified UNF target genes using chromatin immunoprecipitation.
+In addition to the anatomical and functional diversity, recent studies have shown the mechanistic differences in the molecular clockwork among the pacemaker neurons in Drosophila
+
+29610316
+
+Finally, we demonstrated the dynamics of Per2 and Cry1 transcriptional rhythms in SCN VIP neurons following an 8-h phase advance in the light/dark cycle.
+Here, we report a real-time in vivo fluorescence recording system that enables long-term monitoring of circadian rhythms in the brains of freely moving mice.
+
+30172213
+
+The possible connection between improvements of mood symptoms and changes in circadian outcomes seems controversial.
+A multifactorial etiopathogenesis could explain the heterogeneous clinical presentations of SAD and the complex link between mood and circadian symptoms.
+The present systematic review was aimed at critically summarizing the evidence about interventions focused on circadian rhythms and mood symptoms in seasonal affective disorder (SAD).
+
+29412982
+
+The timing, duration, and consolidation of sleep result from the interaction of the circadian timing system with a sleep-wake homeostatic process
+This article discusses changes in circadian regulation of sleep with aging; how age influences the prevalence, diagnosis, and treatment of circadian rhythm sleep-wake disorders; and how neurologic diseases in older patients affect circadian rhythms and sleep.
+
+28420965
+
+Circadian rhythms are entrained by light, and their 24-h oscillation is maintained by a core molecular feedback loop composed of canonical circadian ("clock") genes and proteins.
+The purpose of this review is to summarize growing evidence that dopamine is involved in regulating circadian rhythms, either directly or indirectly, in the brain areas discussed here.
+This review discusses studies that showcase different dopaminergic mechanisms that may be involved with the regulation of these brain areas’ circadian rhythms.
+
+28156168
+
+We observed that while circadian rhythms in all the three behaviors persist in both LL and DD stocks with no differences in circadian period, they differed in certain aspects of the entrained rhythms when compared to controls reared in rhythmic environment (LD)
+In continuation of our previous studies, which reported persistence of circadian rhythms in Drosophila melanogaster populations evolving under constant light, here we intended to examine whether circadian clocks and the associated properties evolve differently under constant light and constant darkness.
+
+28096235
+
+Role of cardiotrophin-1 in the regulation of metabolic circadian rhythms and adipose core clock genes in mice and characterization of 24-h circulating CT-1 profiles in normal-weight and overweight/obese subjects.
+In the present study, we analyzed whether CT-1 also acts to peripherally regulate metabolic rhythms and adipose tissue core clock genes in mice.
+
+27793218
+
+These rhythms align biological functions with regular and predictable environmental patterns to optimize function and health.
+In this review, we will cover how host circadian rhythms are generated and maintained, how host circadian rhythms can be disrupted, as well as the consequences of circadian rhythm disruption.
+It is now becoming clear that the intestinal microbiome is also regulated by circadian rhythms via intrinsic circadian clocks as well as via the host organism.
+
+30009381
+
+Here, we examined diurnal and circadian rest-activity and sleep-wake patterns in Kcna1-null mice, which exhibit spontaneous recurrent seizures and are a model of sudden unexpected death in epilepsy.
+Sirt1 may represent a useful therapeutic target for rescuing circadian clock gene rhythmicity and sleep patterns in epilepsy.
+
+29331582
+
+Overall, we conclude that inositol phosphates, in particular IP6 have effects on circadian rhythms.
+Using a bioluminescent reporter (Per2::luc) to measure circadian rhythms, we determined that IP6 increased rhythm amplitude and shortened period in NIH3T3 cells.
+We examined whether the signaling molecule inositol hexaphosphate (IP6) has effects on circadian rhythms.
+
+23376587
+
+The effects of daily corticosterone injection at ZT10 on circadian rhythms of activity, plasma corticosterone, adreno-corticotropic hormone (ACTH) and hypothalamic corticotropic releasing hormone (CRH) were assessed in control and hyperammonemic rats.
+The aims were: (1) assessing whether corticosterone alterations are responsible for altered circadian rhythm in hyperammonemia: (2) to shed light on the mechanism by which corticosterone circadian rhythm is altered in hyperammonemia.
+
+28196106
+
+Such rhythms have been observed in the number of synapses and in the structure of interneurons, which exhibit changes in size and shape in a circadian manner.
+Our results indicate that the TOR signaling pathway and autophagy are involved in the regulation of circadian rhythms in the behavior and plasticity of neurons in the brain of adult flies.
+In the present study, we investigated the role of the TOR signaling pathway and autophagy in regulating circadian rhythms based on the behavior and structural plasticity of the lamina L2 monopolar cell dendritic trees.
+
+25246026
+
+The aim of the present review is to review the circadian and sleep-wake disturbances associated with shift work as well as their medical impacts.
+
+27003509
+
+We systematically searched the PubMed database until January 2016, aiming to critically examine published studies investigating direct and indirect effects of Li on circadian rhythms.
+Lithium (Li) is the first-line treatment in BD, and its therapeutic action has been related to its ability to alter circadian rhythms.
+
+30365258
+
+To observe the effect of electroacupuncture (EA) on the rhythm of running-wheel activity of hepatocellular carcinoma (HCC) mice and the expression of Per 1 and Per 2 (circadian rhythm genes) in the hypothalamic suprachiasmatic nucleus (SCN), so as to investigate its mechanism underlying regulating circadian rhythm.
+EA can benignly regulate the rhythm of running-wheel activity of HCC mice, which may be closely related to its effect in down-regulating the expression of circadian rhythm genes Per 1 and Per 2 in the SCN.
+
+28977444
+
+Sleep and circadian rhythm disruption (SCRD) is a ubiquitous feature in today’s 24/7 society, and studies on shift-workers have shown that SCRD can lead not only to cognitive impairment, but also metabolic syndrome and psychiatric illness including depression (1,2).
+This review will focus upon the genetics of circadian rhythms in sleep and health.
+
+26203935
+
+To reach these aims, we analyzed in control and PCS rats: (a) daily rhythms of spontaneous and rewarding activity and of temperature, (b) timing of the onset of activity following turning-off the light, (c) synchronization to light after a phase advance and (d) the molecular mechanisms contributing to these alterations in circadian rhythms.
+The aims of this work were to characterize the alterations in circadian rhythms in PCS rats and analyze the underlying mechanisms.
+Altered cGMP-PKG pathway in hypothalamus would contribute to altered circadian rhythms and synchronization to light.
+
+24886186
+
+Circadian rhythms influence virtually every aspect of behavior.
+This special issue provides updates on the current state and future directions for the field of circadian rhythms in behavioral neuroscience.
+Recent data have linked circadian rhythms to behavioral and physiological phenomena and disease states in virtually every area of behavioral and biomedical science.
+As such, the reviews provide an overview of the burgeoning field of circadian rhythms within behavioral neuroscience.
+
+29724861
+
+Poor rhythms in sra mutant behaviors were accompanied by lower expression of two oscillating clock proteins, PERIOD (PER) and TIMELESS (TIM), at the post-transcriptional level.
+Evolutionarily conserved kinases and phosphatases have been implicated in circadian phosphorylation and the degradation of clock-relevant proteins, which sustain high-amplitude rhythms with 24-hr periodicity in animal behaviors and physiology.
+
+27113500
+
+However, light can impact mood by noncircadian mechanisms; clock genes have pleiotropic, clock-independent functions; and brain lesions not only disrupt cellular circadian rhythms but also destroy cells and eliminate important neuronal connections, including light reception pathways.
+Disrupting SCN circadian rhythms is sufficient to cause helplessness, behavioral despair, and anxiety-like behavior in mice, establishing SCN-Bmal1-KD mice as a new animal model of depression
+Thus, a definitive causal role for functioning circadian clocks in mood regulation has not been established.
+
+29691928
+
+In other areas of medical science, circadian dysregulation is now thought to impact many non-ocular disorders, likely because the patterns of modern artificial lighting exert adverse physiological effects on circadian pacemakers.
+Here, we review classic and contemporary literature about how circadian biology might provide clues to develop a framework to improve the understanding of myopia etiology, and possibly lead to rational approaches to ameliorate refractive errors developing in children.
+
+30689226
+
+This article reviews the neural and molecular mechanisms underlying the age- and AD-related changes in circadian rhythms.
+These circadian rhythm alterations are more pronounced in age-associated neurodegenerative disorders such as Alzheimer’s disease (AD), in which they often precede the onset of other symptoms by many years.
+It also explores therapeutic strategies proposed to ameliorate circadian rhythm deficits in elderly and demented individuals
+
+======================================================================
+Frustrative_Nonreward
+======================================================================
+25360124
+
+The findings are discussed as supporting a social information processing perspective on developmental patterns of change in physical and relational aggression in adolescence.
+In both gender groups, normative approval of relational aggression prospectively predicted relational aggression across all data waves, and the normative approval of physical aggression predicted physically aggressive behavior at the second and third data waves.
+In a longitudinal study with N = 1,854 adolescents from Germany, we investigated patterns of change and gender differences in physical and relational aggression in relation to normative beliefs about these two forms of aggression.
+
+29057169
+
+However, due to the dearth of longitudinal studies, we know little about how relational aggression and more severe forms of disruptive behavior co-develop.
+Thus, relational aggression seems to be both a developmentally-normative behavior and a predictor of future mental health problems.
+
+26990794
+
+These findings highlight two important mechanisms by which peer aggression may increase the risk of later romantic relational aggression: a direct pathway from peer relational aggression to romantic relational aggression and an indirect pathway through peer physical aggression and concurrent heavy episodic drinking.
+
+24318459
+
+It was hypothesized that (1) relational aggression trails both adaptive and maladaptive processes,
+Results showed that higher levels of peer liking predicted relative increases in relational aggression (not physical aggression), which in turn led to more peer liking
+More peer liking predicted relative decreases in physical victimization, which resulted in lower levels of peer liking
+
+30526706
+
+Prior work has indicated both theoretical and empirical overlap between social and physical aggression.
+These findings argue against the common assumption that social aggression is the ’female version’ of male physical aggression, and instead suggest that social aggression may be best conceptualized as a form of antisocial behavior that shares developmental pathways with other manifestations of externalizing pathology.
+
+30094657
+
+In this study, within- and between-person psychological and peer-related predictors of rates of relational aggression over time were examined.
+Age, gender, and race were not associated with relational aggression over time; however, consistent with the Social Cognitive Theory, changes in within-person impulsivity, anger, and peer delinquency were all positively related to increases in relational aggression.
+Findings suggest that school-based programs that address anger management, impulsivity, empathy, and victimization could help prevent relational aggression.
+
+25047304
+
+The present study sought to explore the dispositional context of relational aggression across three dispositional frameworks: temperament, personality, and personality pathology.
+Participants comprised a large community sample of youth, aged 6 to 18 years (N = 1,188; 51.2% female).
+Dispositional trait frameworks offer great potential to elucidate the nature and development of psychopathology, including the construct of relational aggression.
+Results are discussed in the broader context of conceptualizing relational aggression in an overarching personality-psychopathology framework.
+
+29514551
+
+Item order manipulation did not result in significant differences in self-reported victimization experiences
+Results of this study indicate a need for greater consideration of item order when conducting research using self-report data and the importance of additional investigation into which form of item presentation elicits the most accurate self-report information.
+Results revealed that participants reported perpetrating relational aggression significantly more often when asked only about perpetration or when asked about perpetration before victimization, compared with participants who were asked about victimization before perpetration.
+
+28735605
+
+The present article examined the development of relational aggression in middle childhood and the effects of observed teacher behavior on this development.
+Moreover, when teachers displayed more praise, students’ relational aggression increased at a slower rate; when teachers displayed more reprimands, students’ relational aggression increased at a faster rate.
+
+29294674
+
+Despite often being overlooked in research on aggression during emerging adulthood, relational aggression was prevalent.
+The temporal relationship between alcohol and aggression suggests health interventions should target drinking and aggression simultaneously.
+This study examines the chronic and temporal nature of males’ and females’ alcohol-related aggression among college students.
+
+23111842
+
+These results suggest not only that individual beliefs and perceptions of the school environment are important in understanding perpetration and victimization of relational aggression, but also that risk for involvement in relational aggression is distinct from that of physical aggression.
+This study examines risk for involvement in relational aggression and victimization among middle school youth, evaluating both individual beliefs about violence, as well as aspects of the school environment, including interpersonal school climate and school responsiveness to violence.
+
+22331610
+
+Narcissism was positively associated with dominance goals and negatively with closeness goals for peer interaction
+This study examined adolescent narcissism, temperament (frustration and affiliation), and social goals in association with peer-reported physical and relational aggression (N = 384; 12-14 years).
+Supporting and extending existing research, the present findings suggest that adolescent personality and social goals are meaningfully associated with physical and relational aggression in the peer context.
+
+26174166
+
+This research examined the moderating effect of the autonomic nervous system (ANS) on the associations between relational victimization and reactive and proactive relational aggression.
+In addition, relational victimization predicted heightened reactive relational aggression given RSA augmentation/low SCL-Reactivity (i.e., reciprocal parasympathetic activation).
+(a) exposure to relational victimization is associated with reactive relational aggression, but not proactive relational aggression,
+
+18706767
+
+The present study investigated the longitudinal relationships between physical and relational aggression and later drug use, as moderated by gender.
+Results indicated that males reported engaging in more physical aggression than females at baseline; however, females and males reported engaging in similar rates of relational aggression
+These findings suggest that both physical and relational aggression are predictive of subsequent drug use and have important implications for violence and drug use prevention intervention efforts.
+
+25047298
+
+Early aggression and parenting experiences may differ in their long-term prediction of aggression or borderline features, which may have important implications for early intervention
+A longitudinal study is needed to more fully explore this association, to contrast potential associations with physical aggression, and to assess generalizability across various cultural contexts.
+
+29055714
+
+This study investigated the joint effects of parasympathetic and sympathetic nervous system reactivity to social and non-social stressors on proactive (i.e., goal-directed, unemotional) and reactive (i.e., emotional, impulsive) functions of relational aggression.
+Findings extend research on the physiological indicators of aggression to relational aggression, and highlight the importance of assessing functions of aggression, as well as physiological reactivity to multiple stressors.
+
+26419234
+
+A significant direct effect emerged, such that relational aggression in middle childhood was associated with decreases in academic self-concept and increases in sports self-concept in adolescence
+The findings highlight the importance of examining bidirectional prospective associations between relational aggression, relational victimization, and domain specific self-concept.
+Implications for future research and clinical intervention are discussed.
+
+21684310
+
+The current study investigates whether established associations between physical aggression and low autonomic nervous system arousal, as indexed by heart rate and blood pressure, also apply to the study of the development of relational aggression.
+Low baseline arousal-aggression associations were strongest for children with poorer self-regulation abilities, whereas high self-regulation appeared to protect children with low heart rate and blood pressure from engagement in aggressive classroom behavior.
+
+23935227
+
+Distinguishing between relational and physical aggression has become a key feature of many developmental studies in North America and Western Europe, but very little information is available on relational and physical aggression in more diverse cultural contexts.
+Despite mean-level differences in relational and physical aggression across countries, the findings provided support for cross-country similarities in associations between relational and physical aggression as well as links between gender and aggression.
+
+30367685
+
+Findings indicate the importance of distinguishing between types of transgressions and forms of aggression in studying moral emotions.
+This study examined discrepancies between 4- and 7-year-olds’ (n = 135; Mage = 5.65) self-reported affect following hypothetical moral versus social-conventional transgressions and their associations with teacher-rated physical and relational aggression concurrently and 9-months later.
+When transgressions were described as no longer prohibited by rules and authority figures, children reporting more negative affect in response to moral as compared to conventional violations were less physically aggressive at Wave 1 and showed relative and mean-level declines in physical aggression over time
+
+28054802
+
+Collectively, these results suggest that relational aggression by men may be less common, though particularly toxic in a marital relationship
+The current study examined associations between two subtypes of relational aggression (love withdrawal and social sabotage) and marital quality over a 5-year time period.
+
+======================================================================
+Loss
+======================================================================
+27197727
+
+We measured the current anxiety and depressive symptoms with the State-Trait Anxiety Inventory Form Y-1/Self-evaluation Depression Scale, the handicap with the Tinnitus Handicap Inventory, and the proneness to worry with the Penn State Worry Questionnaire.
+We examined the relationship between worry and self-perceived anxiety and depressive symptoms and handicap in 54 outpatients with chronic tinnitus and sensorineural hearing loss who had been previously recruited for a randomized double-blind study on the efficacy of transmeatal low-level laser therapy for tinnitus.
+Worry is a dispositional cognitive trait that involves a pervasive, non-specific, future-oriented proneness to fretting, which can foster negative affective states and catastrophic thinking about a specific trouble when the trouble is actual and present.
+
+12238739
+
+Although no causal relationship can be assumed, our findings indicate an association of grief and posttraumatic stress with increased substance use behaviors in disaster victims.
+Those who reported increased smoking had higher scores on peritraumatic reaction, grief, posttraumatic stress, worry about safety, and trouble functioning.
+In this study, we examined the effect of trauma exposure on substance use behaviors, specifically tobacco and alcohol use, in a group of 84 individuals who sought supportive services after the 1995 Oklahoma City bombing.
+
+20455126
+
+To our knowledge, no studies have yet examined the association between IU and emotional distress connected with the death of a loved one.
+Yet, it seems plausible that those who have more difficulties to tolerate the uncertainties that often times occur following such a loss experience more intense distress.
+ptom levels of complicated grief and posttraumatic stress disorder (PTSD), even when controlling for time since loss (the single demographic/loss-related variable associated with symptom levels), and for neuroticism and worry, which are both correlates of IU
+
+30694221
+
+The pregnancy loss experiences of participants were investigated under the five main themes of (a) lived experiences before the termination of pregnancy, (b) lived experiences after pregnancy termination, (c) willingness to see the baby after termination, (d) posttermination care requirements, and (e) physical condition of hospital rooms during hospitalization.
+Fetal death causes women to experience negative feelings after the loss.
+Ten women who were hospitalized between April and July 2017 at the Akdeniz University Clinic of Obstetrics and Gynecology and had subsequently experienced pregnancy loss during their hospitalization were enrolled as participants.
+The participants expressed feelings of hope, fear, and worry over being unsuccessful before fetal death and feelings of loneliness, disappointment, blame, and avoidance after fetal death
+
+24843744
+
+A structured caloric restricted diet with or without EX improves emotional distress and QOL in overweight and obese patients with type 2 diabetes.
+
+30173702
+
+Current case provides a detailed account of a 45-year female diagnosed with diabetes and coronary heart disease having complaints of pain in her joints, sadness and worry, unable to control anger, loss of interest in previous pleasurable activities, reduced interaction with others, and difficulty falling asleep.
+
+9850002
+
+Persistent middle ear effusion in infancy and early childhood has been blamed for impairments of speech, language, cognition and psychosocial development later in life.
+The study involves enrolling a large, demographically diverse sample of normal infants before 2 months of age; monitoring them for the presence or absence of otitis media throughout the first 3 years of life; identifying those in whom OME has persisted for specified minimum periods; randomly assigning those subjects either to prompt tube placement or to delayed tube placement if OME persists; and administering a battery of standardized developmental tests to those subjects and to a sample of the others at ages 3, 4 and 6 years.
+
+24275670
+
+Instead, they reported lower levels of perceived behavioural control over eating and were less successful at maintaining their weight over an 18month period.
+This study firstly examined whether a default association of either ’guilt’ or ’celebration’ with a prototypical forbidden food item (chocolate cake) was related to differences in attitudes, perceived behavioural control, and intentions in relation to healthy eating, and secondly whether the default association was related to weight change over an 18month period (and short term weight-loss in a subsample of participants with a weight-loss goal).
+Guilt has the potential to motivate behaviour change, but may also lead to feelings of helplessness and loss of control.
+
+28981834
+
+The sleep loss condition was also associated with significant increases in negative affect, negative self and other cognitions, worry, and working memory impairment.
+The aim of the study was to investigate the causal role of insomnia in psychotic experiences via a sleep restriction manipulation.
+
+30076574
+
+The majority reported that a close friend or family member was seriously injured or killed due to community violence (71%); a similar proportion had never discussed their experiences of community violence with a healthcare provider (73%).
+Several major themes emerged: (1) perceived risk of being targeted, (2) chronic stress and worry, (3) hypervigilance, (4) social breakdown, (5) chronic isolation, (6) constrained choice (loss of freedom), (7) limited access to material resources, and (8) inadequate healthcare responses
+Patients often struggled to balance the challenges imposed by community violence with the demands of living with and managing their chronic conditions.
+
+24733508
+
+Mental health outcomes included depression, anxiety, stress or distress, sadness or low mood, excessive worry, lack of enjoyment, and feelings of guilt.
+This paper examined the impact of any type of pregnancy loss on mental health in a subsequent pregnancy and postpartum.
+While grief, emotional distress and other mental health conditions have been associated with pregnancy loss, less is known about the mental health impact of these events during subsequent pregnancies and births.
+
+23386529
+
+We found that nurses experience a grieving process similar to those directly suffering from perinatal loss.
+Nurses feel sadness, incompetence, and helplessness but dare not cry in order to protect their professional image
+They may also worry about the potential legal risks of verbalizing or otherwise expressing their feelings
+However, these losses can also significantly impact upon the emotional state of nurses.
+
+29552751
+
+Many young women had depressive symptoms such as depressed mood, helplessness, hopelessness, sleep loss, psychomotor retardation and disorders of appetite.
+Young women reported fatigue, pain in the breast and hand problems with lymphedema as the most frequent physical effects of treatment.
+Other physical problems were the not periodic and painful menses, vaginal dryness and loss of libido.
+Young women worry about their future, with particular reference to their role as mothers and especially to children-bearing.
+
+28863419
+
+Although our sample size was small and homogeneous, the results demonstrated statistically significant associations between overall distress and the symptoms of fears, depression, sleep, worry, fatigue, nervousness, eating, and loss of interest in normal activities.
+Specific symptoms with a statistically significant association with a higher overall distress included: fears, depression, sleep, worry, fatigue, nervousness, eating, and loss of interest in normal activities.
+
+20955863
+
+Sleep difficulties are common in individuals exposed to stress or trauma, and maladaptive cognitive coping strategies, such as worry and fear of losing vigilance, as well as low social support, may further impair sleep quality.
+A total of 167 OEF-OIF veterans seeking behavioral or primary care services completed a questionnaire containing measures of sleep quality, combat exposure, psychopathology, fear of loss of vigilance, cognitive coping strategies, and unit and postdeployment social support within 1 year of returning from deployment.
+The results of this study suggest that interventions to mitigate worry and fear of loss of vigilance and to enhance perceived unit member support may be helpful in reducing sleep difficulties following return from deployment in this population.
+This study examined the severity and correlates of sleep difficulties in a sample of treatment-seeking veterans of Operations Enduring Freedom and Iraqi Freedom
+
+25254619
+
+Grief-related panic symptoms may be prevalent among individuals with CG and independently contribute to distress and functional impairment.
+Individuals with CG (n=146, 78% women, mean (SD) age=52.4(15.0)) were assessed for CG, DSM-IV diagnoses, work and social impairment, and with the Panic Disorder Severity Scale modified to assess symptoms "related to or triggered by reminders of your loss" and anticipatory worry
+Overall, 39.7% reported at least one full or limited-symptom grief-related panic attack over the past week, and 32.2% reported some level of anticipatory worry about grief-related panic.
+The present study examines the presence and impact of grief-related panic symptoms in CG
+
+30123880
+
+The symptoms they experienced severely were included fatigue and energy loss and being sensitive.
+The symptoms patients experienced the most commonly included being sensitive, weakness or energy loss and pain.
+The most distressing symptoms were pain, worry, numbness in hands and feet.
+
+19788771
+
+Regarding loss of hope, depressive symptoms (p = .002), lack of social support/well-being (p = .001), and number of treatments (p = .04) were significant.
+Fifty-five percent of the sample acknowledged fear of dying, and 31.6% acknowledged loss of hope in the fight against their illness.
+Separate logistic regressions were performed for worry about dying and loss of hope.
+
+21330230
+
+Current estimates of human health impacts associated with the oil spill may underestimate the psychological impact in Gulf Coast communities that did not experience direct exposure to oil.
+Relative to those with stable incomes, participants with spill-related income loss had significantly worse scores on tension/anxiety, depression, fatigue, confusion, and total mood disturbance scales; had higher rates of depression; were less resilient; and were more likely to use behavioral disengagement as a coping strategy.
+Residents of both communities displayed clinically significant depression and anxiety.
+
+27406185
+
+The presence of airway disease has a profound impact on the emotional well being of parents whilst language delay and musculoskeletal disease have the biggest impact on the quality of life of the children themselves.
+Children with MPS I suffer with head and neck disease including obstructive sleep apnoea and hearing loss
+Important themes to emerge were- the fear of dying associated with obstructive sleep apnoea, difficulties communicating at school due to the delayed acquisition of language, chronic pain and restricted mobility, physical differences and restricted participation in social activities such as sports secondary to the musculoskeletal disease burden.
+
+27575924
+
+worry was strongly positively associated with symptoms of anxiety, depression and prolonged grief
+While detrimental effects of rumination have been demonstrated following bereavement, surprisingly few studies have aimed to clarify the role of worry, repetitive thinking about potential future negative events, in adjustment to loss.
+One hundred eighty-three bereaved individuals (85.3% women) filled out questionnaires on sociodemographic and loss-related characteristics, worry, and symptom measures of depression, anxiety, and prolonged grief.
+
+29732933
+
+Challenges surround food, exercise, and sleep.
+Technology is important but does not relieve fear of hypoglycemia
+Eight themes emerged: (a) hypoglycemic worry, (b) unpredictability and loss of control, (c) contending with life stress, (d) exercise benefits and challenges, (e) a changed relationship with food, (f) sleep fears, (g) a love/hate relationship with technology, and (h) coping strategies to make it better.
+
+25499772
+
+In line with RAH, rumination was positively associated with loss avoidance.
+This may indicate that the application of exposure-based techniques can reduce rumination and loss-related psychopathology.
+In the present study, RAH was tested by investigating if rumination is associated with implicit loss avoidance.
+However, building on research on worry in generalized anxiety disorder (GAD) and rumination in post-traumatic stress disorder (PTSD), researchers recently developed the Rumination as Avoidance Hypothesis (RAH), which states that rumination after bereavement serves to avoid the reality of the loss.
+
+17888398
+
+These apparent failures are interpreted as evidence for loss of mental control, thereby exacerbating beliefs about worry uncontrollability.
+ In Session 1, participants recorded their beliefs about worry in general, including its uncontrollability
+
+30140087
+
+The RPL group had significantly (p=0.03) lower anxiety regarding potential change in their appearance than the controls, but were more likely to worry about losing their baby (58% vs. 38%) (p=0.021).
+To elucidate the psychiatric characteristics of mothers and the supportive behavior of their partners during late pregnancy, 131 mothers who gave birth at 2 general hospitals in City A between August 2009 and September 2010 (control group: n=90; recurrent pregnancy loss (RPL) group: n=41) completed a self-administered questionnaire on four separate occasions: during late pregnancy, during hospitalization, at 1-month postpartum, and at 3-months postpartum
+
+28316567
+
+To test study these hypotheses, we examined the associations between baseline patterns of intrinsic functional connectivity (iFC) of the insula and of hubs within the DN (anterior and dorsal medial prefrontal cortex [MPFC] and posterior cingulate cortex [PCC]) and treatment-related changes in worry, somatic anxiety symptoms and decentering.
+Clinically, these patients often display temperamental features reflecting heightened sensitivity to underlying motivational systems related to threat/safety and reward/loss (e.g., somatic anxiety) as well as inordinate negative self-referential processing (e.g., worry, rumination).
+This profile may reflect disruption in two important neural networks associated with emotional/ motivational salience (e.g., salience network) and self-referentiality (e.g., default network, DN).
+
+29729300
+
+Greater general worry showed enhanced delta- and theta-FN broadly across both gain and loss conditions, with theta-FN stronger for losses
+
+29778506
+
+In patients nearing the end of life, there are significant associations between disease and treatment related symptoms and unmet patient needs, which do not change substantially over time.
+At study entry, the most common disease-related symptoms were fatigue (92%), worry (89%), and trouble sleeping (76%); 73% reported being "bothered by treatment side effects", which included nausea (41%) and hair loss (51%) neither of which changed over time
+
+======================================================================
+Potential_Threat_Anxiety_
+======================================================================
+27576271
+
+Objective measures of response during these phases may help identify children at risk for anxiety; however, the complexity of current assessment techniques prevent their adoption in many research and clinical contexts.
+We propose an alternative technology, an inertial measurement unit (IMU), that enables noninvasive measurement of the movements associated with threat response, and test its ability to detect threat response phases in young children at a heightened risk for developing anxiety.
+
+28206795
+
+The current study examines attention bias toward threat during its potential first emergence by evaluating the relations between attention bias and known risk factors of anxiety (i.e., temperamental negative affect and maternal anxiety).
+
+27055095
+
+Because state anxiety disrupts executive function (Robinson, Vytal, Cornwell & Grillon, 2013), we tested whether state anxiety disrupts emotion regulation by having participants complete an instructed emotion regulation task, while under threat of unpredictable shock and while safe from shock.
+
+27375030
+
+Thus, both reductions in threat perception and experiential avoidance may mediate the broad treatment effects observed in group-based TCBT.
+While there is growing evidence that various anxiety disorders can be effectively treated by this approach, the common factors contributing to these treatment effects are not well delineated.
+Results indicated that both threat perception and experiential avoidance were significantly reduced during treatment
+
+27395806
+
+Inspired by novel network approaches to psychopathology that conceptualize symptoms as complex dynamic systems of mutually interacting variables, we computed weighted directed networks to investigate potential causal relations among laboratory measures of attentional components and symptoms of social anxiety disorder.
+Cognitive models posit that social anxiety disorder (SAD) is associated with and maintained by biased attention allocation vis-a-vis social threat.
+Together, these findings suggest the value of extending the network approach beyond self-reported clinical symptoms to incorporate process-level measures from laboratory tasks to gain new insight into the mechanisms of SAD.
+
+24286750
+
+Theoretical frameworks of anxiety propose that attentional biases to threat-related stimuli cause or maintain anxious states
+We develop a conceptual framework to make a distinction between two attentional biases: selective attention to threat and hypervigilance for threat
+The current paper draws on theoretical frameworks and key empirical studies to outline the distinctive attentional processes highlighted as being important in understanding anxiety.
+
+25969398
+
+Here, we investigated brain responses acquired with functional MRI during an instructed threat of shock paradigm used to create sustained periods of aversive anticipation.
+
+26773206
+
+Here, we tested this assumption, also considering potential modulatory influences of anticipatory threat and individuals’ sex.
+Half of the participants were assigned to a threat anticipation condition (anticipation of public speaking), whereas the other half was assigned to a control condition
+Dispositional anxiety was assessed by self-report scales, which were completed before individuals came to the laboratory.
+
+26005838
+
+This study provides novel evidence that the different anxiety sensitivity dimensions demonstrate unique relationships with the RDoC domains "acute" and "potential" threat.
+However, it is unclear whether anxiety sensitivity is also associated with sensitivity to unpredictable threat.
+
+23818424
+
+However, among individuals with high intolerance of uncertainty, the viral threat was accompanied by high levels of anxiety,
+The present investigation assessed several factors, notably appraisals of the threat, intolerance of uncertainty, and familiarity with the virus, that might contribute to reactions to a potential future viral threat.
+Canadian adults (N = 316) provided with several scenarios regarding viral threats reported moderate feelings of anxiety, irrespective of whether the viral threat was one that was familiar versus one that was entirely unfamiliar to them (H1N1 recurrence, H5N1, a fictitious virus: D3N4).
+
+25462110
+
+Evidence for attention bias specificity in anxiety would implicate involvement of previous learning and memory processes in threat-related attention bias, whereas lack of content specificity would point to perturbations in more generic attention processes.
+Enhanced clarity of mechanism could have clinical implications for the stimuli types used in Attention Bias Modification Treatments (ABMT).
+This effect was not moderated by age, type of anxiety disorder, visual attention tasks, or type of disorder-incongruent stimuli.
+
+22906122
+
+Cognitive biases are known to play an important role in anxiety.
+In this study we investigate whether maternal anxiety is associated with biases in interpretation, attention, and catastrophic processing about self-referent stimuli that may signal potential threat in the mother’s own environment.
+We consider whether maternal cognitive biases, which extend to influence how mothers process potential threats in their child’s world, may be an important mechanism through which intergenerational transmission of anxiety could occur.
+We also investigate whether maternal anxiety is associated with biases about stimuli that their own child may encounter or to child-related stimuli more broadly.
+
+26004056
+
+Therefore, the current study aimed to (i) evaluate whether processing of threat-related aspects of the environment was influenced by anxiety, (ii) evaluate whether anxiety influences the ability to utilize sensory feedback in PD while walking in threatening situations, and (iii) further understand the role of dopaminergic medication on these processes in threatening situations in PD.
+It is possible that anxiety in threatening situations might consume more processing resources, limiting the ability to process information about the environment or one's own movement (sensory feedback) especially in highly anxious PD.
+
+29607460
+
+Examining both early and late stage attentional processes in youth may advance knowledge and enhance efforts to identify biomarkers for translational prevention and treatment research.
+Youth with anxiety disorders showed significantly larger (more positive) P1 amplitudes for threatening stimuli than for neutral stimuli, and Controls showed the opposite pattern
+ERPs observed during the dot probe task indicate youth with anxiety disorders display distinct neural processing during early stage attentional orienting and processing of faces; this was not the case for Controls
+
+21939773
+
+Furthermore, a confluence of effects of cognitive task condition, threat, and individual differences in state anxiety was observed in the anterior insula, a structure that is suggested to be particularly important for the interaction between emotion and cognition.
+Finally, a standard statistical mediation analysis revealed that the relationship between state anxiety scores and interference-related responses in the left anterior insula
+The delay period was cued by a geometric-shaped stimulus indicating whether the subject was in the safe (no shock) or threat (potential shock) condition.
+
+29980493
+
+This study investigated the effect of losartan on neural correlates of processing threat versus safety stimuli in highly anxious individuals to identify potential pathways of how the drug might facilitate psychological treatment.
+
+26210058
+
+Such effects have been proposed as cognitive biomarkers for screening novel treatments for depression and anxiety.
+Our findings provide the first experimental evidence that modulating activity in the DLPFC reduces vigilance to threatening stimuli.
+
+28838469
+
+How this is realized at the neurocomputational level is unknown but could clarify the brain mechanisms disrupted in psychiatric conditions such as posttraumatic stress disorder
+Threat-induced anxiety produced unbalanced feedforward signaling in response to deviations in predicable sensory input.
+
+22178453
+
+We have recently shown, for instance, that anxiety increases the ability to a) detect and b) instigate defensive responses towards aversive and not appetitive face stimuli in healthy individuals.
+In the present translational study, we sought evidence for the proposition that dorsomedial regions of the prefrontal (DMPFC) and cingulate cortex constitute the human homologue of the rodent prelimbic and are thus associated with increased amygdala responding during this adaptive threat bias in anxiety.
+We showed that anxiety significantly increased positive DMPFC-amygdala connectivity during the processing of fearful faces.
+
+22487103
+
+Anxiety sensitivity may play a crucial role in perceptions of arousal and state anxiety in the context of potential social threats, warranting attention from researchers and clinicians focussing on social anxiety disorder
+Anxiety sensitivity is associated with the disorder and exaggerated perceptions of arousal, but has not been tested as explaining exaggerated perceived arousal in social contexts.
+
+29515476
+
+In addition, previous research has not examined whether state and trait anxiety are independently associated with threat-related biases.
+The results showed that neural responses to facial emotion in children with elevated symptoms of anxiety and depression were most evident at later processing stages characterized as evaluative and effortful.
+The emergence of anxiety during childhood is accompanied by the development of attentional biases to threat.
+However, the neural mechanisms underlying these biases are poorly understood.
+
+21376745
+
+We conclude that anxiety elicited by looming threat promotes neurocognitive processes that broaden attention and enhance sensitivity to potential danger cues, even when perceptual systems are taxed.
+Lateral prefrontal cortices also showed selective responding to fearful distractor faces under these conditions, suggesting that threat-related distractor stimuli engaged attentional control mechanisms.
+
+28985425
+
+These results suggest that alcohol intoxication dampens processing of uncertain threats while leaving processing of certain threats intact.
+As predicted, alcohol decreased defensive reactivity and subjective anxiety more during uncertain vs certain threat
+Alcohol intoxication has recently been shown to reduce defensive reactivity and anxiety more during uncertain vs certain threat.
+
+28828218
+
+To better understand the behavioral and neural processes that may be associated with risk for psychopathology, we used a virtual reality paradigm to examine behavioral and neural responses of psychiatrically healthy adults with familial history of affective disorders during anticipation of unpredictable threat.
+Subjective anxiety ratings, skin conductance, exploratory behavior, and neural responses were examined for threat versus safe conditions.
+Mood and anxiety disorders are characterized by altered prefrontal-amygdala function and increased behavioral inhibition (BI) in response to potential threat.
+
+17598732
+
+We investigated both types of threat analysis by recording brain potentials in response to threat and neutral words.
+These results suggest that unconscious analysis of threat is intensified in those prone to anxiety, as is a later stage of threat
+Personality testing was used to identify participants who were either high or low in trait anxiety (TA).
+
+27614663
+
+The looming cognitive style of fathers, but not mothers, was significantly related to greater anxiety in adult offspring.
+The present study offers a first step by exploring the link between mother and father tendencies to view potentially threatening situations as rapidly escalating toward dreaded outcomes (i.e., looming cognitive style) and the emotional disturbances and looming cognitive styles of their adult offspring.
+The findings suggest that it may prove fruitful to consider parental vulnerabilities such as looming cognitive styles in comprehensive cognitive and interpersonal models of anxiety.
+
+24708496
+
+However, genetic ancestry was not associated with threat-potentiated startle in any racial group.
+It is unclear though whether these group differences extend to biomarkers of anxiety disorders and whether genetic differences play a role.
+This study compared self-identified Caucasian, Latino, and Asian persons (total N = 174) on startle response during a baseline period and while anticipating unpredictable threat-a putative biomarker for certain anxiety disorders–as well as predictable threat.
+
+======================================================================
+Sleep_Wakefulness
+======================================================================
+30944226
+
+Hammock positioning was an effective treatment option to reduce pain and improve sleep-wakefulness state.
+However, few studies have investigated the extent to which hammock positioning reduces pain and improves the sleep-wakefulness state compared with traditional positioning.
+
+28840789
+
+These findings are consistent with previous findings showing that large-spotted nestlings switch more frequently between wakefulness and sleep, resulting in higher levels of vigilance compared to small-spotted conspecifics.
+This raises the possibility that individual spottiness could be associated with rhythmicity in sleep-wakefulness.
+Owlets showed ultradian rhythms in sleep-wakefulness, with a period length of 4.5 to 4.9 h.
+
+28272728
+
+This paper reviews and updates knowledge about the involvement of the histaminergic system in sleep-wakefulness cycle organization.
+Histamine neurons are active during waking, especially with high attention need, and remain silent in both non-REM and REM sleep.
+Finally, histaminergic neurons inhibit REM-on hypothalamic neurons containing melanine-concentrating hormone, thus supporting a permissive role of tuberomammillary nucleus in REM sleep.
+
+26719553
+
+Hypothalamic Orexin-containing neurons can be considered as the cellular targets for regulating of sleep homeostasis through the acceleration of recovery of wakefulness, and SWC in general, from barbiturate anesthesia-induced deep sleep.
+The work was aimed for the ascertainment of following question - whether Orexin-containing neurons of dorsal and lateral hypothalamus and brain Orexinergic system in general are those cellular targets which can accelerate recovery of disturbed sleep homeostasis and restoration of sleep-wakefulness cycle behavioral states from barbiturate anesthesia-induced artificial sleep.
+
+30041936
+
+To determine whether perinatal smoking exposure is associated with gastroesophageal reflux (GER)-related changes in sleep-wakefulness states in neonates.
+The more frequent occurrence and greater proximal migration of GER-imp in the smoking-exposed group (especially during rapid eye movement sleep) may have clinical relevance.
+
+24323968
+
+The work was aimed for the ascertainment of following question - whether Orexin-containing neurons of dorsal and lateral hypothalamic, and brain Orexinergic system in general, are those cellular targets which can speed up recovery of disturbed sleep homeostasis and accelerate restoration of sleep-wakefulness cycle phases during some pathological conditions - experimental comatose state and/or deep anesthesia-induced sleep.
+Study was carried out on white rats.
+Speed up recovery of sleep homeostasis was manifested in acceleration of coming out from comatose state and deep anesthesia induced sleep and significant early restoration of sleep-wakefulness cycle behavioral states.
+Modeling of experimental comatose state was made by midbrain cytotoxic lesions at intra-collicular level.
+Animals were under artificial respiration and special care.
+
+26984688
+
+Anesthetics affect various endogenous sleep-wakefulness-related substances; however, the modulation pattern may depend on the type of anesthetic.
+The process of postanesthetic sleep disturbance was agent specific.
+We evaluated changes in sleep architecture and the concentration of OX and MCH during the peri-anesthetic period.
+
+24311996
+
+In conclusion, Orx neurons of the PeFLH area seem to be an important organizer of the wakefulness and sleep stages in order to maintain a normal succession of stages during the sleep-wakefulness cycle.
+The aim of the present study was to elucidate the synaptic interactions between Orx neurons located in the PeFLH area and different brainstem neurons involved in the generation of wakefulness and sleep stages such as the locus coeruleus (LC) nucleus (contributing to wakefulness) and the oral pontine reticular nucleus (PnO) nucleus (contributing to REM sleep).
+
+27630549
+
+The goal of current study was to understand the effects of circadian rhythm disruption, caused by a short light-dark cycle regime, on activity of the cerebral cortex in rodents.
+Our results thus provide deeper understanding of the mechanisms underlying the impairment of learning and memory retention, which is associated with disturbed circadian regulation.
+
+30695501
+
+The aim of this study was to examine the terms of formation of the orexinergic system in the rat postnatal ontogenesis and to assess the role of orexin A in SWC organization under normal conditions and after prenatal hypoxia realized on days 14 and 19 of the embryogenesis.
+These changes were reflected in the SWC formation in the 30-day-old rats as shortening of the slow-wave phase of sleep, increase in the fitful sleep and in the number of transitions from the slow-wave to the fast-wave phase of sleep.
+
+26859995
+
+The conclusion is, the increase in activity level and decrease in total amount of slow wave and paradoxical sleep in model animals are taking place at the same circadian period of the secretion of pineal melatonin as sleep disorders in patients.
+The results of study of sleep-wakefulness cycle in experimental models of pre-clinical and early clinical stages of Parkinson’s disease present and compared to some clinical examples.
+
+25570915
+
+These classifiers tend to be unbalanced, with a tendency to overestimate the detection of sleep, at the expense of poorer detection of wakefulness.
+In this work an Artificial Neural Network (ANN), sleep-wakefulness classifier is presented.
+Sleep and Wakefulness data were balanced to improve the system training.
+
+25323301
+
+Age did not influence sleep in general, but older workers in the quickly forward-rotating three-shift system had less sleep complaints than their younger colleagues.
+Shift work was associated with problems to fall asleep (p < 0.001) and feeling of the current working time being harmful to sleep and wakefulness (p < 0.001).
+The interaction of age with shift rotation in relation to sleep-wakefulness and inflammation were studied among male employees (n = 772).
+
+20621165
+
+Since alcohol consumption has tremendous impact on sleep, the present study compared the effects of binge alcohol administration on sleep-wakefulness in P and NP rats.
+Our results suggest that, as compared to NP rats, the P rats were more susceptible to sleep disruptions after binge ethanol treatment.
+
+19721817
+
+The main focus of this review is to update and illustrate the available data on the actions of Hcrt/Orx neuropeptides with special interest in their participation in the control of the sleep-wakefulness cycle and the regulation of energy homeostasis.
+In recent years it has become clear that these neuropeptides are involved in the regulation of many organic functions, such as feeding, thermoregulation and neuroendocrine and cardiovascular control, as well as in the control of the sleep-wakefulness cycle.
+
+23401913
+
+In the review are shown the data about correlations of quantitative characteristics of sleep and wake in some mammals with basic metabolic rate, lifestyle, environmental habits.
+On the basis of own concepts about evolutionary development of sleep-wakefulness cycle in vertebrates the interactions of telencephalic, diencephalic and rhombencepalic parts of brain in the processes of cycle wakefulness cycle integration are discussed.
+
+19931991
+
+Follow-up procedures combining drug monitoring and counseling during pregnancy and in the first months after birth enhance the development of state regulation in terms of sleep-wakefulness patterns.
+This study examines sleep-wakefulness-distress patterns as indicators of regulatory mechanisms at 3 months of age.
+
+29304108
+
+Using statistical analysis of bout duration, Markov chains of sleep-wk dynamics and quantitative EEG analysis, we evaluated the influence of light/dark (ld) changes on brain function along the sleep-wk cycle.
+In conclusion, we propose an extended Markov model of sleep using four stages (wkl, nrem, rem, wkb) as a fully adequate model accounting for both modulation of sleep-wake dynamics based on the differential regulation of long-wk (high gamma/theta) epochs during dark and light phases.
+
+21308795
+
+Our results show that Hcrt1/OxA hypothalamic neurons likely excite LC neurons that project to the mPFC, and thus activate EEG and facilitate wakefulness.
+We aimed to determine whether Hcrt1/OxA neurons innervate LC neurons (noradrenergic and nonnoradrenergic) that project to the mPFC, thereby sustaining behavioral wakefulness.
+
+18953995
+
+The aim of our study was to investigate the role of dopaminergic system in telencephalic and diencephalic brain regions of vertebrates in sleep-wakefulness cycle.
+Data obtained are discussed in terms ofphylo- and ontogenetic development of neurosecretory and neurotransmitter functions of dopaminergic system in evolutionary old diencephalic and evolutionary young telencephalic brain regions of vertebrates, which are the important systems of starting and maintenance of some functional conditions of the organism in sleep-wakefulness cycle.
+
+18406065
+
+Numerous studies have shown that systemic administration of THIP reduces wakefulness and increases sleep both in humans and rats [Lancel M, Langebartels A (2000) Gamma-aminobutyric acid(A) (GABA(A)) agonist 4,5,6,7-tetrahydroisoxazolo[4,5-c]pyridin- 3-ol persistently increases sleep maintenance and intensity during chronic administration to rats.
+Since the perifornical lateral hypothalamus (PFH) contains orexin neurons and orexin neurons are critical for maintenance of arousal [McCarley RW (2007) Neurobiology of rapid eye movement (REM) and NREM sleep Sleep Med 8:302-330], we hypothesized that THIP may act on PFH neurons to promote sleep.
+This is the first study implicating the delta-subunit containing extrasynaptic GABA(A) receptors in PFH in control of sleep-wakefulness in freely behaving rats.
+
+27769744
+
+We hypothesized that pannexin1 may contribute to sleep-wake cycle regulation through extracellular adenosine, a well-established paracrine factor in slow wave sleep.
+At the same time, sleep rebound after a 6-h sleep deprivation remained unchanged in Panx1(-/-) mice as compared to the control animals.
+
+18440150
+
+To evaluate the role of AD in the orexinergic LH and its influences on sleep-wakefulness, we designed two experiments in freely behaving rats.
+Recent evidence suggests that adenosine (AD), a homeostatic sleep factor, may act via A1 receptor (A1R) to control orexinergic activity and regulate sleep-wakefulness [Thakkar MM, Winston S, McCarley RW (2002) Orexin neurons of the hypothalamus express adenosine A1 receptors.
+This is the first study that implicates endogenous adenosine to have a functional role in controlling orexinergic tone and influencing the homeostatic regulation of sleep-wakefulness.
+
+25416225
+
+Alcoholization disturbs the subtle mechanisms of the sleep due to destruction of brain homeostasis.
+The purpose of the present work was to study the effects of tolerance to ethanol on the sleep-wakefulness cycle (SWC) structure.
+
+21166301
+
+Supported by this description, we then present a detailed review and update of the structures involved in the phase of wakefulness (W), including their morphological, functional, and chemical characteristics, as well as their anatomical connections.
+For a long time, lesions and electrical stimulation of brain structures, as well as connection studies, were the main methods used to decipher the foundations of the functional anatomy of the SWC
+The awake "thalamo-cerebral cortex unit" controls and adjusts the activation pattern through a top-down action on the subcortical cellular groups that are the origin of the "ascending reticular activating system".
+
+17948215
+
+through which they may also indirectly activate the cerebral cortex and enhance wakefulness; as well, these neurons inhibit REM sleep generation in the ventral pontine tegmentum.
+The hypoactivity of this system supports the sleep cycle fragmentation and general disorganization appearing in narcolepsy, as well as momentary interruption of wakefulness by REM sleep episodes.
+In addition, the absence of either these peptides or their receptors is associated to narcolepsy-cataplexy, a disease in which the sleep-wakefulness cycle is completely disorganized.
+
+24550770
+
+In order to understand the differential contribution of both receptors in regulating sleep/wakefulness states we compared the pharmacological effects of a newly developed OX2R antagonist (2-SORA), Compound 1 m (C1 m), with those of a dual orexin receptor antagonist (DORA), suvorexant, in C57BL/6J mice.
+Together, these results suggest that an orexin-mediated suppression of REM sleep via potential activation of OX1Rs in the locus coeruleus may possibly contribute to the differential effects on sleep/wakefulness exerted by a DORA as compared to a 2-SORA.
+
+20334466
+
+Clinicians should be aware of the possible transition from exceptionally vivid dreams to REM sleep behavior disorder and psychosis based on dream content as an adverse effect of mirtazapine.
+Reports indicate that these agents can induce visual hallucinations, sometimes characterized as hypnopompic or associated with a dissociated sleep-wakefulness state.
+
+26434098
+
+In this mini review, I will show the regulatory mechanism of sleep/wakefulness by these neurons using optogenetics.
+These neurons are implicated in sleep/wakefulness regulation.
+We applied optogenetics to hypothalamic peptidergic neurons such as orexin/hypocretin neurons or melanin concentrating hormone (MCH) neurons.
+
+23158520
+
+To investigate the relationship between sleep/wakefulness and refluxes 45 newborns with gastroesophageal reflux symptoms were studied with combined multichannel intraluminal impedance and pH monitoring
+
+30239405
+
+Future research should use a greater sample size and other factors that influence sleep should be further investigated.
+To determine the impact of quiet time on reducing sound levels and increasing total sleep time.
+
+25509168
+
+Some examples of the responses on wakefulness-sleep cycle of the effects of experimental manipulations with the histaminergic system are given.
+
+18702704
+
+Here, we report the effects on sleep-wakefulness produced by low-volume microinjections of hypocretin (Hcrt)1 (20-30 nL, 100, 500 and 1000 microm) and carbachol (20-30 nL, 0.1 m) delivered in two areas of the oral pontine tegmentum of free-moving cats with electrodes for chronic sleep recordings: in the dorsal oral pontine tegmentum (DOPT) and in the ventral part of the oral pontine reticular nucleus (vRPO).
+Carbachol in the DOPT produced dissociate polygraphic states, with some but not all REM sleep signs.
+Hypocretinergic/ orexinergic signaling is lost in narcoleptics and this absence would mean that pontine defacilitation/inhibition of REM sleep would also be absent, explaining why these patients can fall directly into REM sleep from W.
+
+23730297
+
+Orexin A and orexin B are hypothalamic neuropeptides that play critical roles in the regulation of sleep/wakefulness, as well as in a variety of physiological functions such as emotion, reward, and energy homeostasis.
+This review presents and discusses the current knowledge concerning the physiological roles of each orexin receptor subtype, focusing on the regulation of sleep/wakefulness.
+
+23508038
+
+This review discusses the mechanism by which orexins maintain sleep/wakefulness states and how this mechanism relates to other systems that regulate emotion, reward, and energy homeostasis.
+They were initially recognized as regulators of feeding behavior, but they are mainly regarded as key modulators of the sleep/wakefulness cycle.
+
+23052595
+
+Our data demonstrate that the evolution of seizures into different phases cluster at specific times of day and at specific phases of the sleep/wakefulness cycle.
+We aimed to describe the distribution of the clinical evolution of seizures across time of day and sleep/wake state.
+
+17988749
+
+Altogether, the data indicate that cell groups implicated in the regulation of sleep and wakefulness, circadian timing, and their interactions could be sensitive to synaptic effects of immune molecules.
+
+18221690
+
+The aims of this study were to assess AS in healthy subjects over a 24-hour period, to characterize any differences that occur between sleep and wakefulness, and to investigate any changes in AS that occur during the transition from wakefulness to sleep or from sleep to wakefulness.
+In particular, the magnitude and speed of the changes in hemodynamic variables that occur during transitions between wakefulness and sleep and between sleep and wakefulness are regarded as factors that either predict or determine target organ damage and cardiovascular risk.
+Arterial stiffness was greater during sleep than wakefulness, increased during the transition from wakefulness to sleep, and decreased during the transition from sleep to wakefulness.
+
+22647470
+
+Galanin is localized to the prepotic area of the hypothalamus and is likely to be involved in the promotion and maintenance of sleep.
+A series of studies have suggested that orexin deficiency causes narcolepsy in humans and other mammalian species, highlighting the roles of this hypothalamic neuropeptide in the regulation of sleep and wakefulness.
+
+22612581
+
+Moreover, visual identification of changes in the dominant electroencephalogram activity at the transition from wakefulness to sleep and vice versa is often very subjective.
+This approach has therefore the potential to be used to reliably measure the incidence and location of sleep-wake transitions during abnormal breathing patterns, as well as their temporal relationship with major ventilatory events.
+The overall analysis process comprises three major phases: (1) manual identification of relevant electroencephalogram/electrooculogram features and events, including a sample of unequivocal alpha and theta-delta activity; (2) automatic statistical discrimination of dominant electroencephalogram activity; and (3) state classification (wakefulness, non-rapid eye movement-1 and -2).
+The latter is carried out by merging information from visual scoring with the output of the discriminator.
+
+21950094
+
+Brief anatomical, physiological and neurochemical basics of the regulation of wakefulness, slow wave (NREM) sleep and paradoxical (REM) sleep are regarded as representing by the end of the first decade of the second millennium.
+
+15961331
+
+Orexin might be especially important for stabilization of behavioral states, because the major symptom in narcolepsy is instability of each behavioral state, which results in sleep/wakefulness fragmentation.
+
+16531360
+
+The results indicate of no direct link between age-related differences in subjective sleepiness and performance at night work.
+The aim of the present study was to study work shift related interactions of age with sleep-wakefulness, performance, and social life.
+
+26564126
+
+This study tested the hypothesis that Regulators of G protein Signaling (RGS) proteins contribute to the regulation of wakefulness, non-rapid eye movement (NREM) sleep, and rapid eye movement (REM) sleep, and to sleep disruption caused by volatile anesthetics.
+RGS proteins and Galphai2 play a significant role in regulating states of wakefulness, NREM sleep, and REM sleep.
+
+16126287
+
+The effects of the destruction of the medial septal neurons (MS) with N-methyl-d-aspartic acid on sleep-wakefulness (S-W), body temperature (Tb), locomotor activity (LMA) and thermal preference were studied in male Wistar rats.
+It can, therefore, be concluded that the MS lesion affected the initiation of SWS, as there was a decrease in the frequency of SWS episodes.
+
+16339018
+
+Here, we investigated the relative contribution of 5-HT(2A), 5-HT(2B), and 5-HT(2C) receptor subtypes to NREMS and breathing during sleep, using 5-HT2 subtype-selective ligands in wild-type (5-HT(2A)+/+) and knock-out (5-HT(2A)-/-) mice that do not express 5-HT(2A) receptors.
+Our results demonstrate that 5-HT exerts a 5-HT(2B)-mediated facilitation of NREMS, and an influence respectively inhibitory on NREMS and facilitatory on sleep apnea generation, via 5-HT(2A) receptors.
+
+25865143
+
+These results are consistent with the notion that drops in arousal and consciousness are facilitated by a release of feedback cortical inhibition.
+Nevertheless, the causal relationship between these two types of electrophysiological changes, as well as the cortical mechanisms underlying changes in arousal and consciousness, remain poorly understood.
+They are accompanied by major electrophysiological changes, including an emergence of low-frequency (sleep-like) activity and a loss of mid-frequency (wake-like) activity that has been linked to feedback processes of the brain.
+
+15152981
+
+On the other hand, in a few studies monitoring body temperature with a rectal probe, preoptic injection of the alphal adrenergic agonist methoxamine produced contradictory changes in body temperature and sleep-wakefulness.
+A short period of wakefulness, coinciding with the maximum fall in body temperature (30 min after injection) occurred when methoxamine was administered at higher doses.
+In the present study, we monitored body temperature and sleep-wakefulness simultaneously after the micro-injection of 0.5, 1, and 2 micromol methoxamine, into the medial preoptic area of adult male Wistar rats.
+
+======================================================================
+Sustained_Threat
+======================================================================
+26678871
+
+Even though, results from neuroimaging studies support this distinction, a specific effect of a temporal dissociation with phasic responses to onset versus sustained responses during prolonged states of threat anticipation has not been shown yet.
+To explore this issue, we investigated brain activation during anticipation of threat in 38 healthy participants by means of functional magnetic resonance imaging.
+These findings suggest that the amygdala is responsive to the onset of cues signaling the unpredictable occurrence of a potential threat while the BNST in concert with other areas is involved in sustained anxiety
+
+26877129
+
+sensitivity to internal threat and the ERN-checking relationship may follow a developmental course as adolescents develop behavioral control.
+Collectively, these data suggest that the magnitude of the ERN is sensitive both to specific anxiety-related processes and depression, in opposing directions that may reflect variation in internal threat sensitivity.
+We also discuss evidence for the placement of the ERN in the "Sustained Threat" construct, as well as evidence that the ERN may more specifically reflect sensitivity to endogenous threat. 
+
+28066706
+
+In the current fMRI experiment, 16 female BII phobics and 16 female healthy controls anticipated the presentation of phobia-specific and neutral pictures.
+These results suggest that BII phobia is characterized by activation of a typical neural defense network during threat anticipation, with anxiety as the predominant emotion.
+On the behavioral level, anxiety dominated the anticipatory period in BII phobics relative to controls, while both anxiety and disgust were elevated during picture presentation.
+
+28331799
+
+Therefore, differences in threat predictability have been associated with pathological states of anxiety with specific phobia (SP) representing phasic fear as heightened response to predictable threat, while panic disorder (PD) is characterized by sustained anxiety (unpredictable threat) and, as a consequence, overgeneralization of fear.
+Maladaptive, sustained anxious apprehension is thought to result in overgeneralization of anxiety and thereby to contribute to the development of anxiety disorders.
+
+26877131
+
+In this commentary, I explore whether the error-related negativity can be considered as a transdiagnostic marker of sustained threat based on findings from Weinberg, Meyer et al's (2016) study in relation to current findings in the literature
+
+26369836
+
+In this article, we review approaches to assessing these biases, their links with psychopathology, and the underlying neural influences.
+Biased attention to emotional stimuli plays a key role in the RDoC constructs of Sustained Threat and Loss.
+
+27208859
+
+We investigated how the predictability of threat influences the neural visual processing of threat-irrelevant fearful and neutral faces.
+Thirty-two healthy individuals participated in an NPU-threat test, consisting of a safe or neutral condition (N) and a predictable (P) as well as an unpredictable (U) threat condition, using audio-visual threat stimuli.
+Importantly, we obtained only main effects but no significant interaction of facial expression and conditions of different threat predictability, neither in behavioral nor in neural data.
+
+30178728
+
+A systematic review of experimental studies examining threat- related attention biases in PTSD
+However, consistent evidence emerged for sustained attention on threat (i.e. attention maintenance)
+
+25460498
+
+First, we wanted to further elucidate the neuronal correlates of long-lasting contextual threat within a highly ecologically setting created in virtual reality (VR).
+As a consequence the context becomes the best predictor of the threat and later induces anxiety (sustained fear response).
+
+29397080
+
+These data suggest that dysfunction in neural markers of sustained attention to threat and reward relate in specific ways to transdiagnostic symptom dimensions of anxiety and depression
+The present study measured transdiagnostic symptoms of anxiety and depression in 205 young adults and recorded affect-modulated event-related potentials in response to task-irrelevant pictures in a speeded response task.
+
+29382815
+
+This follow- up study investigates the changes in functional connectivity of these structures during sustained anticipation of electric shock.
+Understanding the differential network structures of these two regions and how they contribute to processing under threat will help elucidate the building blocks of the anxious state.
+
+20497902
+
+Here, we applied psychophysiological and neuroimaging methodologies sensitive to sustained arousal-based responses to test the role of the human BNST in mediating environmental threat monitoring, a potential experimental model for sustained anxiety symptoms.
+A forebrain region consistent with the BNST showed greater overall recruitment and exaggerated tracking of threat proximity in individuals with greater anxiety
+
+25969398
+
+Researchers have only recently begun using functional neuroimaging to explore the human response to periods of sustained anxious anticipation, namely potential threat.
+In this re-analysis of previously published data, we employed quadratic discriminant analysis to classify the multivariate pattern of whole-brain functional connectivity and to identify connectivity changes during periods of potential threat.
+
+23342060
+
+The present study examined the effects of sustained anticipatory anxiety on the affective modulation of the eyeblink startle reflex.
+The present data confirms the importance of simultaneously manipulating phasic-fear and sustained-anxiety in studying both normal and abnormal anxiety.
+
+26115440
+
+Processes of phasic fear responses to threatening stimuli are thought to be distinct from sustained, anticipatory anxiety toward an unpredicted, potential threat.
+Whereas increased amygdala activity has been associated with phasic fear, sustained anxiety has been linked with activation of the bed nucleus of stria terminalis (BNST), anterior cingulate cortex (ACC), and the insula.
+Sustained fear processing was significantly related to activation in the insula and ACC, and phobic patients showed a stronger activation than controls of the BNST and the right ACC under conditions of sustained fear.
+
+23127296
+
+Over time, this pattern of responding can promote chronic inflammation through structural and functional brain changes, altered sensitivity of immune cell receptors, dysregulation of the HPA axis and ANS, and accelerated cellular aging
+Elevated inflammation, a common risk factor across diseases of aging, may play a key role in the relationship between anxiety and physical disease.
+Specifically we propose that exaggerated neurobiological sensitivity to threat in anxious individuals may lead to sustained threat perception
+
+28070973
+
+Based on separate analysis models, we investigated phasic and sustained brain activations.
+PTSD patients reported increased anxiety during anticipation of aversive versus neutral sounds.
+Feelings of uncontrollability and anxiety regarding possibly harmful events are key features of post-traumatic stress disorder (PTSD) symptomatology.
+Additionally, the dissociation between amygdala and BNST indicates distinct temporal and functional characteristics and suggests that phasic fear and sustained anxiety responses are enhanced during unpredictable anticipation of aversive stimuli in PTSD
+
+21601831
+
+These findings provide evidence for unconscious threat processing in specific phobia, with the magnitude of amygdala responses specifically potentiated by sustained hypervigilance for threat.
+Furthermore, considering that sustained vigilance for threat constitutes a crucial characteristic of specific phobias, we hypothesized a possible role of this symptom in modulating amygdala sensitivity to disorder-relevant cues.
+
